@@ -4,7 +4,7 @@
 
 -🔭 I’m currently working on web development Full-Stack
 
--🌱 I’m currently learning about IoT, Computer Networks, Distributed Computing, AI, Machine Learning and Deep Learning
+-🌱 I’m currently learning about Cloud Computing, Azure, Computer Networks, Distributed Computing, AI, Machine Learning and Deep Learning
 
 -👯 I’m looking to collaborate on new web applications
 
