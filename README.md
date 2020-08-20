@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi there 👋🏾
 
-<!--
-**IsaacAlves7/IsaacAlves7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚛️ About me: I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science. 👨🏾‍💻
 
-Here are some ideas to get you started:
+-🔭 I’m currently working on web development Full-Stack.
+-🌱 I’m currently learning about IoT, Computer Networks, Distributed Computing, AI, Machine Learning and Deep Learning.
+-👯 I’m looking to collaborate on new web applications.
+-😄 I really like to learn.
+-💜 My passion: I'm very passionate about technologies and i'm always learning and creating new applications, projects and implementing them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Focused in Full-Stack development with: HTML5 , CSS3, JavaScript, jQuery, Sass, Vue.js, React.js, React Native, IONIC, Angular.js, Node.js, Java, Python, PHP, C# and C++.
+
+🚀 I'm Junior Full-Stack Developer. 🛸
+
+⚓ And future 1st lieutenant. 🎖️
