@@ -1,6 +1,6 @@
 ### Hi there 👋🏾
 
-⚛️ About me: I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science. 👨🏾‍💻
+-⚛️ About me: I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science. 👨🏾‍💻
 
 -🔭 I’m currently working on web development Full-Stack
 
@@ -14,7 +14,7 @@
 
 -🎯 Focused in Full-Stack development with: HTML5 , CSS3, JavaScript, jQuery, Sass, Vue.js, React.js, React Native, IONIC, Angular.js, Node.js, Java, Python, PHP, C# and C++
 
-🚀 I'm Junior Full-Stack Developer 🛸
+_🚀I'm Junior Full-Stack Developer🛸_
 
 <!--
 **IsaacAlves7/IsaacAlves7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
