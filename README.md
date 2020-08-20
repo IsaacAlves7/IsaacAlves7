@@ -1,8 +1,6 @@
 ### Hi there 👋🏾
 
 ⚛️ About me: I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science. 👨🏾‍💻
-<!--
-**IsaacAlves7/IsaacAlves7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -🔭 I’m currently working on web development Full-Stack.
 
@@ -19,3 +17,6 @@
 🚀 I'm Junior Full-Stack Developer. 🛸
 
 ⚓ And future 1st lieutenant. 🎖️
+
+<!--
+**IsaacAlves7/IsaacAlves7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
