@@ -13,7 +13,6 @@
 -🎯 Focused in Full-Stack development with: HTML5 , CSS3, JavaScript, jQuery, Sass, Vue.js, React.js, React Native, IONIC, Angular.js, Node.js, Java, Python, PHP, C# and C++
 
 🚀 I'm Junior Full-Stack Developer 🛸
-
 ⚓ And future 1st lieutenant 🎖️
 
 
