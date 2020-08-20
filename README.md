@@ -16,6 +16,5 @@
 
 🚀 I'm Junior Full-Stack Developer 🛸
 
-⚓ And future 1st lieutenant 🎖️
 <!--
 **IsaacAlves7/IsaacAlves7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
