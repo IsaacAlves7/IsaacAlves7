@@ -14,7 +14,7 @@
 ## Skills
 <!--The same height for everybody-->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/725px-HTML5_logo_resized.svg.png" width="30" height="35" alt="HTML5"> <img src="https://res.cloudinary.com/eternitech/image/upload/$wpsize_!_cld_full!,w_365,h_512,c_scale/v1588246378/eternitech/CSS3.png" width="30" height="35" alt="CSS3"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="35" height="35" alt="JS"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2000px-Webysther_20160423_-_Elephpant.svg.png" width="50" height="35" alt="PHP"> <img src="https://s.glbimg.com/po/tt/f/original/2012/04/17/mysql-logos.gif" width="60" height="35" alt="MySQL"> 
-<img src="https://vignette.wikia.nocookie.net/lpunb/images/e/e4/Python.png/revision/latest/scale-to-width-down/340?cb=20151113030452" width="35" height="35" alt="Python"> <img src="https://www.jlcarneiro.com/wp-content/uploads/Image/galleries/java-200x200.png" width="35" height="35" alt="Java">
+<img src="https://vignette.wikia.nocookie.net/lpunb/images/e/e4/Python.png/revision/latest/scale-to-width-down/340?cb=20151113030452" width="35" height="35" alt="Python"><img src="https://www.jlcarneiro.com/wp-content/uploads/Image/galleries/java-200x200.png" width="35" height="35" alt="Java">
 
 
 <p align="center"><i>🚀I'm Junior Full-Stack Developer🛸</i></center>
