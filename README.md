@@ -1,6 +1,6 @@
 # Hi there 👋🏾
 <!--Markdown-->
-<center><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F375206212681334483%2F&psig=AOvVaw08xRiy-tZ7lRIPe0vcxwTD&ust=1598325027747000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLC6wu_ususCFQAAAAAdAAAAABAD"/></center>
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F839288080536076438%2F&psig=AOvVaw2_1LxPFHrli33oZxTXSeOr&ust=1598327273324000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICuoJ33susCFQAAAAAdAAAAABAD)
 <ul>
 <li>⚛️ About me: I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science. 👨🏾‍💻</li>
 <li>🔭 I’m currently working on web development Full-Stack</li>
