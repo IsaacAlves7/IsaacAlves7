@@ -10,4 +10,16 @@
  <li>💜 My passion: I'm very passionate about technologies and i'm always learning and creating new applications, projects and implementing them</li>
  <li>🎯 Focused in Full-Stack development with: HTML5 , CSS3, JavaScript, jQuery, Sass, Vue.js, React.js, React Native, IONIC, Angular.js, Node.js, Java, Python, PHP, C# and C++  </li>
 </ul>
+
+## Skills
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/725px-HTML5_logo_resized.svg.png" width="20" height="25" alt="HTML5">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/725px-HTML5_logo_resized.svg.png" width="20" height="25" alt="HTML5">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/725px-HTML5_logo_resized.svg.png" width="20" height="25" alt="HTML5">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/725px-HTML5_logo_resized.svg.png" width="20" height="25" alt="HTML5">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/725px-HTML5_logo_resized.svg.png" width="20" height="25" alt="HTML5">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/725px-HTML5_logo_resized.svg.png" width="20" height="25" alt="HTML5">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/725px-HTML5_logo_resized.svg.png" width="20" height="25" alt="HTML5">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/725px-HTML5_logo_resized.svg.png" width="20" height="25" alt="HTML5">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/725px-HTML5_logo_resized.svg.png" width="20" height="25" alt="HTML5">
+
 <p align="center"><i>🚀I'm Junior Full-Stack Developer🛸</i></center>
