@@ -12,7 +12,7 @@
 </ul>
 
 ## Skills
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/725px-HTML5_logo_resized.svg.png" width="30" height="35" alt="HTML5"> <img src="https://res.cloudinary.com/eternitech/image/upload/$wpsize_!_cld_full!,w_365,h_512,c_scale/v1588246378/eternitech/CSS3.png" width="30" height="35" alt="CSS3"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="30" height="35" alt="JS">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/725px-HTML5_logo_resized.svg.png" width="30" height="35" alt="HTML5"> <img src="https://res.cloudinary.com/eternitech/image/upload/$wpsize_!_cld_full!,w_365,h_512,c_scale/v1588246378/eternitech/CSS3.png" width="30" height="35" alt="CSS3"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="35" height="35" alt="JS">
 
 
 <p align="center"><i>🚀I'm Junior Full-Stack Developer🛸</i></center>
