@@ -8,7 +8,7 @@
  <li>🌱 I’m currently learning about Cloud Computing, Azure, Computer Networks, Distributed Computing, AI, Machine Learning and Deep Learning</li>
  <li>👯 I’m looking to collaborate on new web applications</li>
  <li>💜 My passion: I'm very passionate about technologies and i'm always learning and creating new applications, projects and implementing them</li>
- <li>🎯 Focused in Full-Stack development with: HTML5 , CSS3, JavaScript, jQuery, Sass, Vue.js, React.js, React Native, IONIC, Angular.js, Node.js, Java, Python, PHP, C# and C++  </li>
+ <li>🎯 Focused in Full-Stack development</li>
 </ul>
 
 ## Skills
