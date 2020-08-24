@@ -1,6 +1,6 @@
 # Hi there 👋🏾
 <!--Markdown-->
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F839288080536076438%2F&psig=AOvVaw2_1LxPFHrli33oZxTXSeOr&ust=1598327273324000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICuoJ33susCFQAAAAAdAAAAABAD)
+![](https://i.pinimg.com/originals/9f/c2/12/9fc2126eec2c0a3876e3f2097af9b983.gif)
 <ul>
 <li>⚛️ About me: I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science. 👨🏾‍💻</li>
 <li>🔭 I’m currently working on web development Full-Stack</li>
