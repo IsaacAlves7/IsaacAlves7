@@ -3,7 +3,7 @@
 ![](https://i.pinimg.com/originals/9f/c2/12/9fc2126eec2c0a3876e3f2097af9b983.gif)
 <ul>
  <li>⚛️ About me: I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science. 👨🏾‍💻</li>
- <li>😄 I really like to learn more and more</li>
+ <li>😄 I really like to learn more and more!</li>
  <li>🔭 I’m currently working on web development Full-Stack</li>
  <li>🌱 I’m currently learning about Cloud Computing, Azure, Computer Networks, Distributed Computing, AI, Machine Learning, Deep Learning and Natural Language Processing</li>
  <li>👯 I’m looking to collaborate on new web applications</li>
