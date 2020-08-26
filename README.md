@@ -5,7 +5,7 @@
  <li>⚛️ About me: I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science. 👨🏾‍💻</li>
  <li>😄 I really like to learn more and more!</li>
  <li>🔭 I’m currently working on web development Full-Stack</li>
- <li>🌱 I’m currently learning about Cloud Computing, Azure, Computer Networks, Distributed Computing, AI, Machine Learning, Deep Learning and Natural Language Processing</li>
+ <li>🌱 I’m currently learning about API's, Cloud Computing, Azure, Computer Networks, Distributed Computing, AI, Machine Learning, Deep Learning and Natural Language Processing</li>
  <li>👯 I’m looking to collaborate on new web applications</li>
  <li>💜 My passion: I'm very passionate about technologies and i'm always learning and creating new applications, projects and implementing them</li>
  <li>🎯 Focused in Full-Stack development</li>
