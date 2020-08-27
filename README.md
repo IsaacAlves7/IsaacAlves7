@@ -1,6 +1,6 @@
 ## Hi there 👋🏾, I'm Isaac Alves Pinheiro!
 <!-- I created my README.md using Markdown & HTML5 -->
-<center><img src="https://i.pinimg.com/originals/9f/c2/12/9fc2126eec2c0a3876e3f2097af9b983.gif" width="7720" height="677"/></center>
+<center><img src="https://i.pinimg.com/originals/9f/c2/12/9fc2126eec2c0a3876e3f2097af9b983.gif"/></center>
 <ul>
  <li>⚛️ About me: I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science. 👨🏾‍💻</li>
  <li>😄 I really like to learn more and more!</li>
