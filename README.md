@@ -21,4 +21,4 @@
 ## Status and progress
 <img src="https://github-readme-stats.vercel.app/api?username=IsaacAlves7&&show_icons=true&title_color=#A72CF5&icon_color=a72cf5&text_color=daf7dc&bg_color=151515"/>
 
-<p align="center"><i>🚀🛸</i></center>
+<p align="center"><i>🌊⚓🌊</i></center>
