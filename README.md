@@ -6,7 +6,7 @@
 
 <ul>
  <li>⚛️ I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science. 👨🏾‍💻👨🏾‍🔬</li>
- <li>🔠 I'm B2 in English. 🇺🇸 💙❤️️🤍</li>
+ <li>🔠 I'm B2 in the English language. 🇺🇸 💙❤️️🤍</li>
  <li>😄 I really like to learn more and more! 🐱‍💻🐱‍👤</li>
  <li>🔭 I’m currently working on web development Full-Stack. 👨🏾‍🚀🌎</li>
  <li>🌱 I’m currently learning about OOP, Design Patterns, MVC, API's, RESTful API, Agile methodology and Framework Scrum, UML, UI/UX Design, Microcontrollers, IoT, Voice Recognition, Cloud Computing, DevOps, Computer Networks, Distributed Computing, AI, Machine Learning, Deep Learning and Natural Language Processing. 🌱🌲</li>
