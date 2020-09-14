@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋🏾, I'm Isaac Alves Pinheiro!</h1>
 <!-- I created my README.md using Markdown & HTML5 -->
-<div align="center"><img src="https://i.pinimg.com/originals/9f/c2/12/9fc2126eec2c0a3876e3f2097af9b983.gif" disabled/></div>
+<div align="center"><a href="https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/"><img src="https://i.pinimg.com/originals/9f/c2/12/9fc2126eec2c0a3876e3f2097af9b983.gif"/></a></div>
 
 ## About me
 
