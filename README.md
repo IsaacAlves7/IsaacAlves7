@@ -28,14 +28,20 @@
 <br><br>
 
 [![Repos Badge](https://badges.pufler.dev/repos/IsaacAlves7)](https://badges.pufler.dev)
+
 [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+
 [![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)
+
 [![Gists Badge](https://badges.pufler.dev/gists/puf17640)](https://badges.pufler.dev)
+
 [![Updated Badge](https://badges.pufler.dev/updated/puf17640/git-badges)](https://badges.pufler.dev)
+
 [![Created Badge](https://badges.pufler.dev/created/puf17640/git-badges)](https://badges.pufler.dev)
+
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev)
+
 ![GitHub contributors](https://img.shields.io/github/contributors/IsaacAlves7/IsaacAlves7?color=%23228C22&logo=GitHub)
-![GitHub last commit](https://img.shields.io/github/last-commit/IsaacAlves7/IsaacAlves7)
 
 </div>
 <div align="center"><h3><i>Coming Soon 🌊🔱⚓🌊</i></h3></div>
