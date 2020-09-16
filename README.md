@@ -4,7 +4,7 @@
 <br>
 <br>
 
-## 🤵🏾 About me
+## 🧑🏾 About me
 
 <ul>
  <li>⚛️ I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science. 👨🏾‍💻👨🏾‍🔬</li>
