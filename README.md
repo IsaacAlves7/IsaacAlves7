@@ -35,6 +35,7 @@
 [![Created Badge](https://badges.pufler.dev/created/puf17640/git-badges)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev)
 ![GitHub contributors](https://img.shields.io/github/contributors/IsaacAlves7/IsaacAlves7?color=%23228C22&logo=GitHub)
+![GitHub last commit](https://img.shields.io/github/last-commit/IsaacAlves7/IsaacAlves7)
 
 </div>
 <div align="center"><h3><i>Coming Soon 🌊🔱⚓🌊</i></h3></div>
