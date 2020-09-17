@@ -28,7 +28,7 @@
 <br><br>
 :octocat:
  
-[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg?logo=GitHub)](https://www.repostatus.org/#active)
 [![Repos Badge](https://badges.pufler.dev/repos/IsaacAlves7)](https://badges.pufler.dev)
 [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)
