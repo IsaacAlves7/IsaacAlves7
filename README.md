@@ -25,7 +25,7 @@
 
 ## 💁🏾‍♂️ Status and progress
 <div align="justify">
-<img src="https://github-readme-stats.vercel.app/api?username=IsaacAlves7&&show_icons=true&title_color=#A72CF5&icon_color=a72cf5&text_color=daf7dc&bg_color=151515"/>&nbsp; <img src="https://camo.githubusercontent.com/7c79eee060382b4e852bbee49fe7bf8491848913/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d68616b61636f6465266c61796f75743d636f6d7061637426686964653d68746d6c"/>
+<img src="https://github-readme-stats.vercel.app/api?username=IsaacAlves7&&show_icons=true&title_color=#A72CF5&icon_color=a72cf5&text_color=daf7dc&bg_color=151515"/>&nbsp; 
 <br><br>
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
