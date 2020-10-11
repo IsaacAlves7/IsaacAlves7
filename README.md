@@ -25,7 +25,7 @@
 
 ## 💁🏾‍♂️ Status and progress
 <div align="justify">
-<img src="https://github-readme-stats.vercel.app/api?username=IsaacAlves7&&show_icons=true&title_color=#A72CF5&icon_color=a72cf5&text_color=daf7dc&bg_color=151515"/>&nbsp; <img src="most-used-languages.svg">
+<img src="https://github-readme-stats.vercel.app/api?username=IsaacAlves7&&show_icons=true&title_color=#A72CF5&icon_color=a72cf5&text_color=daf7dc&bg_color=151515"/>&nbsp;&nbsp;&nbsp; <img src="most-used-languages.svg">
 
 <br><br>
 
