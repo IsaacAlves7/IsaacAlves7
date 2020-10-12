@@ -31,7 +31,7 @@
 <br><br>
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
-[![Repos Badge](https://badges.pufler.dev/repos/IsaacAlves7?logo=GitHub)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/IsaacAlves7?logo=GitHub)](https://github.com/IsaacAlves7)
 [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges?logo=GitHub)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/puf17640?)](https://badges.pufler.dev)
