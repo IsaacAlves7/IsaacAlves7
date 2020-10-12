@@ -110,9 +110,18 @@
             y="0"
             width="13.79"
             height="8"
-            fill="#7d3ead"
+            fill="#726a95"
           />
 
+          <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="296.21000000000004"
+          y="0"
+          width="13.79"
+          height="8"
+          fill="#726a95"
+        />
 
     <g transform="translate(0, 25)">
       <circle cx="5" cy="6" r="5" fill="#fddb3a" />
@@ -155,7 +164,7 @@
     </g>
 
     <g transform="translate(0, 75)">
-      <circle cx="5" cy="6" r="5" fill="#7d3ead" />
+      <circle cx="5" cy="6" r="5" fill="#726a95" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         PHP
       </text>
