@@ -1,21 +1,8 @@
 <h1 align="center">Hi there 👋🏾🧑🏾, I'm Isaac Alves Pinheiro!</h1>
 <!-- I created my README.md using Markdown & HTML5-->
 <h4 align="center">🥼Welcome to my lab🧪</h4>
-<div align="right"><a href="https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/"><img src="https://i.pinimg.com/originals/9f/c2/12/9fc2126eec2c0a3876e3f2097af9b983.gif" height="400"/></a></div>
-<div align="left">
-## 👨🏾‍🔬 About me
+<div align="center"><a href="https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/"><img src="https://i.pinimg.com/originals/9f/c2/12/9fc2126eec2c0a3876e3f2097af9b983.gif" height="400"/></a></div>
 
-<ul>
- <li>⚛️ I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science. :atom: :electron:</li>
- <li>🔠 I'm B2 in the English language. 🇺🇸 💙❤️️🤍</li>
- <li>😄 I really like to learn more and more! 🐱‍💻🐱‍👤</li>
- <li>🔭 I’m currently working on Full-Stack development. 👨🏾‍🚀🌎</li>
- <li>🌱 I’m currently learning about Programming Paradigms, Reactive programming, Design Patterns, MVC, Microservices, API's, RESTful API, Agile methodology and Framework Scrum, UML, UI/UX Design, Microcontrollers, IoT, Voice Recognition, Cloud Computing, DevOps, Computer Networks, Distributed Computing, Cybersecurity, AI, Machine Learning, Deep Learning, Natural Language Processing, Modern Math and Physic, Calculus (I, II, III and IV), Quantum Physic, Quantum Computing. 🌱🌲</li>
- <li>👯 I’m looking to collaborate on new web applications, hybrid apps and multiplataform desktop applications. 💧:octocat:</li>
- <li>💜 I'm very passionate about technologies and i'm always learning and creating new applications, projects and implementing them.</li>
- <li>🎯 Focused in Full-Stack development. 🐱‍🚀 🚀</li>
-</ul>
-</div>
 
 ## 👨🏾‍🔬 About me
 
