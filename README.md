@@ -28,11 +28,10 @@
 
 <br><br>
 
-🌊⚓🌊🌊 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active?logo=GitHub)
-[![Repos Badge](https://badges.pufler.dev/repos/IsaacAlves7?logo=GitHub)](https://github.com/IsaacAlves7?tab=repositories)
+⚓🌊🌊🌊 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active?logo=GitHub)
 [![Gists Badge](https://badges.pufler.dev/gists/puf17640)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/puf17640/git-badges)](https://badges.pufler.dev)
 [![Created Badge](https://badges.pufler.dev/created/puf17640/git-badges)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev) 🌊🦢🌊🌊
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev) 🦢🌊🌊🌊
 
 </div>
