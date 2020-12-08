@@ -25,7 +25,5 @@
 ## 👨🏾‍💼 Status and progress
 <div align="left"><img src="https://user-images.githubusercontent.com/61624336/101521652-e2d42980-3964-11eb-9a50-1a3fc30e55b2.png" width="377"/><a href="https://github.com/IsaacAlves7?tab=repositories">&nbsp;<img src="GitHub Stats.svg"/></a><a href="https://github.com/IsaacAlves7?tab=repositories&q=&type=public&language=javascript"><img src="most-used-languages.svg"/></a></div>
 
-<br><br>
-</div>
 <div align="center"><h2>⚓ 🌊 🎖️⚓🎖️ 🌊 ⚓</h2></div>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/101521652-e2d42980-3964-11eb-9a50-1a3fc30e55b2.png" width="377"/><img src="https://user-images.githubusercontent.com/61624336/101521112-1e222880-3964-11eb-9364-c476b54e1e8a.jpg" width="377"/><img src=""/></div>
