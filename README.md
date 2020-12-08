@@ -31,3 +31,6 @@
 
 ## ⚓ Coming soon...
 <div align="left"><img src="https://user-images.githubusercontent.com/61624336/101521112-1e222880-3964-11eb-9364-c476b54e1e8a.jpg" width="377"/></div>
+<div align="right">
+ <p>CPAEN</p>
+</div>
