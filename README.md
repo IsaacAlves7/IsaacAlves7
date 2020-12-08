@@ -27,8 +27,6 @@
   <tr>
    <td align="left"><img src="https://user-images.githubusercontent.com/61624336/101521652-e2d42980-3964-11eb-9a50-1a3fc30e55b2.png" width="370"/>
    <td><img src="GitHub Stats.svg"/></td>
-  </tr>
-  <tr>
    <td><img src="most-used-languages.svg"/></td>
   </tr>
  </table>
