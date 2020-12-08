@@ -23,7 +23,7 @@
 
 
 ## 👨🏾‍💼 Status and progress
-<div align="justify"><a href="https://github.com/IsaacAlves7?tab=repositories"><img src="GitHub Stats.svg"/></a><a href="https://github.com/IsaacAlves7?tab=repositories&q=&type=public&language=javascript"><img src="most-used-languages.svg"/></a></div>
+<div align="justify"><a href="https://github.com/IsaacAlves7?tab=repositories">&nbsp;<img src="GitHub Stats.svg"/></a><a href="https://github.com/IsaacAlves7?tab=repositories&q=&type=public&language=javascript"><img src="most-used-languages.svg"/></a></div>
 
 <br><br>
 </div>
