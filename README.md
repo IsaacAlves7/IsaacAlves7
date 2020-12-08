@@ -23,8 +23,10 @@
 
 
 ## 👨🏾‍💼 Status and progress
-<div><img src="https://user-images.githubusercontent.com/61624336/101521652-e2d42980-3964-11eb-9a50-1a3fc30e55b2.png" width="370"/>
- <table border=0>
+ <table border=0 align="center">
+ <tr>
+  <td><img src="https://user-images.githubusercontent.com/61624336/101521652-e2d42980-3964-11eb-9a50-1a3fc30e55b2.png" width="370"/>
+ </tr>
   <tr>
    <td><img src="GitHub Stats.svg"/></td>
   </tr>
@@ -32,7 +34,6 @@
    <td><img src="most-used-languages.svg"/></td>
   </tr>
  </table>
- </div>
 
 
 
