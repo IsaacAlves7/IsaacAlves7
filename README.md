@@ -23,7 +23,7 @@
 
 
 ## 👨🏾‍💼 Status and progress
- <table border=0 align="center" bgcolor="white">
+ <table border rules="all"6 align="center" bgcolor="white">
  <tr>
   <td align="center"><img src="https://user-images.githubusercontent.com/61624336/101521652-e2d42980-3964-11eb-9a50-1a3fc30e55b2.png" width="370"/>
  </tr>
