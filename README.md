@@ -23,9 +23,9 @@
 
 ## 👨🏾‍💼 Status and progress
 <div align="justify">
-<div align="right"><img src="GitHub Stats.svg"/></div>
-<img src="https://user-images.githubusercontent.com/61624336/101521652-e2d42980-3964-11eb-9a50-1a3fc30e55b2.png" align="left" height="170"/>
-<div align="right"><img src="most-used-languages.svg"/></div>
+ <div align="justify"><img src="GitHub Stats.svg"/></div>
+ <img src="https://user-images.githubusercontent.com/61624336/101521652-e2d42980-3964-11eb-9a50-1a3fc30e55b2.png" align="left" height="170"/>
+ <div align="justify"><img src="most-used-languages.svg"/></div>
 </div>
 <!--
 ## ⚓ Coming soon...
