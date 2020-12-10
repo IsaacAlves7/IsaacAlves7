@@ -55,7 +55,7 @@
  
 ## 👨🏾‍💼 Status and progress
 <img src="https://user-images.githubusercontent.com/61624336/101521112-1e222880-3964-11eb-9364-c476b54e1e8a.jpg" height="370" align="left"/>
-<div align="justify">
+<div align="right">
  
 ![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=IsaacAlves7&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAlves7&layout=compact)](https://github.com/IsaacAlves7/github-readme-stats)
