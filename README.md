@@ -34,11 +34,10 @@
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"></code>
   <br />
  <!--Back-end Development-->
- 
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"></code>
  <!--JS Frameworks-->
   <code><img width="12%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
    <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/react-router.svg"></code>
