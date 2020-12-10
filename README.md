@@ -54,7 +54,7 @@
 <p>&nbsp;</p>
  
 ## 👨🏾‍💼 Status and progress
-<img src="https://user-images.githubusercontent.com/61624336/101521112-1e222880-3964-11eb-9364-c476b54e1e8a.jpg" height="327" align="left"/>
+<img src="https://user-images.githubusercontent.com/61624336/101521112-1e222880-3964-11eb-9364-c476b54e1e8a.jpg" height="370" align="left"/>
 <div align="justify">
  
 ![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=IsaacAlves7&show_icons=true&hide_border=true)
