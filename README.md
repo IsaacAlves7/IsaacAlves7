@@ -5,7 +5,7 @@
 ## 👨🏾‍🔬 About me
 <!--Aqui vão ficar os badges-->
 
-[![CodePen](https://img.shields.io/badge/-CodePen-000?style=for-the-badge=CodePen&logoColor=white)](https://codepen.io/isaacalves7/)
+[![CodePen](https://img.shields.io/badge/-CodePen-000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/isaacalves7/)
 [![ArtStation](https://img.shields.io/badge/-ArtStation-blue?style=flat&logo=ArtStation&logoColor=white)]()
 
 
