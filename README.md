@@ -1,4 +1,4 @@
-<h1 align="center">🥽🥼 Welcome to my lab! 🖥️🧪</h1>
+<h1 align="center">🥽🥼 Welcome to my lab 🖥️🧪</h1>
 <!-- I created my README.md using Markdown & HTML5-->
 <div align="center"><a href="https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/"><img src="https://i.pinimg.com/originals/9f/c2/12/9fc2126eec2c0a3876e3f2097af9b983.gif" /></a></div>
 
@@ -55,4 +55,8 @@
  
 <!--Aqui vão ficar os níveis-->
 ## 👨🏾‍💼 Status and progress
-<img src="https://user-images.githubusercontent.com/61624336/101521112-1e222880-3964-11eb-9364-c476b54e1e8a.jpg" height="370" align="left"/><img width="55%" align="center" alt="Isaac's github stats" src="https://github-readme-stats.vercel.app/api?username=IsaacAlves7&show_icons=true&hide_border=true" /><img src="most-used-languages.svg" align="center"/>
+<img src="https://user-images.githubusercontent.com/61624336/101521112-1e222880-3964-11eb-9364-c476b54e1e8a.jpg" height="370" align="left"/>
+
+![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=IsaacAlves7&show_icons=true&hide_border=true)
+
+<img width="55%" align="center" alt="Isaac's github stats" src="https://github-readme-stats.vercel.app/api?username=IsaacAlves7&show_icons=true&hide_border=true" /><img src="most-used-languages.svg" align="center"/>
