@@ -58,5 +58,9 @@
 <img src="https://user-images.githubusercontent.com/61624336/101521112-1e222880-3964-11eb-9364-c476b54e1e8a.jpg" height="370" align="left"/>
 
 ![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=IsaacAlves7&show_icons=true&hide_border=true)
+![most used languages](most-used-languages.svg)
 
+
+<!--
 <img width="55%" align="center" alt="Isaac's github stats" src="https://github-readme-stats.vercel.app/api?username=IsaacAlves7&show_icons=true&hide_border=true" /><img src="most-used-languages.svg" align="center"/>
+-->
