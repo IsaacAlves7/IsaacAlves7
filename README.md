@@ -2,6 +2,7 @@
 <!-- I created my README.md using Markdown & HTML5-->
 <div align="center"><a href="https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/"><img src="https://i.pinimg.com/originals/9f/c2/12/9fc2126eec2c0a3876e3f2097af9b983.gif" /></a></div>
 
+## [![Artstation Badge](https://img.shields.io/badge/-@pranjaljain0-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=ArtStation&logoColor=white&link=https://twitter.com/pranjaljain0)](https://twitter.com/pranjaljain0) 
 
 ## 👨🏾‍🔬 About me
 <p>&nbsp;</p>
