@@ -62,8 +62,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAlves7&layout=compact)](https://github.com/IsaacAlves7/github-readme-stats)
 
 </div>
-
-
-<!--
-<img width="55%" align="center" alt="Isaac's github stats" src="https://github-readme-stats.vercel.app/api?username=IsaacAlves7&show_icons=true&hide_border=true" /><img src="most-used-languages.svg" align="center"/>
--->
