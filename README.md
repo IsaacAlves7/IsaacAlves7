@@ -5,19 +5,18 @@
 ## 👨🏾‍🔬 About me
 <!--Aqui vão ficar os badges-->
 
-[![CodePen](https://img.shields.io/badge/-CodePen-000?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/isaacalves7/)
+[![CodePen](https://img.shields.io/badge/-CodePen-000?style=for-the-badge=CodePen&logoColor=white)](https://codepen.io/isaacalves7/)
 [![ArtStation](https://img.shields.io/badge/-ArtStation-blue?style=flat&logo=ArtStation&logoColor=white)]()
 
-<ul>
- <li>⚛️ I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science. :atom: :electron:</li>
- <li>🔠 I'm B2 in the English language. 🇺🇸 💙❤️️🤍</li>
- <li>😄 I really like to learn more and more! 🐱‍💻🐱‍👤</li>
- <li>🔭 I’m currently working on Full-Stack development. 👨🏾‍🚀🌎</li>
- <li>🌱 I’m currently learning about Programming Paradigms, Reactive programming, Design Patterns, MVC, Microservices, API's, RESTful API, Agile methodology and Framework Scrum, UML, UI/UX Design, Microcontrollers, IoT, Voice Recognition, Cloud Computing, DevOps, Computer Networks, Distributed Computing, Cybersecurity, AI, Machine Learning, Deep Learning, Natural Language Processing, Modern Math and Physic, Calculus (I, II, III and IV), Quantum Mechanics, Quantum Computing. 🌱🌲</li>
- <li>👯 I’m looking to collaborate on new web applications, hybrid apps and multiplataform desktop applications. 💧:octocat:</li>
- <li>💜 I'm very passionate about technologies and i'm always learning and creating new applications, projects and implementing them.</li>
- <li>🎯 Focused in Full-Stack development. 🐱‍🚀 🚀</li>
-</ul>
+
+ - ⚛️ I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science. :atom: :electron:
+ - 🔠 I'm B2 in the English language. 🇺🇸 💙❤️️🤍
+ - 😄 I really like to learn more and more! 🐱‍💻🐱‍👤
+ - 🔭 I’m currently working on Full-Stack development. 👨🏾‍🚀🌎
+ - 🌱 I’m currently learning about Programming Paradigms, Reactive programming, Design Patterns, MVC, Microservices, API's, RESTful API, Agile methodology and Framework Scrum, UML, UI/UX Design, Microcontrollers, IoT, Voice Recognition, Cloud Computing, DevOps, Computer Networks, Distributed Computing, Cybersecurity, AI, Machine Learning, Deep Learning, Natural Language Processing, Modern Math and Physic, Calculus (I, II, III and IV), Quantum Mechanics, Quantum Computing. 🌱🌲
+ - 👯 I’m looking to collaborate on new web applications, hybrid apps and multiplataform desktop applications. 💧:octocat:
+ - 💜 I'm very passionate about technologies and i'm always learning and creating new applications, projects and implementing them.
+ - 🎯 Focused in Full-Stack development. 🐱‍🚀 🚀
 
 ## 👨🏾‍💻 Knowledge and skills
 <!--The same height for everybody-->
