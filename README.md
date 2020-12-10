@@ -3,7 +3,7 @@
 <div align="center"><a href="https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/"><img src="https://i.pinimg.com/originals/9f/c2/12/9fc2126eec2c0a3876e3f2097af9b983.gif" /></a></div>
 
 ## 👨🏾‍🔬 About me
-<!--Aqui vão ficar os badges - 🔭 I’m currently working on.-->
+<!-- - 🔭 I’m currently working on.-->
 
 [![CodePen](https://img.shields.io/badge/-CodePen-000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/isaacalves7/)
 [![ArtStation](https://img.shields.io/badge/-ArtStation-blue?style=for-the-badge&logo=ArtStation&logoColor=white)]()
