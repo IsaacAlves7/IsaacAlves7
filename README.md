@@ -51,9 +51,8 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p> 
  
+<p>&nbsp;</p>
  
- <p>&nbsp;</p>
-<!--Aqui vão ficar os níveis-->
 ## 👨🏾‍💼 Status and progress
 <img src="https://user-images.githubusercontent.com/61624336/101521112-1e222880-3964-11eb-9364-c476b54e1e8a.jpg" height="327" align="left"/>
 <div align="justify">
