@@ -36,7 +36,7 @@
   <!--Web Development-->
   <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/html-5.svg"></code>
   <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></code>  
-  <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"></code>
+  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"></code>
 
