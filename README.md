@@ -7,7 +7,7 @@
 -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
 [![CodePen](https://img.shields.io/badge/-CodePen-000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/isaacalves7/)
-[![ArtStation](https://img.shields.io/badge/-ArtStation-blue?style=for-the-badge&logo=ArtStation&logoColor=white)](https://www.artstation.com/?sort_by=community)
+[![ArtStation](https://img.shields.io/badge/-ArtStation-blue?style=for-the-badge&logo=ArtStation&logoColor=white)](https://www.artstation.com/isaacalves7)
 
 
  - ⚛️ I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science.
