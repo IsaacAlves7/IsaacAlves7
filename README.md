@@ -45,10 +45,8 @@
  <!--JS Frameworks-->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/angular.svg"></code>
-  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"></code>
-  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"></code>
+  <code><img width="5%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
   <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <br />
  <!--PHP Frameworks-->
   <!--Databases-->
