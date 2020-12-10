@@ -6,7 +6,7 @@
 <!--Aqui vão ficar os badges-->
 
 [![CodePen](https://img.shields.io/badge/-CodePen-000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/isaacalves7/)
-[![ArtStation](https://img.shields.io/badge/-ArtStation-blue?style=flat&logo=ArtStation&logoColor=white)]()
+[![ArtStation](https://img.shields.io/badge/-ArtStation-blue?style=for-the-badge&logo=ArtStation&logoColor=white)]()
 
 
  - ⚛️ I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science. :atom: :electron:
