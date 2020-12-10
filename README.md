@@ -44,7 +44,7 @@
   <br />
  <!--JS Frameworks-->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/angular.svg"></code>
+  <code><img width="15%" src="https://cdn.worldvectorlogo.com/logos/angular.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
   <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"></code>
   <br />
