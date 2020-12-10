@@ -6,6 +6,9 @@
 <p>&nbsp;</p>
 <!--Aqui vão ficar os badges-->
 
+[![CodePen](https://img.shields.io/badge/-CodePen-000?style=flat&logo=CodePen&logoColor=white)](https://github.com/onimur)
+[![ArtStation](https://img.shields.io/badge/-ArtStation-blue?style=flat&logo=ArtStation&logoColor=white)](https://www.linkedin.com/in/murillo-comino-6124ab49/)
+
 <ul>
  <li>⚛️ I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science. :atom: :electron:</li>
  <li>🔠 I'm B2 in the English language. 🇺🇸 💙❤️️🤍</li>
