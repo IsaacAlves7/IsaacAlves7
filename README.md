@@ -3,20 +3,19 @@
 <div align="center"><a href="https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/"><img src="https://i.pinimg.com/originals/9f/c2/12/9fc2126eec2c0a3876e3f2097af9b983.gif" /></a></div>
 
 ## 👨🏾‍🔬 About me
-<!--Aqui vão ficar os badges-->
+<!--Aqui vão ficar os badges - 🔭 I’m currently working on.-->
 
 [![CodePen](https://img.shields.io/badge/-CodePen-000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/isaacalves7/)
 [![ArtStation](https://img.shields.io/badge/-ArtStation-blue?style=for-the-badge&logo=ArtStation&logoColor=white)]()
 
 
  - ⚛️ I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science. :atom: :electron:
- - 🔠 I'm B2 in the English language. 🇺🇸 💙❤️️🤍
- - 😄 I really like to learn more and more! 🐱‍💻🐱‍👤
- - 🔭 I’m currently working on Full-Stack development. 👨🏾‍🚀🌎
- - 🌱 I’m currently learning about Programming Paradigms, Reactive programming, Design Patterns, MVC, Microservices, API's, RESTful API, Agile methodology and Framework Scrum, UML, UI/UX Design, Microcontrollers, IoT, Voice Recognition, Cloud Computing, DevOps, Computer Networks, Distributed Computing, Cybersecurity, AI, Machine Learning, Deep Learning, Natural Language Processing, Modern Math and Physic, Calculus (I, II, III and IV), Quantum Mechanics, Quantum Computing. 🌱🌲
- - 👯 I’m looking to collaborate on new web applications, hybrid apps and multiplataform desktop applications. 💧:octocat:
+ - 🔠 I'm B2 in the English language.
+ - 😄 I really like to learn more and more!
+ - 🌱 I’m currently learning about Programming Paradigms, Reactive programming, Design Patterns, MVC, Microservices, API's, RESTful API, Agile methodology and Framework Scrum, UML, UI/UX Design, Microcontrollers, IoT, Voice Recognition, Cloud Computing, DevOps, Computer Networks, Distributed Computing, Cybersecurity, AI, Machine Learning, Deep Learning, Natural Language Processing, Modern Math and Physic, Calculus (I, II, III and IV), Quantum Mechanics, Quantum Computing.
+ - 👯 I’m looking to collaborate on new web applications, hybrid apps and multiplataform desktop applications.
  - 💜 I'm very passionate about technologies and i'm always learning and creating new applications, projects and implementing them.
- - 🎯 Focused in Full-Stack development. 🐱‍🚀 🚀
+ - 🎯 Focused in Full-Stack development.
 
 ## 👨🏾‍💻 Knowledge and skills
 <!--The same height for everybody-->
