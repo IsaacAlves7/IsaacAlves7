@@ -32,7 +32,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-  <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg"></code>
+  <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
