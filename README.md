@@ -2,8 +2,6 @@
 <!-- I created my README.md using Markdown & HTML5-->
 <div align="center"><a href="https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/"><img src="https://i.pinimg.com/originals/9f/c2/12/9fc2126eec2c0a3876e3f2097af9b983.gif" /></a></div>
 
-## [![Artstation Badge](https://img.shields.io/badge/-@pranjaljain0-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=ArtStation&logoColor=white&link=https://twitter.com/pranjaljain0)](https://twitter.com/pranjaljain0) 
-
 ## 👨🏾‍🔬 About me
 <p>&nbsp;</p>
 <ul>
@@ -31,4 +29,6 @@
 <div align="justify"><div align="center"><img src="https://user-images.githubusercontent.com/61624336/101521112-1e222880-3964-11eb-9364-c476b54e1e8a.jpg" height="197"/><img src="GitHub Stats.svg"/><div align="center"><img src="https://user-images.githubusercontent.com/61624336/101521652-e2d42980-3964-11eb-9a50-1a3fc30e55b2.png" height="167"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/IsaacAlves7?tab=repositories&q=&type=&language=javascript"><img src="most-used-languages.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div></div></div>
 </div>
 
-<!--Aqui vão ficar os stickers-->
+<!--Aqui vão ficar os badges-->
+
+## [![Artstation Badge](https://img.shields.io/badge/-Isaac Alves0-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=ArtStation&logoColor=white&link=https://twitter.com/pranjaljain0)](https://twitter.com/pranjaljain0) 
