@@ -49,6 +49,6 @@
 <!--Aqui vão ficar os níveis-->
 ## 👨🏾‍💼 Status and progress
 <div align="center">
-<div align="justify"><div align="center"><img src="https://user-images.githubusercontent.com/61624336/101521112-1e222880-3964-11eb-9364-c476b54e1e8a.jpg" height="197"/><img width="55%" align="right" alt="Isaac's github stats" src="https://github-readme-stats.vercel.app/api?username=IsaacAlves7&show_icons=true&hide_border=true" /><div align="center"><img src="https://user-images.githubusercontent.com/61624336/101521652-e2d42980-3964-11eb-9a50-1a3fc30e55b2.png" height="167"/><a href="https://github.com/IsaacAlves7?tab=repositories&q=&type=&language=javascript"><img src="most-used-languages.svg"/></a>
+<div align="justify"><div align="center"><img src="https://user-images.githubusercontent.com/61624336/101521112-1e222880-3964-11eb-9364-c476b54e1e8a.jpg" height="197"/><img width="55%" align="center" alt="Isaac's github stats" src="https://github-readme-stats.vercel.app/api?username=IsaacAlves7&show_icons=true&hide_border=true" /><div align="center"><img src="https://user-images.githubusercontent.com/61624336/101521652-e2d42980-3964-11eb-9a50-1a3fc30e55b2.png" height="167"/><a href="https://github.com/IsaacAlves7?tab=repositories&q=&type=&language=javascript"><img src="most-used-languages.svg"/></a>
 </div></div></div>
 </div>
