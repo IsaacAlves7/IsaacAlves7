@@ -56,7 +56,7 @@
  <!--PHP Frameworks-->
   <!--Java Development-->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"></code>
+  <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <code><img width="7%" src="https://chocolatey.org/content/images/logo_square.svg"></code>
