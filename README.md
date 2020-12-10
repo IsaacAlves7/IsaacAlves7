@@ -84,5 +84,6 @@
  
 ![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=IsaacAlves7&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAlves7&layout=compact)](https://github.com/IsaacAlves7/github-readme-stats)
-![Isaac](https://user-images.githubusercontent.com/61624336/101840584-26749200-3b23-11eb-9747-1bb53680f8d9.png)
+
+<img src="https://user-images.githubusercontent.com/61624336/101840584-26749200-3b23-11eb-9747-1bb53680f8d9.png" height="40"/>
 </div>
