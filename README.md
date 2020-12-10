@@ -59,7 +59,7 @@
 <div align="justify">
  
 ![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=IsaacAlves7&show_icons=true&hide_border=true)
-![most used languages](most-used-languages.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAlves7&layout=compact)](https://github.com/IsaacAlves7/github-readme-stats)
 
 </div>
 
