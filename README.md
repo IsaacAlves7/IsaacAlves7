@@ -68,6 +68,7 @@
    <!--DevOps-->
   <code><img width="4%" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-svg-vector.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg"></code>
+  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg"></code>
   <br />
  <!--Ambientes-->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
