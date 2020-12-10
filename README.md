@@ -4,6 +4,8 @@
 
 ## 👨🏾‍🔬 About me
 <p>&nbsp;</p>
+<!--Aqui vão ficar os badges-->
+
 <ul>
  <li>⚛️ I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science. :atom: :electron:</li>
  <li>🔠 I'm B2 in the English language. 🇺🇸 💙❤️️🤍</li>
@@ -29,7 +31,3 @@
 <div align="center">
 <div align="justify"><div align="center"><img src="https://user-images.githubusercontent.com/61624336/101521112-1e222880-3964-11eb-9364-c476b54e1e8a.jpg" height="197"/><img src="GitHub Stats.svg"/><div align="center"><img src="https://user-images.githubusercontent.com/61624336/101521652-e2d42980-3964-11eb-9a50-1a3fc30e55b2.png" height="167"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/IsaacAlves7?tab=repositories&q=&type=&language=javascript"><img src="most-used-languages.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div></div></div>
 </div>
-
-<!--Aqui vão ficar os badges-->
-
-
