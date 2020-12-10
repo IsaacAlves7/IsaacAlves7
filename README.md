@@ -31,4 +31,4 @@
 
 <!--Aqui vão ficar os badges-->
 
-## [![Artstation Badge](https://img.shields.io/badge/-Isaac Alves0-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=ArtStation&logoColor=white&link=https://twitter.com/pranjaljain0)](https://twitter.com/pranjaljain0) 
+## [![Artstation Badge](https://img.shields.io/badge/-?style=flat-square&labelColor=1ca0f1&logo=ArtStation&logoColor=white&link=https://twitter.com/pranjaljain0)](https://twitter.com/pranjaljain0) 
