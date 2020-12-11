@@ -60,7 +60,7 @@
  
  <!--C-->
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
-  <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
+  <code><img width="3.5%" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
   <code><img width="13%" src="https://cdn.worldvectorlogo.com/logos/python-3.svg"></code>
   <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/django.svg"></code>
   <br />
