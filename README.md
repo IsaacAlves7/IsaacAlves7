@@ -59,7 +59,7 @@
   <code><img width="6%" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
   <code><img width="17%" src="https://cdn.worldvectorlogo.com/logos/python-3.svg"></code>
-  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/django.svg"></code>
+  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/django.svg"></code>
   <br />
   <!--Java Development-->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
