@@ -36,7 +36,6 @@
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
   <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/babel-10.svg"></code>
   <code><img width="2%" src="https://cdn.worldvectorlogo.com/logos/gulp.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg"></code>
   <br />
