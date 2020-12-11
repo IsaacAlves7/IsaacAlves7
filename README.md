@@ -9,6 +9,7 @@
 [![CodePen](https://img.shields.io/badge/-CodePen-000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/isaacalves7/)
 [![ArtStation](https://img.shields.io/badge/-ArtStation-blue?style=for-the-badge&logo=ArtStation&logoColor=white)](https://www.artstation.com/isaacalves7)
 
+<img src="https://www.onecirclehr.com/wp-content/uploads/2020/06/Loshen-Bitmoji-250x250.png" align="right"/>
 
  - ⚛️ I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science.
  - 🔠 I'm brazilian native, B2 in english and B1 in spanish language.
