@@ -27,7 +27,7 @@
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ or https://worldvectorlogo.com/
   -->
- <img src="https://user-images.githubusercontent.com/61624336/101521652-e2d42980-3964-11eb-9a50-1a3fc30e55b2.png" height="270" align="right"/>
+ <img src="https://user-images.githubusercontent.com/61624336/101857025-56cd2800-3b45-11eb-84d9-8c3e25686542.png" height="270" align="right"/>
   <!--Front-end Development-->
   <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/html-5.svg"></code>
   <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></code>  
