@@ -46,14 +46,18 @@
    <br />
  <!--JS Frameworks-->
   <code><img width="12%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-   <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/react-router.svg"></code>
-   <code><img width="5%" src="https://reactnativeelements.com/img/logo-icon.svg"></code>
-      <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
+  <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/react-router.svg"></code>
+  <code><img width="5%" src="https://reactnativeelements.com/img/logo-icon.svg"></code>
+  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
   <code><img width="15%" src="https://cdn.worldvectorlogo.com/logos/angular.svg"></code>
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg"></code>
-   <code><img width="5%" src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg"></code>
+  <code><img width="5%" src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg"></code>
   <br />
  <!--PHP Frameworks-->
+ <!--C# e C++-->
+  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
+  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"></code>
+  <br />
   <!--Java Development-->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"></code>
