@@ -13,7 +13,7 @@
  - ⚛️ I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science.
  - 🔠 I'm brazilian native, B2 in english and B1 in spanish language.
  - 😄 I really like to learn more and more!
- - 🌱 I’m currently learning about Programming Paradigms, Reactive programming, Design Patterns, MVC, Microservices, API's, RESTful API, Agile methodology and Framework Scrum, UML, UI/UX Design, Microcontrollers, IoT, Voice Recognition, Cloud Computing, DevOps, Computer Networks, Distributed Computing, Cybersecurity, AI, Machine Learning, Deep Learning, Natural Language Processing, Modern Math and Physic, Calculus (I, II, III and IV), Quantum Mechanics, Quantum Computing.
+ - 🌱 I’m currently learning about Programming Paradigms, Reactive programming, Design Patterns, MVC, Microservices, API's, Agile methodology and Framework Scrum, UML, UI/UX Design, Microcontrollers, IoT, Voice Recognition, Cloud Computing, DevOps, Computer Networks, Distributed Computing, Cybersecurity, AI, Quantum Computing.
  - 👯 I’m looking to collaborate on new web applications, hybrid apps and multiplataform desktop applications.
  - 💜 I'm very passionate about technologies and i'm always learning and creating new applications, projects and implementing them.
  - 🎯 Focused in Full-Stack development.
