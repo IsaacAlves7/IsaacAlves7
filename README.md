@@ -39,7 +39,14 @@
   <code><img width="2%" src="https://cdn.worldvectorlogo.com/logos/gulp.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_svg/w3_svg-official.svg"></code>
+  <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_svg/w3_svg-official.svg"></code>
+  <code><img width="12%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/react-router.svg"></code>
+  <code><img width="5%" src="https://reactnativeelements.com/img/logo-icon.svg"></code>
+  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
+  <code><img width="15%" src="https://cdn.worldvectorlogo.com/logos/angular.svg"></code>
+  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg"></code>
+  <code><img width="5%" src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg"></code>  
   <br />
  <!--Back-end Development-->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
@@ -50,21 +57,10 @@
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/composer.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"></code>
   <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/zend-framework.svg"></code>  
-   <br />
- <!--JS Frameworks-->
-  <code><img width="12%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/react-router.svg"></code>
-  <code><img width="5%" src="https://reactnativeelements.com/img/logo-icon.svg"></code>
-  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
-  <code><img width="15%" src="https://cdn.worldvectorlogo.com/logos/angular.svg"></code>
-  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg"></code>
-  <br />
- <!--C-->
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
   <code><img width="3.5%" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
   <code><img width="13%" src="https://cdn.worldvectorlogo.com/logos/python-3.svg"></code>
-  <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/django.svg"></code>
+  <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/django.svg"></code>  
   <br />
   <!--Java Development-->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
