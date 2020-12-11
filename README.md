@@ -9,7 +9,7 @@
 [![CodePen](https://img.shields.io/badge/-CodePen-000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/isaacalves7/)
 [![ArtStation](https://img.shields.io/badge/-ArtStation-blue?style=for-the-badge&logo=ArtStation&logoColor=white)](https://www.artstation.com/isaacalves7)
 
-<img src="https://user-images.githubusercontent.com/61624336/101857548-816bb080-3b46-11eb-817a-2c68a7c49f17.jpg" align="right" width="277"/>
+<img src="https://user-images.githubusercontent.com/61624336/101857548-816bb080-3b46-11eb-817a-2c68a7c49f17.jpg" align="right" height="277"/>
 
  - ⚛️ I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science.
  - 🔠 I'm brazilian native, B2 in english and B1 in spanish language.
