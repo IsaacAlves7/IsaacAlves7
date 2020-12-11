@@ -45,7 +45,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"></code>
   <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/npm.svg"></code>
-  <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/express-109.svg"></code>
+  <code><img width="9%" src="https://cdn.worldvectorlogo.com/logos/express-109.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/composer.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"></code>
