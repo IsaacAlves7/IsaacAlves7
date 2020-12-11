@@ -80,6 +80,12 @@
   <code><img width="4%" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-svg-vector.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg"></code>
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  <code><img width="12%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+  <code><img width="12%" src="https://www.vectorlogo.zone/logos/azurefunctions/azurefunctions-ar21.svg"></code>
+  <code><img width="12%" src="https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg"></code>
   <br />
 </p> 
   
