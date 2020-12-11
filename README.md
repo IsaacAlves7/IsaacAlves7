@@ -47,6 +47,7 @@
   <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/npm.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/composer.svg"></code>
+  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"></code>
    <br />
  <!--JS Frameworks-->
   <code><img width="12%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
