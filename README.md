@@ -27,7 +27,7 @@
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ or https://worldvectorlogo.com/
   -->
- <img src="https://octodex.github.com/images/labtocat.png" height="270" align="right"/>
+ <img src="https://octodex.github.com/images/labtocat.png" height="370" align="right"/>
   <!--Front-end Development-->
   <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/html-5.svg"></code>
   <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></code>  
@@ -81,17 +81,8 @@
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg"></code>
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg"></code>
   <br />
- <!--Ambientes-->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-  <code><img width="12%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
-  <code><img width="12%" src="https://www.vectorlogo.zone/logos/azurefunctions/azurefunctions-ar21.svg"></code>
-  <code><img width="12%" src="https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg"></code>
 </p> 
- 
-<p>&nbsp;</p>
- 
+  
 ## 👨🏾‍💼 Status and progress
 <img src="https://user-images.githubusercontent.com/61624336/101521112-1e222880-3964-11eb-9364-c476b54e1e8a.jpg" height="317" align="left"/>
 
