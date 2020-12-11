@@ -86,6 +86,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/azure-1.svg"></code>
 </p> 
  
 <p>&nbsp;</p>
