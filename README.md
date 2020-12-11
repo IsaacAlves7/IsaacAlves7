@@ -27,7 +27,7 @@
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ or https://worldvectorlogo.com/
   -->
- <img src="https://octodex.github.com/images/labtocat.png" height="370" align="right"/>
+ <img src="https://octodex.github.com/images/labtocat.png" height="250" align="right"/>
   <!--Front-end Development-->
   <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/html-5.svg"></code>
   <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></code>  
