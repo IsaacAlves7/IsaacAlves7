@@ -58,6 +58,7 @@
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/composer.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/joomla.svg"></code>
+  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"></code>
   <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/zend-framework.svg"></code>  
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
