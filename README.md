@@ -48,7 +48,6 @@
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg"></code>  
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg"></code>  
-  <br />
  <!--Back-end Development-->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"></code>
@@ -68,21 +67,18 @@
   <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/django.svg"></code> 
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg"></code> 
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg"></code>
-  <br />
   <!--Java Development-->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <code><img width="7%" src="https://chocolatey.org/content/images/logo_square.svg"></code>
-  <br />
   <!--Databases-->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
   <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg"></code>
-  <br />
    <!--DevOps-->
   <code><img width="4%" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-svg-vector.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg"></code>
