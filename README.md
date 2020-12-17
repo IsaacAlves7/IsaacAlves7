@@ -12,7 +12,7 @@
 <img src="https://user-images.githubusercontent.com/61624336/101903494-21e7c200-3b93-11eb-9f7e-55ca47333e5d.png" align="right" height="277"/>
 
  - ⚛️ I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science.
- - 🔠 I'm brazilian native, B2 in english and B1 in spanish language.
+ - 🔠 I'm brazilian native, B1 in english and B1 in spanish language.
  - 😄 I really like to learn more and more!
  - 🌱 I’m currently learning about Programming Paradigms, Reactive programming, Design Patterns, MVC, Microservices, API's, Agile methodology and Framework Scrum, UML, UI/UX Design, Microcontrollers, IoT, Voice Recognition, Cloud Computing, DevOps, Computer Networks, Distributed Computing, Cybersecurity, AI, Quantum Computing.
  - 👯 I’m looking to collaborate on new web applications, hybrid apps and multiplataform desktop applications.
