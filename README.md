@@ -3,11 +3,11 @@
 <div align="center"><a href="https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/"><img src="https://i.pinimg.com/originals/9f/c2/12/9fc2126eec2c0a3876e3f2097af9b983.gif" /></a></div>
 
 ## 👨🏾‍🔬 About me
-<!-- - 🔭 I’m currently working on.LinkedIn
+<!-- - 🔭 I’m currently working on Skyliner
 -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
 [![CodePen](https://img.shields.io/badge/-CodePen-000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/isaacalves7/)
-[![Rocketseat](https://img.shields.io/badge/-Rocketseat-9266CC?style=for-the-badge&logo=Skyliner&logoColor=white)](https://app.rocketseat.com.br/me/isaac-alves-pinheiro-1589164166)
+[![Rocketseat](https://img.shields.io/badge/-Rocketseat-9266CC?style=for-the-badge&logo=American-Airlines&logoColor=white)](https://app.rocketseat.com.br/me/isaac-alves-pinheiro-1589164166)
 [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-FFFF64?style=for-the-badge&logo=FreeCodeCamp&logoColor=black)](https://www.freecodecamp.org/isaac7)
 [![DIO](https://img.shields.io/badge/-Digital‍‍Innovation‍‍One-FF6900?style=for-the-badge&logo=asciinema&logoColor=white)](https://web.digitalinnovation.one/users/isaac_alves0720?tab=achievements)
 [![ArtStation](https://img.shields.io/badge/-ArtStation-blue?style=for-the-badge&logo=ArtStation&logoColor=white)](https://www.artstation.com/isaacalves7)
