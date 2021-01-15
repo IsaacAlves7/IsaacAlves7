@@ -5,7 +5,7 @@
 ## 👨🏾‍🔬 About me
 <!-- - 🔭 I’m currently working on Skyliner
 -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A0A23?style=for-the-badge&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-EEEEEE?style=for-the-badge&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
 [![CodePen](https://img.shields.io/badge/-CodePen-000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/isaacalves7/)
 [![Rocketseat](https://img.shields.io/badge/-Rocketseat-0A0A23?style=for-the-badge&logo=American-Airlines&logoColor=9266CC)](https://app.rocketseat.com.br/me/isaac-alves-pinheiro-1589164166)
 [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white)](https://www.freecodecamp.org/isaac7)
