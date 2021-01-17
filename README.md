@@ -5,12 +5,12 @@
 ## 👨🏾‍🔬 About me
 <!-- - 🔭 I’m currently working on Skyliner
 -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
-[![CodePen](https://img.shields.io/badge/-CodePen-000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/isaacalves7/)
-[![Rocketseat](https://img.shields.io/badge/-Rocketseat-0A0A23?style=for-the-badge&logo=American-Airlines&logoColor=9266CC)](https://app.rocketseat.com.br/me/isaac-alves-pinheiro-1589164166)
-[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-000?style=for-the-badge&logo=FreeCodeCamp&logoColor=white)](https://www.freecodecamp.org/isaac7)
-[![DIO](https://img.shields.io/badge/-Digital‍‍Innovation‍‍One-000?style=for-the-badge&logo=asciinema&logoColor=FA6709)](https://web.digitalinnovation.one/users/isaac_alves0720?tab=achievements)
-[![ArtStation](https://img.shields.io/badge/-ArtStation-000?style=for-the-badge&logo=ArtStation&logoColor=13AFF0)](https://www.artstation.com/isaacalves7)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+[![CodePen](https://img.shields.io/badge/-CodePen-blue?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/isaacalves7/)
+[![Rocketseat](https://img.shields.io/badge/-Rocketseat-blue?style=for-the-badge&logo=American-Airlines&logoColor=9266CC)](https://app.rocketseat.com.br/me/isaac-alves-pinheiro-1589164166)
+[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-blue?style=for-the-badge&logo=FreeCodeCamp&logoColor=white)](https://www.freecodecamp.org/isaac7)
+[![DIO](https://img.shields.io/badge/-Digital‍‍Innovation‍‍One-blue?style=for-the-badge&logo=asciinema&logoColor=FA6709)](https://web.digitalinnovation.one/users/isaac_alves0720?tab=achievements)
+[![ArtStation](https://img.shields.io/badge/-ArtStation-blue?style=for-the-badge&logo=ArtStation&logoColor=13AFF0)](https://www.artstation.com/isaacalves7)
 
 <img src="https://user-images.githubusercontent.com/61624336/101903494-21e7c200-3b93-11eb-9f7e-55ca47333e5d.png" align="right" height="277"/>
 
