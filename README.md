@@ -46,7 +46,7 @@
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_svg/w3_svg-official.svg"></code>
   <code><a href="https://pt-br.reactjs.org/"><img width="12%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" title="Acesse o site do ReactJS"></a></code>
-  <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/react-router.svg"></code>
+  <code><a href="https://reactrouter.com/"><img width="8%" src="https://cdn.worldvectorlogo.com/logos/react-router.svg" title="Acesse o site do React Router"></a></code>
   <code><img width="5%" src="https://reactnativeelements.com/img/logo-icon.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
   <code><img width="15%" src="https://cdn.worldvectorlogo.com/logos/angular.svg"></code>
