@@ -43,7 +43,7 @@
   <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/babel-10.svg"></code>
   <code><img width="2%" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Gulp.js_Logo.svg"></code>
   <code><a href="https://www.electronjs.org/"><img width="4%" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" title="Acesse o site do Electron.js"></a></code>
-  <code><img width="4%" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg"></code>
+  <code><a href="https://ionicframework.com/"><img width="4%" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" title="Acesse o site do Ionic Framework"></a></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_svg/w3_svg-official.svg"></code>
   <code><a href="https://pt-br.reactjs.org/"><img width="12%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" title="Acesse o site do ReactJS"></a></code>
   <code><a href="https://reactrouter.com/"><img width="8%" src="https://cdn.worldvectorlogo.com/logos/react-router.svg" title="Acesse o site do React Router"></a></code>
