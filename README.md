@@ -32,7 +32,6 @@
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ or https://worldvectorlogo.com/
   -->
  <img src="https://octodex.github.com/images/labtocat.png" height="307" align="right"/>
- <blockquote>
   <!--Front-end Development-->
   <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/html-5.svg"></code>
   <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></code>  
@@ -97,7 +96,6 @@
   <code><img width="12%" src="https://www.vectorlogo.zone/logos/azurefunctions/azurefunctions-ar21.svg"></code>
   <code><img width="12%" src="https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg"></code>
   <br />
- </blockquote>
 </p> 
   
 ## 👨🏾‍💼 Status and progress
