@@ -52,7 +52,7 @@
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg"></code>  
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg"></code>  
-  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/gatsby.svg"></code>
+  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/gatsby.svg"></code><br />
  <!--Back-end Development-->
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/json.svg"></code>
   <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"></code>
@@ -72,7 +72,7 @@
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></code>
   <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/django.svg"></code> 
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg"></code> 
-  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg"></code>
+  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg"></code><br />
   <!--Java Development-->
   <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/java.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"></code>
