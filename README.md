@@ -38,7 +38,7 @@
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"></code>
-  <code><img width="5%" src="https://iconape.com/wp-content/png_logo_vector/materialize-logo.png"></code>
+  <code><img width="7%" src="https://iconape.com/wp-content/png_logo_vector/materialize-logo.png"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
   <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/babel-10.svg"></code>
   <code><img width="2%" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Gulp.js_Logo.svg"></code>
