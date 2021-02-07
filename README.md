@@ -58,7 +58,7 @@
   <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"></code>
   <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/npm.svg"></code>
   <code><img width="9%" src="https://cdn.worldvectorlogo.com/logos/express-109.svg"></code>
-  <code><img width="9%" src="https://cdn.worldvectorlogo.com/logos/meteor-5.svg"></code>
+  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/socket-io.svg"></code>
   <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/php-1.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/composer.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg"></code>
