@@ -38,6 +38,7 @@
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"></code>
+  <code><img width="5%" src="https://iconape.com/wp-content/png_logo_vector/materialize-logo.png"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
   <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/babel-10.svg"></code>
   <code><img width="2%" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Gulp.js_Logo.svg"></code>
@@ -74,7 +75,8 @@
   <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/django.svg"></code> 
   <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/flask.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg"></code> 
-  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg"></code><br />
+  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg"></code>
+  <code><img width="4%" src="https://iconape.com/wp-content/files/ai/371357/svg/371357.svg"></code><br />
   <!--Java Development-->
   <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/java.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"></code>
