@@ -52,7 +52,7 @@
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg"></code>  
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg"></code>  
-  <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/gatsby.svg"></code>
+  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/gatsby.svg"></code>
  <!--Back-end Development-->
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/json.svg"></code>
   <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"></code>
