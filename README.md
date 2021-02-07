@@ -75,7 +75,7 @@
   <!--Java Development-->
   <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/java.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"></code>
-  <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg"></code>
+  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg"></code>
   <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg"></code>
   <code><img width="7%" src="https://chocolatey.org/content/images/logo_square.svg"></code>
   <!--Databases-->
