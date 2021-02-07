@@ -72,6 +72,7 @@
   <code><img width="3.5%" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></code>
   <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/django.svg"></code> 
+  <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/flask.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg"></code> 
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg"></code><br />
   <!--Java Development-->
