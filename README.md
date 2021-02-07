@@ -73,7 +73,7 @@
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg"></code> 
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg"></code>
   <!--Java Development-->
-  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/java.svg"></code>
+  <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/java.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg"></code>
