@@ -78,14 +78,14 @@
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"></code>
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg"></code>
   <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg"></code>
-  <code><img width="7%" src="https://chocolatey.org/content/images/logo_square.svg"></code>
+  <code><img width="7%" src="https://chocolatey.org/content/images/logo_square.svg"></code><br />
   <!--Databases-->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <code><img width="7%" src="https://iconape.com/wp-content/png_logo_vector/microsoft-sql-server.png"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg"></code>
+  <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg"></code><br />
    <!--DevOps-->
   <code><img width="4%" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-svg-vector.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg"></code>
