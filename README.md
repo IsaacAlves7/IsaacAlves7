@@ -54,7 +54,8 @@
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg"></code>  
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg"></code>  
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/gatsby.svg"></code>
-  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code><br />
+  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
+  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/reactivex.svg"></code><br />
  <!--Back-end Development-->
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/json.svg"></code>
   <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"></code>
