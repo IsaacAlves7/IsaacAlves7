@@ -53,14 +53,14 @@
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg"></code>  
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg"></code>  
-  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/gatsby.svg"></code><br />
+  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/gatsby.svg"></code>
+  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code><br />
  <!--Back-end Development-->
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/json.svg"></code>
   <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"></code>
   <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/npm.svg"></code>
   <code><img width="9%" src="https://cdn.worldvectorlogo.com/logos/express-109.svg"></code>
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/socket-io.svg"></code>
-  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
   <code><img width="4%" src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg"></code>
   <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/php-1.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/composer.svg"></code>
