@@ -32,7 +32,7 @@
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ or https://worldvectorlogo.com/
   -->
- <pre><img src="https://www.flaticon.com/svg/vstatic/svg/1260/1260682.svg?token=exp=1614490800~hmac=5adab85942573df25d6002e8f40c2bf6" height="77" align="right"/> <img src="https://www.flaticon.com/svg/vstatic/svg/1260/1260667.svg?token=exp=1614490877~hmac=3d79e798a8eb2f3c6b22a483cee96f92" height="77" align="right"/></pre>
+<img src="https://www.flaticon.com/svg/vstatic/svg/1260/1260682.svg?token=exp=1614490800~hmac=5adab85942573df25d6002e8f40c2bf6" height="77" align="right"/> <img src="https://www.flaticon.com/svg/vstatic/svg/1260/1260667.svg?token=exp=1614490877~hmac=3d79e798a8eb2f3c6b22a483cee96f92" height="77" align="right"/>
  
  <!--Front-end Development-->
   <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/html-5.svg"></code>
