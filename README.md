@@ -96,7 +96,7 @@
 ## 👨🏾‍💼 Status and progress
 <p>&nbsp;</p>
 
-<img src="https://www.flaticon.com/svg/vstatic/svg/1001/1001704.svg?token=exp=1614490573~hmac=c69d80b58c3ec4acd30b13402fdcc11b" align="left" height="277">
+<img src="https://www.flaticon.com/svg/vstatic/svg/1406/1406418.svg?token=exp=1614549054~hmac=a61e06753bd731c8ef2b57e131c32441" align="left" height="277">
 
 <div align="justify">
 
