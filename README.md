@@ -107,7 +107,7 @@
 ## 👨🏾‍💼 Status and progress
 <p>&nbsp;</p>
 
-<div align="justify"><img src="" height="107"></div>
+<img src="" align="left" height="370">
 
 <div align="justify">
 
