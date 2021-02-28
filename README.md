@@ -48,7 +48,7 @@
   <img src="https://www.flaticon.com/svg/vstatic/svg/1260/1260667.svg?token=exp=1614491292~hmac=803c31314abb05e94fe68e8b6f8711ff" height="77" align="right"/>
   
 <img src="https://www.flaticon.com/svg/vstatic/svg/1260/1260677.svg?token=exp=1614491222~hmac=7de16078eab345be104807522a42308c" height="77" align="right"/><img src="https://www.flaticon.com/svg/vstatic/svg/1260/1260682.svg?token=exp=1614490800~hmac=5adab85942573df25d6002e8f40c2bf6" height="277" align="right"/><img src="https://www.flaticon.com/svg/vstatic/svg/1260/1260690.svg?token=exp=1614491251~hmac=cc253d95bc5f3975857c0e341c61b077" height="77" align="right"/>
-  
+ <!-- 
  <!--Back-end Development-->
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/json.svg"></code>
   <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"></code>
@@ -75,7 +75,7 @@
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"></code>
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg"></code>
   <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg"></code>
-  <code><img width="7%" src="https://chocolatey.org/content/images/logo_square.svg"></code><br />
+  <code><img width="7%" src="https://chocolatey.org/content/images/logo_square.svg"></code><br /> -->
   <!--Databases-->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
