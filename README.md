@@ -32,7 +32,6 @@
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ or https://worldvectorlogo.com/
   -->
-<img src="https://www.flaticon.com/svg/vstatic/svg/1260/1260682.svg?token=exp=1614490800~hmac=5adab85942573df25d6002e8f40c2bf6" height="277" align="right"/>
  
  <!--Front-end Development-->
   <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/html-5.svg"></code>
@@ -58,6 +57,9 @@
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/gatsby.svg"></code>
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/reactivex.svg"></code><br />
+  
+  <img src="https://www.flaticon.com/svg/vstatic/svg/1260/1260682.svg?token=exp=1614490800~hmac=5adab85942573df25d6002e8f40c2bf6" height="277" align="right"/>
+  
  <!--Back-end Development-->
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/json.svg"></code>
   <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"></code>
