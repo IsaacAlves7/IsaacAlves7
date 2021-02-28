@@ -107,9 +107,9 @@
 ## 👨🏾‍💼 Status and progress
 <p>&nbsp;</p>
 
-<div align="left"><img src="https://user-images.githubusercontent.com/61624336/109408620-f42c4100-7969-11eb-8f97-354fd320f032.png" height="227"></div>
+<div align="left"><img src="https://user-images.githubusercontent.com/61624336/109408620-f42c4100-7969-11eb-8f97-354fd320f032.png" height="107"></div>
 
-<div align="justify">
+<div align="right">
 
 ![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=IsaacAlves7&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAlves7&layout=compact)](https://github.com/IsaacAlves7/github-readme-stats)
