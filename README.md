@@ -107,7 +107,7 @@
 ## 👨🏾‍💼 Status and progress
 <p>&nbsp;</p>
 
-<img src="https://user-images.githubusercontent.com/61624336/109408620-f42c4100-7969-11eb-8f97-354fd320f032.png" align="left" height="270">
+<img src="https://www.flaticon.com/svg/vstatic/svg/1001/1001704.svg?token=exp=1614490573~hmac=c69d80b58c3ec4acd30b13402fdcc11b" align="left" height="270">
 
 <div align="justify">
 
