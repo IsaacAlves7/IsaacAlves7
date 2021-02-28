@@ -32,7 +32,7 @@
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ or https://worldvectorlogo.com/
   -->
- <img src="https://octodex.github.com/images/labtocat.png" height="307" align="right"/>
+ <img src="https://www.flaticon.com/svg/vstatic/svg/4231/4231745.svg?token=exp=1614490202~hmac=75798386f81ed0749ce4e0ba65cd3951" height="307" align="right"/>
   <!--Front-end Development-->
   <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/html-5.svg"></code>
   <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></code>  
