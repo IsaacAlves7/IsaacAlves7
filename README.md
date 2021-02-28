@@ -104,5 +104,4 @@
 
 ![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=IsaacAlves7&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAlves7&layout=compact)](https://github.com/IsaacAlves7/github-readme-stats)
-[![Top Langs](https://www.flaticon.com/svg/vstatic/svg/1406/1406418.svg?token=exp=1614549054~hmac=a61e06753bd731c8ef2b57e131c32441)
 </div>
