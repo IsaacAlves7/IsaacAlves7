@@ -30,8 +30,10 @@
 <a href="https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest/"><img src="https://www.lovegroveconsulting.com/wp-content/uploads/2017/08/white-hat-seo.png" height="50" title="White Hat"/>
 <p>
   <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ or https://worldvectorlogo.com/
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ or https://worldvectorlogo.com/ or flaticon
   -->
+ 
+ <img src="https://www.flaticon.com/svg/vstatic/svg/1406/1406418.svg?token=exp=1614549054~hmac=a61e06753bd731c8ef2b57e131c32441" align="center" height="277">
  
  <!--Front-end Development-->
   <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/html-5.svg"></code><code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></code><code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"></code><code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"></code><code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"></code><code><img width="7%" src="https://iconape.com/wp-content/png_logo_vector/materialize-logo.png"></code><code><img width="4%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code><code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/babel-10.svg"></code><code><img width="2%" src="https://cdn.worldvectorlogo.com/logos/gulp.svg"></code><code><a href="https://www.electronjs.org/"><img width="4%" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" title="Acesse o site do Electron.js"></a></code><code><a href="https://ionicframework.com/"><img width="4%" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" title="Acesse o site do Ionic Framework"></a></code><code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_svg/w3_svg-official.svg"></code><code><a href="https://pt-br.reactjs.org/"><img width="4.5%" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="Acesse o site do ReactJS"></a></code><code><a href="https://reactrouter.com/"><img width="8%" src="https://cdn.worldvectorlogo.com/logos/react-router.svg" title="Acesse o site do React Router"></a></code>
