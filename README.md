@@ -58,7 +58,7 @@
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/reactivex.svg"></code><br />
   
-  <img src="https://www.flaticon.com/svg/vstatic/svg/1260/1260682.svg?token=exp=1614490800~hmac=5adab85942573df25d6002e8f40c2bf6" height="277" align="right"/><img src="https://www.flaticon.com/svg/vstatic/svg/1260/1260690.svg?token=exp=1614491251~hmac=cc253d95bc5f3975857c0e341c61b077" height="77" align="right"/>
+<img src="https://www.flaticon.com/svg/vstatic/svg/1260/1260677.svg?token=exp=1614491222~hmac=7de16078eab345be104807522a42308c" height="77" align="right"/><img src="https://www.flaticon.com/svg/vstatic/svg/1260/1260682.svg?token=exp=1614490800~hmac=5adab85942573df25d6002e8f40c2bf6" height="277" align="right"/><img src="https://www.flaticon.com/svg/vstatic/svg/1260/1260690.svg?token=exp=1614491251~hmac=cc253d95bc5f3975857c0e341c61b077" height="77" align="right"/>
   
  <!--Back-end Development-->
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/json.svg"></code>
