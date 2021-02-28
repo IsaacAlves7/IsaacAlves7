@@ -107,7 +107,7 @@
 ## 👨🏾‍💼 Status and progress
 <p>&nbsp;</p>
 
-<div align="left"><img src="https://user-images.githubusercontent.com/61624336/109408548-87b14200-7969-11eb-993f-1e1535cb0178.png" height="77"></div>
+<div align="left"><img src="https://user-images.githubusercontent.com/61624336/109408548-87b14200-7969-11eb-993f-1e1535cb0178.png" height="377"></div>
 
 <div align="justify">
 
