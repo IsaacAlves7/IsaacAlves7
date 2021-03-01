@@ -34,66 +34,7 @@
   -->
  
  <div align="center"><img src="https://www.flaticon.com/svg/vstatic/svg/1578/1578387.svg?token=exp=1614549637~hmac=20cbb15a9ce30dbf7bc0a19c51640313" height="170"><img src="https://www.flaticon.com/svg/vstatic/svg/1578/1578409.svg?token=exp=1614549204~hmac=aebbac9ddf60f8605b4a61816b200db6" height="170"><img src="https://www.flaticon.com/svg/vstatic/svg/1578/1578448.svg?token=exp=1614549655~hmac=9dd8f5fff184115b9bac8cfaa27d2b0c" height="170"><img src="https://www.flaticon.com/svg/vstatic/svg/1578/1578377.svg?token=exp=1614549845~hmac=d75a00a69ff4319777a65e361d06ce2e" height="170"></div>
- 
- <!--Front-end Development-->
-  <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/html-5.svg"></code><code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></code><code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"></code><code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"></code><code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"></code><code><img width="7%" src="https://iconape.com/wp-content/png_logo_vector/materialize-logo.png"></code><code><img width="4%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code><code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/babel-10.svg"></code><code><img width="2%" src="https://cdn.worldvectorlogo.com/logos/gulp.svg"></code><code><a href="https://www.electronjs.org/"><img width="4%" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" title="Acesse o site do Electron.js"></a></code><code><a href="https://ionicframework.com/"><img width="4%" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" title="Acesse o site do Ionic Framework"></a></code><code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_svg/w3_svg-official.svg"></code><code><a href="https://pt-br.reactjs.org/"><img width="4.5%" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="Acesse o site do ReactJS"></a></code><code><a href="https://reactrouter.com/"><img width="8%" src="https://cdn.worldvectorlogo.com/logos/react-router.svg" title="Acesse o site do React Router"></a></code>
-  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/react-1.svg"></code>
-  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
-  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"></code>
-  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg"></code>  
-  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg"></code>  
-  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/gatsby.svg"></code>
-  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
-  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/reactivex.svg"></code><br />
 
- <!-- 
- <!--Back-end Development-->
-  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/json.svg"></code>
-  <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"></code>
-  <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/npm.svg"></code>
-  <code><img width="9%" src="https://cdn.worldvectorlogo.com/logos/express-109.svg"></code>
-  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/socket-io.svg"></code>
-  <code><img width="4%" src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg"></code>
-  <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/php-1.svg"></code>
-  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/composer.svg"></code>
-  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg"></code>
-  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/joomla.svg"></code>
-  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"></code>
-  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"></code>
-  <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/zend-framework.svg"></code>  
-  <code><img width="3.5%" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
-  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></code>
-  <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/django.svg"></code> 
-  <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/flask.svg"></code>
-  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg"></code> 
-  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg"></code>
-  <code><img width="4%" src="https://iconape.com/wp-content/files/ai/371357/svg/371357.svg"></code><br />
-  <!--Java Development-->
-  <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/java.svg"></code>
-  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"></code>
-  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg"></code>
-  <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg"></code>
-  <code><img width="7%" src="https://chocolatey.org/content/images/logo_square.svg"></code><br /> -->
-  <!--Databases-->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="7%" src="https://iconape.com/wp-content/png_logo_vector/microsoft-sql-server.png"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><a href="https://firebase.google.com/"><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></code>
-  <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg"></code><br />
-   <!--DevOps-->
-  <code><img width="4%" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-svg-vector.svg"></code>
-  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg"></code>
-  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/docker.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-  <code><img width="12%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
-  <code><img width="12%" src="https://www.vectorlogo.zone/logos/azurefunctions/azurefunctions-ar21.svg"></code>
-  <code><img width="12%" src="https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg"></code>
-  <br />
-</p> 
   
 ## 👨🏾‍💼 Status and progress
 <p>&nbsp;</p>
