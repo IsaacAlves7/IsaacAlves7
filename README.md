@@ -53,6 +53,7 @@
   [![React Native](https://img.shields.io/badge/-React‍‍Native-f9f6f6?style=for-the-badge&logo=React&logoColor=00C4CC)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
   [![Ionic](https://img.shields.io/badge/-Ionic-f9f6f6?style=for-the-badge&logo=Ionic&logoColor=3880FF)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
    [![Electron](https://img.shields.io/badge/-Electron-f9f6f6?style=for-the-badge&logo=Electron&logoColor=47848F)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+     [![Elixir](https://img.shields.io/badge/-Elixir-f9f6f6?style=for-the-badge&logo=Elixir&logoColor=4B275F)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  </div>
 
   
