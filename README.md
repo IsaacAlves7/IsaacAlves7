@@ -77,6 +77,7 @@
       [![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft‍‍SQL‍‍Server-f9f6f6?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=CC2927)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       [![MongoDB](https://img.shields.io/badge/-MongoDB-f9f6f6?style=for-the-badge&logo=MongoDB&logoColor=47A248)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       [![SQLite](https://img.shields.io/badge/-SQLite-f9f6f6?style=for-the-badge&logo=SQLite&logoColor=003B57)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+      [![Redis](https://img.shields.io/badge/-Redis-f9f6f6?style=for-the-badge&logo=Redis&logoColor=DC382D)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       [![R](https://img.shields.io/badge/-R-f9f6f6?style=for-the-badge&logo=R&logoColor=276DC3)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       [![Tensorflow](https://img.shields.io/badge/-Tensorflow-f9f6f6?style=for-the-badge&logo=Tensorflow&logoColor=FF6F00)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       [![PyTorch](https://img.shields.io/badge/-PyTorch-f9f6f6?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
