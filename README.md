@@ -70,6 +70,7 @@
       [![Jest](https://img.shields.io/badge/-Jest-f9f6f6?style=for-the-badge&logo=Jest&logoColor=C21325)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       [![GraphQL](https://img.shields.io/badge/-GraphQL-f9f6f6?style=for-the-badge&logo=GraphQL&logoColor=E10098)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-f9f6f6?style=for-the-badge&logo=PostgreSQL&logoColor=336791)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+      [![OracleDB](https://img.shields.io/badge/-OracleDB-f9f6f6?style=for-the-badge&logo=Oracle&logoColor=F80000)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       [![MySQL](https://img.shields.io/badge/-MySQL-f9f6f6?style=for-the-badge&logo=MySQL&logoColor=4479A1)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  </div>
 
