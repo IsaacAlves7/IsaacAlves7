@@ -72,7 +72,7 @@
       [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-f9f6f6?style=for-the-badge&logo=PostgreSQL&logoColor=336791)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       [![OracleDB](https://img.shields.io/badge/-OracleDB-f9f6f6?style=for-the-badge&logo=Oracle&logoColor=F80000)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       [![MySQL](https://img.shields.io/badge/-MySQL-f9f6f6?style=for-the-badge&logo=MySQL&logoColor=4479A1)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
-      [![Microsoft SQL Server](https://img.shields.io/badge/-SQL Server-f9f6f6?style=for-the-badge&logo=Microsoft_SQL_Server&logoColor=CC2927)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+      [![Microsoft SQL Server](https://img.shields.io/badge/-SQL Server-f9f6f6?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=CC2927)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       [![MongoDB](https://img.shields.io/badge/-MongoDB-f9f6f6?style=for-the-badge&logo=MongoDB&logoColor=47A248)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       [![SQLite](https://img.shields.io/badge/-SQLite-f9f6f6?style=for-the-badge&logo=SQLite&logoColor=003B57)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       
