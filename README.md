@@ -45,8 +45,9 @@
  [![Sass](https://img.shields.io/badge/-Sass-f9f6f6?style=for-the-badge&logo=Sass&logoColor=CC6699)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![SVG](https://img.shields.io/badge/-SVG-f9f6f6?style=for-the-badge&logo=SVG&logoColor=FFB13B)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![React](https://img.shields.io/badge/-React-f9f6f6?style=for-the-badge&logo=React&logoColor=61DAFB)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
- [![React Native](https://img.shields.io/badge/-React‍‍Native-f9f6f6?style=for-the-badge&logo=React&logoColor=00C4CC)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Angular](https://img.shields.io/badge/-Angular-f9f6f6?style=for-the-badge&logo=Angular&logoColor=DD0031)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+ [![Vue](https://img.shields.io/badge/-Vue.js-f9f6f6?style=for-the-badge&logo=Vue.js&logoColor=4FC08D)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+  [![React Native](https://img.shields.io/badge/-React‍‍Native-f9f6f6?style=for-the-badge&logo=React&logoColor=00C4CC)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  </div>
 
   
