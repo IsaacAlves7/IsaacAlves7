@@ -43,6 +43,7 @@
  [![JS](https://img.shields.io/badge/-JavaScript(ES6)-f9f6f6?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![jQuery](https://img.shields.io/badge/-jQuery-f9f6f6?style=for-the-badge&logo=jQuery&logoColor=0769AD)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Sass](https://img.shields.io/badge/-Sass-f9f6f6?style=for-the-badge&logo=Sass&logoColor=CC6699)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+ [![SVG](https://img.shields.io/badge/-SVG-f9f6f6?style=for-the-badge&logo=SVG&logoColor=FFB13B)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  </div>
 
   
