@@ -69,6 +69,7 @@
       [![Webpack](https://img.shields.io/badge/-Webpack-f9f6f6?style=for-the-badge&logo=Webpack&logoColor=8DD6F9)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       [![Jest](https://img.shields.io/badge/-Jest-f9f6f6?style=for-the-badge&logo=Jest&logoColor=C21325)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       [![GraphQL](https://img.shields.io/badge/-GraphQL-f9f6f6?style=for-the-badge&logo=GraphQL&logoColor=E10098)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+      [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-f9f6f6?style=for-the-badge&logo=PostgreSQL&logoColor=336791)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  </div>
 
   
