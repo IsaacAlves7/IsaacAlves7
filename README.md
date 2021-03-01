@@ -34,7 +34,9 @@
   -->
  
  <div align="justify">
- <img src="https://www.flaticon.com/svg/vstatic/svg/1578/1578387.svg?token=exp=1614549637~hmac=20cbb15a9ce30dbf7bc0a19c51640313" height="170"> [![HTML5](https://img.shields.io/badge/-HTML5-f9f6f6?style=for-the-badge&logo=HTML5&logoColor=E34F26)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+ <img src="https://www.flaticon.com/svg/vstatic/svg/1578/1578387.svg?token=exp=1614549637~hmac=20cbb15a9ce30dbf7bc0a19c51640313" height="170"> 
+ 
+ [![HTML5](https://img.shields.io/badge/-HTML5-f9f6f6?style=for-the-badge&logo=HTML5&logoColor=E34F26)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  
  <img src="https://www.flaticon.com/svg/vstatic/svg/1578/1578409.svg?token=exp=1614549204~hmac=aebbac9ddf60f8605b4a61816b200db6" height="170"><img src="https://www.flaticon.com/svg/vstatic/svg/1578/1578448.svg?token=exp=1614549655~hmac=9dd8f5fff184115b9bac8cfaa27d2b0c" height="170"><img src="https://www.flaticon.com/svg/vstatic/svg/1578/1578377.svg?token=exp=1614549845~hmac=d75a00a69ff4319777a65e361d06ce2e" height="170"></div>
 
