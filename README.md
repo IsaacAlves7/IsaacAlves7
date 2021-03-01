@@ -73,6 +73,7 @@
       [![OracleDB](https://img.shields.io/badge/-OracleDB-f9f6f6?style=for-the-badge&logo=Oracle&logoColor=F80000)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       [![MySQL](https://img.shields.io/badge/-MySQL-f9f6f6?style=for-the-badge&logo=MySQL&logoColor=4479A1)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       [![MongoDB](https://img.shields.io/badge/-MongoDB-f9f6f6?style=for-the-badge&logo=MongoDB&logoColor=47A248)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+      [![SQLite](https://img.shields.io/badge/-SQLite-f9f6f6?style=for-the-badge&logo=SQLite&logoColor=003B57)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  </div>
 
   
