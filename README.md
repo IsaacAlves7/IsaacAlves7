@@ -52,6 +52,7 @@
    [![Babel](https://img.shields.io/badge/-Babel-f9f6f6?style=for-the-badge&logo=Babel&logoColor=F9DC3E)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
    [![TS](https://img.shields.io/badge/-TypeScript-f9f6f6?style=for-the-badge&logo=TypeScript&logoColor=3178C6)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
   [![Node](https://img.shields.io/badge/-Node.js-f9f6f6?style=for-the-badge&logo=Node.js&logoColor=339933)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+     [![C++](https://img.shields.io/badge/-C++-f9f6f6?style=for-the-badge&logo=C++&logoColor=00599C)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
     [![Python](https://img.shields.io/badge/-Python-f9f6f6?style=for-the-badge&logo=Python&logoColor=3776AB)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
     [![PHP](https://img.shields.io/badge/-PHP-f9f6f6?style=for-the-badge&logo=PHP&logoColor=777BB4)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
     [![Composer](https://img.shields.io/badge/-Composer-f9f6f6?style=for-the-badge&logo=Composer&logoColor=885630)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
