@@ -58,9 +58,9 @@
  [![Vue](https://img.shields.io/badge/-Vue.js-f9f6f6?style=for-the-badge&logo=Vue.js&logoColor=4FC08D)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
    [![Babel](https://img.shields.io/badge/-Babel-f9f6f6?style=for-the-badge&logo=Babel&logoColor=F9DC3E)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
    [![TS](https://img.shields.io/badge/-TypeScript-f9f6f6?style=for-the-badge&logo=TypeScript&logoColor=3178C6)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
-  <!--[![Node](https://img.shields.io/badge/-Node.js-f9f6f6?style=for-the-badge&logo=Node.js&logoColor=339933)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+ [![Node](https://img.shields.io/badge/-Node.js-f9f6f6?style=for-the-badge&logo=Node.js&logoColor=339933)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
      [![C++](https://img.shields.io/badge/-C++-f9f6f6?style=for-the-badge&logo=C&logoColor=00AEF0)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
-    <!--[![Kotlin](https://img.shields.io/badge/-Kotlin-f9f6f6?style=for-the-badge&logo=Kotlin&logoColor=B366F6)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+   [![Kotlin](https://img.shields.io/badge/-Kotlin-f9f6f6?style=for-the-badge&logo=Kotlin&logoColor=B366F6)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
     [![Android](https://img.shields.io/badge/-Android-f9f6f6?style=for-the-badge&logo=Android&logoColor=3DDC84)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
     [![Flask](https://img.shields.io/badge/-Flask-f9f6f6?style=for-the-badge&logo=Flask&logoColor=000000)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
      [![Django](https://img.shields.io/badge/-Django-f9f6f6?style=for-the-badge&logo=Django&logoColor=092E20)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
@@ -82,7 +82,7 @@
       [![R](https://img.shields.io/badge/-R-f9f6f6?style=for-the-badge&logo=R&logoColor=276DC3)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       [![Tensorflow](https://img.shields.io/badge/-Tensorflow-f9f6f6?style=for-the-badge&logo=Tensorflow&logoColor=FF6F00)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       [![PyTorch](https://img.shields.io/badge/-PyTorch-f9f6f6?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
-      [![Firebase](https://img.shields.io/badge/-Firebase-f9f6f6?style=for-the-badge&logo=Firebase&logoColor=FFCA28)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/) -->
+      [![Firebase](https://img.shields.io/badge/-Firebase-f9f6f6?style=for-the-badge&logo=Firebase&logoColor=FFCA28)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  </div>
 
   
