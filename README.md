@@ -38,7 +38,7 @@
  
  <div align="left">
  
-  [![White Hat](https://img.shields.io/badge/-White‍‍Hat-f9f6f6?style=for-the-badge&logo=Red-Hat&logoColor=ffffff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+  [![White Hat](https://img.shields.io/badge/-White‍‍Hat-f9f6f6?style=for-the-badge&logo=Red-Hat&logoColor=FCFBFA)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![HTML5](https://img.shields.io/badge/-HTML5-f9f6f6?style=for-the-badge&logo=HTML5&logoColor=E34F26)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![CSS3](https://img.shields.io/badge/-CSS3-f9f6f6?style=for-the-badge&logo=CSS3&logoColor=1877F2)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![JS](https://img.shields.io/badge/-JavaScript(ES6)-f9f6f6?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
