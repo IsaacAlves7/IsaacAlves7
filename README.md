@@ -61,6 +61,7 @@
    [![TS](https://img.shields.io/badge/-TypeScript-f9f6f6?style=for-the-badge&logo=TypeScript&logoColor=3178C6)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Node](https://img.shields.io/badge/-Node.js-f9f6f6?style=for-the-badge&logo=Node.js&logoColor=339933)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Express](https://img.shields.io/badge/-Express-f9f6f6?style=for-the-badge&logo=Express&logoColor=000000)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+ [![Adonis.js](https://img.shields.io/badge/-Adonis.js-f9f6f6?style=for-the-badge&logo=AdonisJS&logoColor=220052)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
   [![NPM](https://img.shields.io/badge/-NPM-f9f6f6?style=for-the-badge&logo=NPM&logoColor=CB3837)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
      [![C++](https://img.shields.io/badge/-C++-f9f6f6?style=for-the-badge&logo=C&logoColor=00AEF0)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
    [![Kotlin](https://img.shields.io/badge/-Kotlin-f9f6f6?style=for-the-badge&logo=Kotlin&logoColor=B366F6)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
