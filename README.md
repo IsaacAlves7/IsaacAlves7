@@ -79,7 +79,7 @@
   [![React Native](https://img.shields.io/badge/-React‍‍Native-f9f6f6?style=for-the-badge&logo=React&logoColor=00C4CC)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
   [![Ionic](https://img.shields.io/badge/-Ionic-f9f6f6?style=for-the-badge&logo=Ionic&logoColor=3880FF)](https://ionicframework.com/)
    [![Electron](https://img.shields.io/badge/-Electron-f9f6f6?style=for-the-badge&logo=Electron&logoColor=47848F)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
-     [![Elixir](https://img.shields.io/badge/-Elixir-f9f6f6?style=for-the-badge&logo=Elixir&logoColor=4B275F)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+     [![Elixir](https://img.shields.io/badge/-Elixir-f9f6f6?style=for-the-badge&logo=Elixir&logoColor=4B275F)](https://elixir-lang.org/)
       [![Webpack](https://img.shields.io/badge/-Webpack-f9f6f6?style=for-the-badge&logo=Webpack&logoColor=8DD6F9)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
        [![Mocha & Chai](https://img.shields.io/badge/-Mocha‍‍&‍‍Chai-f9f6f6?style=for-the-badge&logo=Mocha&logoColor=8D6748)](https://mochajs.org/)
       [![Jest](https://img.shields.io/badge/-Jest-f9f6f6?style=for-the-badge&logo=Jest&logoColor=C21325)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
