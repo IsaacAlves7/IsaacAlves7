@@ -95,6 +95,7 @@
       [![PyTorch](https://img.shields.io/badge/-PyTorch-f9f6f6?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       [![Firebase](https://img.shields.io/badge/-Firebase-f9f6f6?style=for-the-badge&logo=Firebase&logoColor=FFCA28)](https://firebase.google.com/?hl=pt-br)
       [![Docker](https://img.shields.io/badge/-Docker-f9f6f6?style=for-the-badge&logo=Docker&logoColor=2496ED)](https://firebase.google.com/?hl=pt-br)
+      [![Microsoft Azure](https://img.shields.io/badge/-Microsoft‍‍Azure-f9f6f6?style=for-the-badge&logo=Microsoft-Azure&logoColor=0089D6)](https://firebase.google.com/?hl=pt-br)
  </div>
 
   
