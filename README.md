@@ -94,6 +94,7 @@
       [![Tensorflow](https://img.shields.io/badge/-Tensorflow-f9f6f6?style=for-the-badge&logo=Tensorflow&logoColor=FF6F00)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       [![PyTorch](https://img.shields.io/badge/-PyTorch-f9f6f6?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       [![Firebase](https://img.shields.io/badge/-Firebase-f9f6f6?style=for-the-badge&logo=Firebase&logoColor=FFCA28)](https://firebase.google.com/?hl=pt-br)
+      [![Docker](https://img.shields.io/badge/-Docker-f9f6f6?style=for-the-badge&logo=Docker&logoColor=2496ED)](https://firebase.google.com/?hl=pt-br)
  </div>
 
   
