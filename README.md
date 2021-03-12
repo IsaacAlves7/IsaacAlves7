@@ -72,7 +72,7 @@
      [![C++](https://img.shields.io/badge/-C++-f9f6f6?style=for-the-badge&logo=C&logoColor=00AEF0)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       [![Arduino](https://img.shields.io/badge/-Arduino-f9f6f6?style=for-the-badge&logo=Arduino&logoColor=00979D)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
    [![Kotlin](https://img.shields.io/badge/-Kotlin-f9f6f6?style=for-the-badge&logo=Kotlin&logoColor=B366F6)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
-    [![Android](https://img.shields.io/badge/-Android-f9f6f6?style=for-the-badge&logo=Android&logoColor=3DDC84)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+    [![Android](https://img.shields.io/badge/-Android-f9f6f6?style=for-the-badge&logo=Android&logoColor=3DDC84)](https://www.android.com/intl/pt-BR_br/)
     [![Flask](https://img.shields.io/badge/-Flask-f9f6f6?style=for-the-badge&logo=Flask&logoColor=000000)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
      [![Django](https://img.shields.io/badge/-Django-f9f6f6?style=for-the-badge&logo=Django&logoColor=092E20)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
   [![Cy](https://img.shields.io/badge/-Cypress-f9f6f6?style=for-the-badge&logo=Cypress&logoColor=17202C)](https://www.cypress.io/)
