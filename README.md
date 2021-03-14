@@ -87,7 +87,7 @@
      [![Elixir](https://img.shields.io/badge/-Elixir-f9f6f6?style=for-the-badge&logo=Elixir&logoColor=4B275F)](https://elixir-lang.org/)
       [![Webpack](https://img.shields.io/badge/-Webpack-f9f6f6?style=for-the-badge&logo=Webpack&logoColor=8DD6F9)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
        [![Mocha & Chai](https://img.shields.io/badge/-Mocha‍‍&‍‍Chai-f9f6f6?style=for-the-badge&logo=Mocha&logoColor=8D6748)](https://mochajs.org/)
-      [![Jest](https://img.shields.io/badge/-Jest-f9f6f6?style=for-the-badge&logo=Jest&logoColor=C21325)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+      [![Jest](https://img.shields.io/badge/-Jest-f9f6f6?style=for-the-badge&logo=Jest&logoColor=C21325)](https://jestjs.io/)
       [![GraphQL](https://img.shields.io/badge/-GraphQL-f9f6f6?style=for-the-badge&logo=GraphQL&logoColor=E10098)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
 [![OracleDB](https://img.shields.io/badge/-OracleDB-f9f6f6?style=for-the-badge&logo=Oracle&logoColor=F80000)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
 [![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft‍‍SQL‍‍Server-f9f6f6?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=CC2927)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
