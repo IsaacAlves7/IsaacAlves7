@@ -63,7 +63,7 @@
  [![Angular](https://img.shields.io/badge/-Angular-f9f6f6?style=for-the-badge&logo=Angular&logoColor=DD0031)](https://angular.io/)
  [![Vue](https://img.shields.io/badge/-Vue.js-f9f6f6?style=for-the-badge&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
  [![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-f9f6f6?style=for-the-badge&logo=Nuxt.js&logoColor=00C58E)](https://vuejs.org/)
-   [![Babel](https://img.shields.io/badge/-Babel-f9f6f6?style=for-the-badge&logo=Babel&logoColor=F9DC3E)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+   [![Babel](https://img.shields.io/badge/-Babel-f9f6f6?style=for-the-badge&logo=Babel&logoColor=F9DC3E)](https://babeljs.io/)
    [![TS](https://img.shields.io/badge/-TypeScript-f9f6f6?style=for-the-badge&logo=TypeScript&logoColor=3178C6)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Node](https://img.shields.io/badge/-Node.js-f9f6f6?style=for-the-badge&logo=Node.js&logoColor=339933)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Express](https://img.shields.io/badge/-Express-f9f6f6?style=for-the-badge&logo=Express&logoColor=000000)](https://expressjs.com/pt-br/)
