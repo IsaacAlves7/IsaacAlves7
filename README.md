@@ -52,7 +52,7 @@
  [![Python](https://img.shields.io/badge/-Python-f9f6f6?style=for-the-badge&logo=Python&logoColor=3776AB)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![PHP](https://img.shields.io/badge/-PHP-f9f6f6?style=for-the-badge&logo=PHP&logoColor=777BB4)](https://www.php.net/)
  [![Composer](https://img.shields.io/badge/-Composer-f9f6f6?style=for-the-badge&logo=Composer&logoColor=885630)](https://getcomposer.org/)
- [![Laravel](https://img.shields.io/badge/-Laravel-f9f6f6?style=for-the-badge&logo=Laravel&logoColor=FF2D20)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+ [![Laravel](https://img.shields.io/badge/-Laravel-f9f6f6?style=for-the-badge&logo=Laravel&logoColor=FF2D20)](https://laravel.com/)
  [![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-f9f6f6?style=for-the-badge&logo=CodeIgniter&logoColor=FF2D20)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Java](https://img.shields.io/badge/-Java-f9f6f6?style=for-the-badge&logo=Java&logoColor=F80000)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Spring](https://img.shields.io/badge/-Spring-f9f6f6?style=for-the-badge&logo=Spring&logoColor=6DB33F)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
