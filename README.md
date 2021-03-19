@@ -21,7 +21,7 @@
  - ⚛️ I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science.
  - 🔠 I'm B1-B2 in english and B1 in spanish language.
  - 😄 I really like to learn more and more!
- - 🌱 I’m currently learning about Reactive programming, Design Patterns, DDD, MVC, MVP, MVVM, Systems Architecture, API's, UI/UX Design, Microcontrollers, IoT, Voice Recognition, Cloud Computing, DevOps, Cybersecurity, AI and Quantum Computing.
+ - 🌱 I’m currently learning about Reactive programming, PDO, Design Patterns, DDD, MVC, MVP, MVVM, Systems Architecture, API's, UI/UX Design, Microcontrollers, IoT, Voice Recognition, Cloud Computing, DevOps, Cybersecurity, AI and Quantum Computing.
  - 👯 I’m looking to collaborate on new web applications, hybrid apps and multiplataform desktop applications.
  - 💜 I'm very passionate about technologies and i'm always learning and creating new applications, projects and implementing them.
  - 🎯 Focused in Full-Stack development.
