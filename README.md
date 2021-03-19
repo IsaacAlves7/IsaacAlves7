@@ -72,6 +72,7 @@
   [![NPM](https://img.shields.io/badge/-NPM-f9f6f6?style=for-the-badge&logo=NPM&logoColor=CB3837)](https://www.npmjs.com/)
    [![Yarn](https://img.shields.io/badge/-Yarn-f9f6f6?style=for-the-badge&logo=Yarn&logoColor=2C8EBB)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
    [![Chocolatey](https://img.shields.io/badge/-Chocolatey-f9f6f6?style=for-the-badge&logo=Chocolatey&logoColor=80B5E3)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+     <img src="https://ionicframework.com/img/homepage/hero-ionic-react.png" align="right" height="370"/>
      [![C++](https://img.shields.io/badge/-C++-f9f6f6?style=for-the-badge&logo=C&logoColor=00AEF0)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       [![Arduino](https://img.shields.io/badge/-Arduino-f9f6f6?style=for-the-badge&logo=Arduino&logoColor=00979D)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
    [![Kotlin](https://img.shields.io/badge/-Kotlin-f9f6f6?style=for-the-badge&logo=Kotlin&logoColor=B366F6)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
@@ -102,7 +103,6 @@
       [![Microsoft Azure](https://img.shields.io/badge/-Microsoft‍‍Azure-f9f6f6?style=for-the-badge&logo=Microsoft-Azure&logoColor=0089D6)](https://firebase.google.com/?hl=pt-br)
        [![AWS](https://img.shields.io/badge/-AWS-f9f6f6?style=for-the-badge&logo=Amazon-AWS&logoColor=FF9900)](https://firebase.google.com/?hl=pt-br)
  </div>
-  <img src="https://ionicframework.com/img/homepage/hero-ionic-react.png" align="right" height="370"/>
   
 ## 👨🏾‍💼 Status and progress
 <p>&nbsp;</p>
