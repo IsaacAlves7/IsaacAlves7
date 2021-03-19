@@ -27,6 +27,7 @@
  - 🎯 Focused in Full-Stack development.
 
 ## 👨🏾‍💻 Knowledge and skills
+<p>&nbsp;</p>
 <!--The same height for everybody
 <div align="justify">
 <a href="https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest/"><img src="https://www.lovegroveconsulting.com/wp-content/uploads/2017/08/white-hat-seo.png" height="50" title="White Hat"/>
