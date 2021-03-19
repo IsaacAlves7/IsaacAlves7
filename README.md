@@ -37,8 +37,6 @@
  <img src="https://www.flaticon.com/svg/vstatic/svg/1578/1578409.svg?token=exp=1614549204~hmac=aebbac9ddf60f8605b4a61816b200db6" height="170"><img src="https://www.flaticon.com/svg/vstatic/svg/1578/1578448.svg?token=exp=1614549655~hmac=9dd8f5fff184115b9bac8cfaa27d2b0c" height="170"><img src="https://www.flaticon.com/svg/vstatic/svg/1578/1578377.svg?token=exp=1614549845~hmac=d75a00a69ff4319777a65e361d06ce2e" height="170">
   <img src="https://www.flaticon.com/svg/vstatic/svg/1578/1578387.svg?token=exp=1614549637~hmac=20cbb15a9ce30dbf7bc0a19c51640313" height="170"> 
   -->
- 
-  <img src="https://ionicframework.com/img/homepage/hero-ionic-react.png" align="right" height="370"/>
   
  <div align="left">
  
@@ -104,7 +102,7 @@
       [![Microsoft Azure](https://img.shields.io/badge/-Microsoft‍‍Azure-f9f6f6?style=for-the-badge&logo=Microsoft-Azure&logoColor=0089D6)](https://firebase.google.com/?hl=pt-br)
        [![AWS](https://img.shields.io/badge/-AWS-f9f6f6?style=for-the-badge&logo=Amazon-AWS&logoColor=FF9900)](https://firebase.google.com/?hl=pt-br)
  </div>
-
+  <img src="https://ionicframework.com/img/homepage/hero-ionic-react.png" align="right" height="370"/>
   
 ## 👨🏾‍💼 Status and progress
 <p>&nbsp;</p>
