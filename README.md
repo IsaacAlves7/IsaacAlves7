@@ -39,6 +39,7 @@
   -->
  
  <div align="left">
+ <img src="https://ionicframework.com/img/homepage/hero-ionic-react.png" align="right" height="370"/>
  
   [![White Hat](https://img.shields.io/badge/-White‍‍Hat-000000?style=for-the-badge&logo=Red-Hat&logoColor=FCFBFA)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![HTML5](https://img.shields.io/badge/-HTML5-f9f6f6?style=for-the-badge&logo=HTML5&logoColor=E34F26)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
