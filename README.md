@@ -33,7 +33,8 @@
 <p>
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ or https://worldvectorlogo.com/ or flaticon
- 
+ https://www.flaticon.com/svg/vstatic/svg/3529/3529959.svg?token=exp=1616131821~hmac=11c42c7812228a191bea469a88b3ce10
+https://www.flaticon.com/svg/vstatic/svg/4207/4207345.svg?token=exp=1616131819~hmac=9f1807b1918639fcd973cc0d9169d2ae
  <img src="https://www.flaticon.com/svg/vstatic/svg/1578/1578409.svg?token=exp=1614549204~hmac=aebbac9ddf60f8605b4a61816b200db6" height="170"><img src="https://www.flaticon.com/svg/vstatic/svg/1578/1578448.svg?token=exp=1614549655~hmac=9dd8f5fff184115b9bac8cfaa27d2b0c" height="170"><img src="https://www.flaticon.com/svg/vstatic/svg/1578/1578377.svg?token=exp=1614549845~hmac=d75a00a69ff4319777a65e361d06ce2e" height="170">
   <img src="https://www.flaticon.com/svg/vstatic/svg/1578/1578387.svg?token=exp=1614549637~hmac=20cbb15a9ce30dbf7bc0a19c51640313" height="170"> 
   -->
