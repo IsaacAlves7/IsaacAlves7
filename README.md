@@ -99,7 +99,7 @@ https://www.flaticon.com/svg/vstatic/svg/4207/4207345.svg?token=exp=1616131819~h
       [![Redis](https://img.shields.io/badge/-Redis-f9f6f6?style=for-the-badge&logo=Redis&logoColor=DC382D)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       [![R](https://img.shields.io/badge/-R-f9f6f6?style=for-the-badge&logo=R&logoColor=276DC3)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       [![Tensorflow](https://img.shields.io/badge/-Tensorflow-f9f6f6?style=for-the-badge&logo=Tensorflow&logoColor=FF6F00)](https://www.tensorflow.org/?hl=pt-br)
-      [![PyTorch](https://img.shields.io/badge/-PyTorch-f9f6f6?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+      [![PyTorch](https://img.shields.io/badge/-PyTorch-f9f6f6?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C)](https://pytorch.org/)
       [![Firebase](https://img.shields.io/badge/-Firebase-f9f6f6?style=for-the-badge&logo=Firebase&logoColor=FFCA28)](https://firebase.google.com/?hl=pt-br)
       [![Docker](https://img.shields.io/badge/-Docker-f9f6f6?style=for-the-badge&logo=Docker&logoColor=2496ED)](https://firebase.google.com/?hl=pt-br)
       [![Microsoft Azure](https://img.shields.io/badge/-Microsoft‍‍Azure-f9f6f6?style=for-the-badge&logo=Microsoft-Azure&logoColor=0089D6)](https://firebase.google.com/?hl=pt-br)
