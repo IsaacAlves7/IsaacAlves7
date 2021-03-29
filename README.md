@@ -75,6 +75,7 @@ https://www.flaticon.com/svg/vstatic/svg/4207/4207345.svg?token=exp=1616131819~h
    [![Yarn](https://img.shields.io/badge/-Yarn-f9f6f6?style=for-the-badge&logo=Yarn&logoColor=2C8EBB)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
    [![Chocolatey](https://img.shields.io/badge/-Chocolatey-f9f6f6?style=for-the-badge&logo=Chocolatey&logoColor=80B5E3)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
      [![C++](https://img.shields.io/badge/-C++-f9f6f6?style=for-the-badge&logo=C&logoColor=00AEF0)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+     [![C#](https://img.shields.io/badge/-Blazor-f9f6f6?style=for-the-badge&logo=Blazor&logoColor=512BD4)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       [![Arduino](https://img.shields.io/badge/-Arduino-f9f6f6?style=for-the-badge&logo=Arduino&logoColor=00979D)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
    [![Kotlin](https://img.shields.io/badge/-Kotlin-f9f6f6?style=for-the-badge&logo=Kotlin&logoColor=B366F6)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
     [![Android](https://img.shields.io/badge/-Android-f9f6f6?style=for-the-badge&logo=Android&logoColor=3DDC84)](https://www.android.com/intl/pt-BR_br/)
