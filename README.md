@@ -88,6 +88,7 @@ https://www.flaticon.com/svg/vstatic/svg/4207/4207345.svg?token=exp=1616131819~h
    [![Electron](https://img.shields.io/badge/-Electron-f9f6f6?style=for-the-badge&logo=Electron&logoColor=47848F)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
      [![Elixir](https://img.shields.io/badge/-Elixir-f9f6f6?style=for-the-badge&logo=Elixir&logoColor=4B275F)](https://elixir-lang.org/)
       [![Webpack](https://img.shields.io/badge/-Webpack-f9f6f6?style=for-the-badge&logo=Webpack&logoColor=8DD6F9)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+      [![WebAssembly](https://img.shields.io/badge/-Webassembly-f9f6f6?style=for-the-badge&logo=WebAssembly&logoColor=654FF0)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
        [![Mocha & Chai](https://img.shields.io/badge/-Mocha‍‍&‍‍Chai-f9f6f6?style=for-the-badge&logo=Mocha&logoColor=8D6748)](https://mochajs.org/)
       [![Jest](https://img.shields.io/badge/-Jest-f9f6f6?style=for-the-badge&logo=Jest&logoColor=C21325)](https://jestjs.io/)
       [![GraphQL](https://img.shields.io/badge/-GraphQL-f9f6f6?style=for-the-badge&logo=GraphQL&logoColor=E10098)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
