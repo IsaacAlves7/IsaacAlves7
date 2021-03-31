@@ -15,7 +15,7 @@
 [![DIO](https://img.shields.io/badge/-DIO-f9f9f9?style=for-the-badge&logo=asciinema&logoColor=FA6709)](https://web.digitalinnovation.one/users/isaac_alves0720?tab=achievements)
 [![ArtStation](https://img.shields.io/badge/-ArtStation-f9f9f9?style=for-the-badge&logo=ArtStation&logoColor=13AFF0)](https://www.artstation.com/isaacalves7)
 
-<img src="https://www.flaticon.com/svg/vstatic/svg/4207/4207345.svg?token=exp=1616131819~hmac=9f1807b1918639fcd973cc0d9169d2ae" align="right" height="370"/>
+<img src="" align="right" height="370"/>
 
  - ⚛️ I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science.
  - 🔠 I'm B1-B2 in english and B1 in spanish language.
