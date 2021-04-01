@@ -111,7 +111,7 @@ https://www.flaticon.com/svg/vstatic/svg/4207/4207345.svg?token=exp=1616131819~h
 ## 👨🏾‍💼 Status and progress
 <p>&nbsp;</p>
 
-<img src="" align="left" height="277">
+<img src="https://user-images.githubusercontent.com/61624336/105997359-47208900-608a-11eb-8172-9164c5683afa.png" align="left" height="277">
 
 <div align="justify">
 
