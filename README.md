@@ -7,7 +7,7 @@
 <!-- - 🔭 I’m currently working on Skyliner
 -->
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-f9f6f6?style=for-the-badge&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+[![Codeberg](https://img.shields.io/badge/-Codeberg-f9f6f6?style=for-the-badge&logo=Codeberg&logoColor=2185D0)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
 [![CodePen](https://img.shields.io/badge/-CodePen-f9f6f6?style=for-the-badge&logo=CodePen&logoColor=000)](https://codepen.io/isaacalves7/)
 [![CodeSandBox](https://img.shields.io/badge/-CodeSandBox-f9f6f6?style=for-the-badge&logo=CodeSandBox&logoColor=000)](https://codesandbox.io/u/IsaacAlves7)
 [![Rocketseat](https://img.shields.io/badge/-Rocketseat-f9f9f9?style=for-the-badge&logo=American-Airlines&logoColor=9266CC)](https://app.rocketseat.com.br/me/isaac-alves-pinheiro-1589164166)
