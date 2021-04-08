@@ -23,7 +23,7 @@
  - 🌱 I’m learning about Reactive programming, PDO, Design Patterns, DDD, MVC, MVP, MVVM, Systems Architecture, API's, UI/UX Design, Microcontrollers, IoT, Voice Recognition, Cloud Computing, DevOps, Cybersecurity, AI, AR, VR and Quantum Computing.
  - 👯 I’m looking to collaborate on new web applications, hybrid apps and multiplataform desktop applications.
  - 💜 I'm very passionate about technologies and i'm always learning and creating new applications, projects and implementing them.
- - 🎯 Focused in Full-Stack development.
+ - 🎯 Focused in Full-Stack development with the languages: JavaScript, Python, PHP, .NET Framework, Java and C++.
 
 ## 👨🏾‍💻 Knowledge and skills
 <p>&nbsp;</p>
