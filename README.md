@@ -32,7 +32,6 @@
  - 🎯 Focused in Full-Stack development with the languages: JavaScript, Python, PHP, .NET Framework, Java and C++.
 
 ## 👨🏾‍💻 Knowledge and skills
-<p>&nbsp;</p>
 <!--The same height for everybody
 <div align="justify">
 <a href="https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest/"><img src="https://www.lovegroveconsulting.com/wp-content/uploads/2017/08/white-hat-seo.png" height="50" title="White Hat"/>
@@ -118,8 +117,6 @@ https://www.flaticon.com/svg/vstatic/svg/4207/4207345.svg?token=exp=1616131819~h
  </div>
   
 ## 👨🏾‍💼 Status and progress
-<p>&nbsp;</p>
-
 <img src="https://user-images.githubusercontent.com/61624336/105997359-47208900-608a-11eb-8172-9164c5683afa.png" align="left" height="277">
 
 <div align="justify">
