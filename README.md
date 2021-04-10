@@ -8,7 +8,6 @@
 -->
 
 [![Gitlab](https://img.shields.io/badge/-Gitlab-f9f6f6?style=for-the-badge&logo=GitLab&logoColor=FCA121)](https://gitlab.com/IsaacAlves7)
-[![Gitlab](https://img.shields.io/badge/-Gitlab-f9f6f6?style=for-the-badge&logo=GitLab&logoColor=FCA121)](https://codesandbox.io/u/IsaacAlves7)
 [![Codeberg](https://img.shields.io/badge/-Codeberg-f9f6f6?style=for-the-badge&logo=Codeberg&logoColor=2185D0)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
 [![Docker Hub](https://img.shields.io/badge/-DockerHub-f9f9f9?style=for-the-badge&logo=Docker&logoColor=2496ED)](https://hub.docker.com/u/isaacalves7)
 [![Vercel](https://img.shields.io/badge/-Vercel-f9f9f9?style=for-the-badge&logo=Vercel&logoColor=000000)](https://vercel.com/isaacalves7)
@@ -112,6 +111,7 @@ https://www.flaticon.com/svg/vstatic/svg/4207/4207345.svg?token=exp=1616131819~h
       [![Firebase](https://img.shields.io/badge/-Firebase-f9f6f6?style=for-the-badge&logo=Firebase&logoColor=FFCA28)](https://firebase.google.com/?hl=pt-br)
       [![Docker](https://img.shields.io/badge/-Docker-f9f6f6?style=for-the-badge&logo=Docker&logoColor=2496ED)](https://firebase.google.com/?hl=pt-br)
       [![Kubernetes](https://img.shields.io/badge/-Kubernetes-f9f9f9?style=for-the-badge&logo=Kubernetes&logoColor=326CE5)]()
+      [![GitHub Actions](https://img.shields.io/badge/-GitHub‍‍Actions-f9f6f6?style=for-the-badge&logo=GitHub-Actions&logoColor=2088FF)]()
       [![Microsoft Azure](https://img.shields.io/badge/-Microsoft‍‍Azure-f9f6f6?style=for-the-badge&logo=Microsoft-Azure&logoColor=0089D6)](https://firebase.google.com/?hl=pt-br)
        [![AWS](https://img.shields.io/badge/-AWS-f9f6f6?style=for-the-badge&logo=Amazon-AWS&logoColor=FF9900)](https://firebase.google.com/?hl=pt-br)
  </div>
