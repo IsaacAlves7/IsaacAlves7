@@ -11,6 +11,7 @@
 [![Docker Hub](https://img.shields.io/badge/-DockerHub-f9f9f9?style=for-the-badge&logo=Docker&logoColor=2496ED)](https://hub.docker.com/u/isaacalves7)
 [![Vercel](https://img.shields.io/badge/-Vercel-f9f9f9?style=for-the-badge&logo=Vercel&logoColor=000000)](https://vercel.com/isaacalves7)
 [![Heroku](https://img.shields.io/badge/-Heroku-f9f9f9?style=for-the-badge&logo=Heroku&logoColor=430098)]()
+[![Codecov](https://img.shields.io/badge/-Codecov-f9f9f9?style=for-the-badge&logo=Codecov&logoColor=F01F7A)](https://codecov.io/gh/IsaacAlves7)
 [![CodePen](https://img.shields.io/badge/-CodePen-f9f6f6?style=for-the-badge&logo=CodePen&logoColor=000)](https://codepen.io/isaacalves7/)
 [![CodeSandBox](https://img.shields.io/badge/-CodeSandBox-f9f6f6?style=for-the-badge&logo=CodeSandBox&logoColor=000)](https://codesandbox.io/u/IsaacAlves7)
 [![Rocketseat](https://img.shields.io/badge/-Rocketseat-f9f9f9?style=for-the-badge&logo=American-Airlines&logoColor=9266CC)](https://app.rocketseat.com.br/me/isaac-alves-pinheiro-1589164166)
