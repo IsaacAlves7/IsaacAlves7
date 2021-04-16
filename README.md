@@ -102,7 +102,9 @@ https://www.flaticon.com/svg/vstatic/svg/4207/4207345.svg?token=exp=1616131819~h
       [![GraphQL](https://img.shields.io/badge/-GraphQL-f9f6f6?style=for-the-badge&logo=GraphQL&logoColor=E10098)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
 [![OracleDB](https://img.shields.io/badge/-OracleDB-f9f6f6?style=for-the-badge&logo=Oracle&logoColor=F80000)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
 [![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft‍‍SQL‍‍Server-f9f6f6?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=CC2927)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-f9f6f6?style=for-the-badge&logo=MongoDB&logoColor=47A248)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-f9f6f6?style=for-the-badge&logo=MongoDB&logoColor
+
+=47A248)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       [![SQLite](https://img.shields.io/badge/-SQLite-f9f6f6?style=for-the-badge&logo=SQLite&logoColor=003B57)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       [![Redis](https://img.shields.io/badge/-Redis-f9f6f6?style=for-the-badge&logo=Redis&logoColor=DC382D)](https://redis.io/)
       [![R](https://img.shields.io/badge/-R-f9f6f6?style=for-the-badge&logo=R&logoColor=276DC3)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
@@ -117,7 +119,7 @@ https://www.flaticon.com/svg/vstatic/svg/4207/4207345.svg?token=exp=1616131819~h
  </div>
   
 ## 👨🏾‍💼 Status and progress
-<img src="https://user-images.githubusercontent.com/61624336/105997359-47208900-608a-11eb-8172-9164c5683afa.png" align="left" height="277">
+<img src="https://user-images.githubusercontent.com/61624336/115090156-7d7fde80-9eea-11eb-91c4-d43d64237842.png" align="left" height="277">
 
 <div align="justify">
 
