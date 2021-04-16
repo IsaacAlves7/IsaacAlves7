@@ -102,7 +102,7 @@ https://www.flaticon.com/svg/vstatic/svg/4207/4207345.svg?token=exp=1616131819~h
       [![GraphQL](https://img.shields.io/badge/-GraphQL-f9f6f6?style=for-the-badge&logo=GraphQL&logoColor=E10098)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
 [![OracleDB](https://img.shields.io/badge/-OracleDB-f9f6f6?style=for-the-badge&logo=Oracle&logoColor=F80000)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
 [![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft‍‍SQL‍‍Server-f9f6f6?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=CC2927)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-f9f6f6?style=for-the-badge&logo=MongoDB&logoColor
+[![MongoDB](https://img.shields.io/badge/-MongoDB-f9f6f6?style=for-the-badge&logo=MongoDB&logoColor=green)]()
 
 =47A248)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
       [![SQLite](https://img.shields.io/badge/-SQLite-f9f6f6?style=for-the-badge&logo=SQLite&logoColor=003B57)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
