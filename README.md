@@ -1,7 +1,7 @@
 <h1 align="center">🥽 Welcome to my Lab 🥼</h1>
 
 <!--<div align="center"><a href="https://github.com/IsaacAlves7"><img src="https://i.pinimg.com/originals/9f/c2/12/9fc2126eec2c0a3876e3f2097af9b983.gif" /></a></div>-->
-<div align="center"><a href="https://github.com/IsaacAlves7"><img src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png" height="370" title="Home"/></a></div>
+<div align="center"><a href="https://github.com/IsaacAlves7"><svg fill="#000" viewBox="0 0 24 24"></svg><img src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png" height="370" title="Home"/></a></div>
 
 ## 👨🏾‍🔬 About me
 <!-- - 🔭 I’m currently working on Skyliner
@@ -21,7 +21,7 @@
 [![DIO](https://img.shields.io/badge/-Digital‍‍Innovation‍‍One-f9f9f9?style=for-the-badge&logo=asciinema&logoColor=FA6709)](https://web.digitalinnovation.one/users/isaac_alves0720?tab=achievements)
 [![ArtStation](https://img.shields.io/badge/-ArtStation-f9f9f9?style=for-the-badge&logo=ArtStation&logoColor=13AFF0)](https://www.artstation.com/isaacalves7)
 
-<!--<img src="https://user-images.githubusercontent.com/61624336/113229854-2b925400-926e-11eb-923a-299c0ae69178.png" align="right" height="370"/>-->
+<img src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png" align="right" height="370"/>
 
  - ⚛️ I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science.
  - 🔠 I'm B1-B2 in english and B1 in spanish language.
