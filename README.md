@@ -21,7 +21,7 @@
 [![DIO](https://img.shields.io/badge/-Digital‍‍Innovation‍‍One-f9f9f9?style=for-the-badge&logo=asciinema&logoColor=FA6709)](https://web.digitalinnovation.one/users/isaac_alves0720?tab=achievements)
 [![ArtStation](https://img.shields.io/badge/-ArtStation-f9f9f9?style=for-the-badge&logo=ArtStation&logoColor=13AFF0)](https://www.artstation.com/isaacalves7)
 
-<img src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png" align="right" height="370"/>
+<img src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png" align="right" height="357"/>
 
  - ⚛️ I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science.
  - 😄 I really like to learn more and more!
