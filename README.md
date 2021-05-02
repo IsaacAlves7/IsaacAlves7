@@ -7,7 +7,7 @@
 <!-- - 🔭 I’m currently working on Skyliner
 -->
 
-/*[![Site](https://img.shields.io/badge/-Website-f9f6f6?style=for-the-badge&logo=Radar&logoColor=326CE5)](https://www.isaacalves7.com/)*/
+<!--[![Site](https://img.shields.io/badge/-Website-f9f6f6?style=for-the-badge&logo=Radar&logoColor=326CE5)](https://www.isaacalves7.com/)-->
 
 [![Gitlab](https://img.shields.io/badge/-Gitlab-f9f6f6?style=for-the-badge&logo=GitLab&logoColor=FCA121)](https://gitlab.com/IsaacAlves7)
 [![Codeberg](https://img.shields.io/badge/-Codeberg-f9f6f6?style=for-the-badge&logo=Codeberg&logoColor=2185D0)](https://codeberg.org/IsaacAlves7)
