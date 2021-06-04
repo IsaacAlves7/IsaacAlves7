@@ -29,7 +29,6 @@
  - 🎯 Focused in Full-Stack development with the languages: JavaScript, Python, PHP, .NET Framework, Java and C++.
 
 [![Rocketseat](https://img.shields.io/badge/-Rocketseat-f9f9f9?style=for-the-badge&logo=American-Airlines&logoColor=9266CC)](https://app.rocketseat.com.br/me/isaac-alves-pinheiro-1589164166)
-
 [![DIO](https://img.shields.io/badge/-Digital‍‍Innovation‍‍One-f9f9f9?style=for-the-badge&logo=asciinema&logoColor=FA6709)](https://web.digitalinnovation.one/users/isaac_alves0720?tab=achievements)
 
 
