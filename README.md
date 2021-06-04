@@ -17,7 +17,6 @@
 [![CodePen](https://img.shields.io/badge/-CodePen-f9f6f6?style=for-the-badge&logo=CodePen&logoColor=000)](https://codepen.io/isaacalves7/)
 [![CodeSandBox](https://img.shields.io/badge/-CodeSandBox-f9f6f6?style=for-the-badge&logo=CodeSandBox&logoColor=000)](https://codesandbox.io/u/IsaacAlves7)
 [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-f9f9f9?style=for-the-badge&logo=FreeCodeCamp&logoColor=000)](https://www.freecodecamp.org/isaac7)
-[![DIO](https://img.shields.io/badge/-Digital‍‍Innovation‍‍One-f9f9f9?style=for-the-badge&logo=asciinema&logoColor=FA6709)](https://web.digitalinnovation.one/users/isaac_alves0720?tab=achievements)
 [![ArtStation](https://img.shields.io/badge/-ArtStation-f9f9f9?style=for-the-badge&logo=ArtStation&logoColor=13AFF0)](https://www.artstation.com/isaacalves7)
 
 <img src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png" align="right" height="357"/>
@@ -30,6 +29,9 @@
  - 🎯 Focused in Full-Stack development with the languages: JavaScript, Python, PHP, .NET Framework, Java and C++.
 
 [![Rocketseat](https://img.shields.io/badge/-Rocketseat-f9f9f9?style=for-the-badge&logo=American-Airlines&logoColor=9266CC)](https://app.rocketseat.com.br/me/isaac-alves-pinheiro-1589164166)
+
+[![DIO](https://img.shields.io/badge/-Digital‍‍Innovation‍‍One-f9f9f9?style=for-the-badge&logo=asciinema&logoColor=FA6709)](https://web.digitalinnovation.one/users/isaac_alves0720?tab=achievements)
+
 
 ## 👨🏾‍💻 Knowledge and skills
 <!--The same height for everybody
