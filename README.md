@@ -53,10 +53,9 @@ https://www.flaticon.com/svg/vstatic/svg/4207/4207345.svg?token=exp=1616131819~h
  [![Python](https://img.shields.io/badge/-Python-f9f6f6?style=for-the-badge&logo=Python&logoColor=3776AB)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![PHP](https://img.shields.io/badge/-PHP-f9f6f6?style=for-the-badge&logo=PHP&logoColor=777BB4)](https://www.php.net/)
  [![Java](https://img.shields.io/badge/-Java-f9f6f6?style=for-the-badge&logo=Java&logoColor=F80000)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
- [![Vue](https://img.shields.io/badge/-Vue-f9f6f6?style=for-the-badge&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
  [![TS](https://img.shields.io/badge/-TypeScript-f9f6f6?style=for-the-badge&logo=TypeScript&logoColor=3178C6)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![C++](https://img.shields.io/badge/-C++-f9f6f6?style=for-the-badge&logo=C&logoColor=00AEF0)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
- [![.NET](https://img.shields.io/badge/-.NET-f9f6f6?style=for-the-badge&logo=.NET&logoColor=512BD4)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+ [![.NET](https://img.shields.io/badge/-C-Sharp-f9f6f6?style=for-the-badge&logo=C-Sharp&logoColor=512BD4)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Elixir](https://img.shields.io/badge/-Elixir-f9f6f6?style=for-the-badge&logo=Elixir&logoColor=4B275F)](https://elixir-lang.org/)
  [![R](https://img.shields.io/badge/-R-f9f6f6?style=for-the-badge&logo=R&logoColor=276DC3)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  
