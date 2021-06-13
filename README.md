@@ -7,7 +7,7 @@
 <!-- - 🔭 I’m currently working on Skyliner
 -->
 
-[![Trello](https://img.shields.io/badge/-Trello-f9f6f6?style=for-the-badge&logo=Trello&logoColor=0052CC)](https://trello.com/isaacalves77)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-f9f6f6?style=for-the-badge&logo=LinkedIn&logoColor=0052CC)](https://trello.com/isaacalves77)
 [![Gitlab](https://img.shields.io/badge/-Gitlab-f9f6f6?style=for-the-badge&logo=GitLab&logoColor=FCA121)](https://gitlab.com/IsaacAlves7)
 [![Codeberg](https://img.shields.io/badge/-Codeberg-f9f6f6?style=for-the-badge&logo=Codeberg&logoColor=2185D0)](https://codeberg.org/IsaacAlves7)
 [![Docker Hub](https://img.shields.io/badge/-DockerHub-f9f9f9?style=for-the-badge&logo=Docker&logoColor=2496ED)](https://hub.docker.com/u/isaacalves7)
