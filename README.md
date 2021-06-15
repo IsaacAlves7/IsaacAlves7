@@ -31,7 +31,7 @@
 [![Vercel](https://img.shields.io/badge/-Vercel-f9f9f9?style=for-the-badge&logo=Vercel&logoColor=000000)](https://vercel.com/isaacalves7)
 [![Heroku](https://img.shields.io/badge/-Heroku-f9f9f9?style=for-the-badge&logo=Heroku&logoColor=430098)](https://heroku.com/)
 [![Firebase](https://img.shields.io/badge/-Firebase-f9f9f9?style=for-the-badge&logo=Firebase&logoColor=FFCA28)](https://firebase.google.com/?hl=pt-br)
-[![AWS](https://img.shields.io/badge/-AWS-f9f9f9?style=for-the-badge&logo=Amazon-AWS&logoColor=232F3E)]()
+[![AWS](https://img.shields.io/badge/-AWS-f9f9f9?style=for-the-badge&logo=Amazon-AWS&logoColor=FF9900)]()
 
 
 ## 👨🏾‍💻 Knowledge and skills
