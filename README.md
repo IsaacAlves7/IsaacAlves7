@@ -29,7 +29,8 @@
 [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-f9f9f9?style=for-the-badge&logo=FreeCodeCamp&logoColor=000)](https://www.freecodecamp.org/isaac7)
 [![ArtStation](https://img.shields.io/badge/-ArtStation-f9f9f9?style=for-the-badge&logo=ArtStation&logoColor=13AFF0)](https://www.artstation.com/isaacalves7)
 [![Vercel](https://img.shields.io/badge/-Vercel-f9f9f9?style=for-the-badge&logo=Vercel&logoColor=000000)](https://vercel.com/isaacalves7)
-[![Heroku](https://img.shields.io/badge/-Heroku-f9f9f9?style=for-the-badge&logo=Heroku&logoColor=430098)](https://heroku.com/isaacalves7)
+[![Heroku](https://img.shields.io/badge/-Heroku-f9f9f9?style=for-the-badge&logo=Heroku&logoColor=430098)](https://heroku.com/)
+[![Firebase](https://img.shields.io/badge/-Firebase-f9f9f9?style=for-the-badge&logo=Firebase&logoColor=430098)](https://firebase.google.com/?hl=pt-br)
 
 
 ## 👨🏾‍💻 Knowledge and skills
