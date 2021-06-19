@@ -15,7 +15,7 @@
 
  </div>
  
- ### Check my other projects
+ ### 🔬 Check other projects
  
  [![CodePen](https://img.shields.io/badge/-CodePen-f9f6f6?style=for-the-badge&logo=CodePen&logoColor=000)](https://codepen.io/isaacalves7/)
  [![CodeSandBox](https://img.shields.io/badge/-CodeSandBox-f9f6f6?style=for-the-badge&logo=CodeSandBox&logoColor=000)](https://codesandbox.io/u/IsaacAlves7)
