@@ -10,11 +10,16 @@
  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-f9f6f6?style=for-the-badge&logo=LinkedIn&logoColor=0052CC)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
 [![Rocketseat](https://img.shields.io/badge/-Rocketseat-f9f9f9?style=for-the-badge&logo=American-Airlines&logoColor=9266CC)](https://app.rocketseat.com.br/me/isaac-alves-pinheiro-1589164166)
-[![DIO](https://img.shields.io/badge/-DIO-f9f9f9?style=for-the-badge&logo=asciinema&logoColor=FA6709)](https://web.digitalinnovation.one/users/isaac_alves0720?tab=achievements)
+[![DIO](https://img.shields.io/badge/-Digital_Innovation_One-f9f9f9?style=for-the-badge&logo=asciinema&logoColor=FA6709)](https://web.digitalinnovation.one/users/isaac_alves0720?tab=achievements)
 [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-f9f9f9?style=for-the-badge&logo=FreeCodeCamp&logoColor=000)](https://www.freecodecamp.org/isaac7)
-[![ArtStation](https://img.shields.io/badge/-ArtStation-f9f9f9?style=for-the-badge&logo=ArtStation&logoColor=13AFF0)](https://www.artstation.com/isaacalves7)
 
  </div>
+ 
+ ### Check my other projects
+ 
+ [![CodePen](https://img.shields.io/badge/-CodePen-f9f6f6?style=for-the-badge&logo=CodePen&logoColor=000)](https://codepen.io/isaacalves7/)
+ [![CodeSandBox](https://img.shields.io/badge/-CodeSandBox-f9f6f6?style=for-the-badge&logo=CodeSandBox&logoColor=000)](https://codesandbox.io/u/IsaacAlves7)
+ [![ArtStation](https://img.shields.io/badge/-ArtStation-f9f9f9?style=for-the-badge&logo=ArtStation&logoColor=13AFF0)](https://www.artstation.com/isaacalves7)
  
 <img src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png" align="right" height="357"/>
 
