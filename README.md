@@ -60,6 +60,7 @@ https://www.flaticon.com/svg/vstatic/svg/4207/4207345.svg?token=exp=1616131819~h
  [![TS](https://img.shields.io/badge/-TypeScript-f9f6f6?style=for-the-badge&logo=TypeScript&logoColor=3178C6)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![C++](https://img.shields.io/badge/-C++-f9f6f6?style=for-the-badge&logo=CPlusPlus&logoColor=F01F7A)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![C#](https://img.shields.io/badge/-CSharp-f9f6f6?style=for-the-badge&logo=C-Sharp&logoColor=239120)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+ [![Ruby](https://img.shields.io/badge/-Ruby-f9f6f6?style=for-the-badge&logo=Ruby&logoColor=CC342D)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![.NET](https://img.shields.io/badge/-.NET-f9f6f6?style=for-the-badge&logo=.NET&logoColor=512BD4)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Elixir](https://img.shields.io/badge/-Elixir-f9f6f6?style=for-the-badge&logo=Elixir&logoColor=4B275F)](https://elixir-lang.org/)
  [![R](https://img.shields.io/badge/-R-f9f6f6?style=for-the-badge&logo=R&logoColor=276DC3)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
