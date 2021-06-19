@@ -3,7 +3,7 @@
 <!--<div align="center"><a href="https://github.com/IsaacAlves7"><img src="https://i.pinimg.com/originals/9f/c2/12/9fc2126eec2c0a3876e3f2097af9b983.gif" /></a></div>-->
 <div align="center"><a href="https://github.com/IsaacAlves7"><img src="https://github.com/IsaacAlves7/portfolio/blob/main/images/icon/favicon.svg" height="170" title="Home"/></a></div>
 
-## 👨🏾‍🔬 About me
+## 
 <!-- - 🔭 I’m currently working on Skyliner
 -->
 <div align="left">
@@ -16,13 +16,13 @@
  </div>
  
  ### 🔬 Check other projects
- 
  [![CodePen](https://img.shields.io/badge/-CodePen-f9f6f6?style=for-the-badge&logo=CodePen&logoColor=000)](https://codepen.io/isaacalves7/)
  [![CodeSandBox](https://img.shields.io/badge/-CodeSandBox-f9f6f6?style=for-the-badge&logo=CodeSandBox&logoColor=000)](https://codesandbox.io/u/IsaacAlves7)
  [![ArtStation](https://img.shields.io/badge/-ArtStation-f9f9f9?style=for-the-badge&logo=ArtStation&logoColor=13AFF0)](https://www.artstation.com/isaacalves7)
  
 <img src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png" align="right" height="357"/>
 
+### 👨🏾‍🔬 About me
  - ⚛️ I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science.
  - 😄 I really like to learn more and more!
  - 🌱 I’m learning about Reactive programming, PDO, Design Patterns, DDD, MVC, MVP, MVVM, Systems Architecture, API's, UI/UX Design, Microcontrollers, IoT, Cloud Computing, DevOps, Cybersecurity, AI, AR, VR and Quantum Computing.
