@@ -77,7 +77,7 @@ https://www.flaticon.com/svg/vstatic/svg/4207/4207345.svg?token=exp=1616131819~h
  [![.NET](https://img.shields.io/badge/-.NET-f9f6f6?style=for-the-badge&logo=.NET&logoColor=512BD4)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Elixir](https://img.shields.io/badge/-Elixir-f9f6f6?style=for-the-badge&logo=Elixir&logoColor=4B275F)](https://elixir-lang.org/)
  [![R](https://img.shields.io/badge/-R-f9f6f6?style=for-the-badge&logo=R&logoColor=276DC3)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
- [![Kotlin](https://img.shields.io/badge/-Kotlin-f9f6f6?style=for-the-badge&logo=Kotlin&logoColor=A100FF)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+ [![Kotlin](https://img.shields.io/badge/-Kotlin-f9f6f6?style=for-the-badge&logo=Kotlin&logoColor=9999FF)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Swift](https://img.shields.io/badge/-Swift-f9f6f6?style=for-the-badge&logo=Swift&logoColor=FA7343)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  
 </div>
