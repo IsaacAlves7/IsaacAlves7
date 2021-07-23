@@ -59,7 +59,7 @@ https://www.flaticon.com/svg/vstatic/svg/4207/4207345.svg?token=exp=1616131819~h
   <img src="https://www.flaticon.com/svg/vstatic/svg/1578/1578387.svg?token=exp=1614549637~hmac=20cbb15a9ce30dbf7bc0a19c51640313" height="170"> 
   -->
   
- <div align="left">
+ <div align="justify">
  
  [![HTML5](https://img.shields.io/badge/-HTML5-f9f6f6?style=for-the-badge&logo=HTML5&logoColor=E34F26)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![CSS3](https://img.shields.io/badge/-CSS3-f9f6f6?style=for-the-badge&logo=CSS3&logoColor=1877F2)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
