@@ -19,6 +19,9 @@
  ### 🔬 Check other projects
  [![CodePen](https://img.shields.io/badge/-CodePen-f9f6f6?style=for-the-badge&logo=CodePen&logoColor=000)](https://codepen.io/isaacalves7/)
  [![CodeSandBox](https://img.shields.io/badge/-CodeSandBox-f9f6f6?style=for-the-badge&logo=CodeSandBox&logoColor=000)](https://codesandbox.io/u/IsaacAlves7)
+ [![Vercel](https://img.shields.io/badge/-Vercel-f9f9f9?style=for-the-badge&logo=Vercel&logoColor=000000)](https://vercel.com/isaacalves7)
+[![Docker Hub](https://img.shields.io/badge/-Docker_Hub-f9f9f9?style=for-the-badge&logo=Docker&logoColor=2496ED)](https://hub.docker.com/u/isaacalves7)
+
  
 <img src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png" height="327" align="right">
 
@@ -35,13 +38,11 @@
 
 <div align="center">
  
-[![Vercel](https://img.shields.io/badge/-Vercel-f9f9f9?style=for-the-badge&logo=Vercel&logoColor=000000)](https://vercel.com/isaacalves7)
 [![Heroku](https://img.shields.io/badge/-Heroku-f9f9f9?style=for-the-badge&logo=Heroku&logoColor=430098)](https://heroku.com/)
 [![Firebase](https://img.shields.io/badge/-Firebase-f9f9f9?style=for-the-badge&logo=Firebase&logoColor=FFCA28)](https://firebase.google.com/?hl=pt-br)
 [![AWS](https://img.shields.io/badge/-AWS-f9f9f9?style=for-the-badge&logo=Amazon-AWS&logoColor=FF9900)]()
 [![Gitlab](https://img.shields.io/badge/-Gitlab-f9f6f6?style=for-the-badge&logo=GitLab&logoColor=FCA121)](https://gitlab.com/IsaacAlves7)
 [![Codeberg](https://img.shields.io/badge/-Codeberg-f9f6f6?style=for-the-badge&logo=Codeberg&logoColor=2185D0)](https://codeberg.org/IsaacAlves7)
-[![Docker Hub](https://img.shields.io/badge/-DockerHub-f9f9f9?style=for-the-badge&logo=Docker&logoColor=2496ED)](https://hub.docker.com/u/isaacalves7)
 [![Codecov](https://img.shields.io/badge/-Codecov-f9f9f9?style=for-the-badge&logo=Codecov&logoColor=F01F7A)](https://codecov.io/gh/IsaacAlves7)
 
  </div>
