@@ -27,15 +27,11 @@
 
 ### 👨🏾‍🔬 About me
 
-<img src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png" height="327" align="right">
-
-<div align="left">
-
  - ⚛️ I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science.
  - 😄 I really like to learn more and more!
  - 🌱 I’m learning about Reactive programming, PDO, Design Patterns, DDD, MVC, MVP, MVVM, Systems Architecture, API's, UI/UX Design, Microcontrollers, IoT, Cloud Computing, DevOps, Cybersecurity, AI, AR, VR and Quantum Computing.
  
- </div>
+ 
  <!--
  - 👯 I’m looking to collaborate on new web applications, hybrid apps and multiplataform desktop applications.
  - 💜 I'm very passionate about technologies and i'm always learning and creating new applications, projects and implementing them.
@@ -88,7 +84,7 @@ https://www.flaticon.com/svg/vstatic/svg/4207/4207345.svg?token=exp=1616131819~h
 </div>
   
 ## 👨🏾‍💼 Status and progress
-<img src="" align="left" height="277">
+<img src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png" align="left" height="277">
 
 <div align="justify">
 
