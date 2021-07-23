@@ -24,10 +24,11 @@
 [![Gitlab](https://img.shields.io/badge/-Gitlab-f9f6f6?style=for-the-badge&logo=GitLab&logoColor=FCA121)](https://gitlab.com/IsaacAlves7)
 [![Codeberg](https://img.shields.io/badge/-Codeberg-f9f6f6?style=for-the-badge&logo=Codeberg&logoColor=2185D0)](https://codeberg.org/IsaacAlves7)
 [![Codecov](https://img.shields.io/badge/-Codecov-f9f9f9?style=for-the-badge&logo=Codecov&logoColor=F01F7A)](https://codecov.io/gh/IsaacAlves7)
- 
-<img src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png" height="327" align="right">
 
 ### 👨🏾‍🔬 About me
+
+<img src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png" height="327" align="right">
+
  - ⚛️ I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science.
  - 😄 I really like to learn more and more!
  - 🌱 I’m learning about Reactive programming, PDO, Design Patterns, DDD, MVC, MVP, MVVM, Systems Architecture, API's, UI/UX Design, Microcontrollers, IoT, Cloud Computing, DevOps, Cybersecurity, AI, AR, VR and Quantum Computing.
@@ -84,7 +85,7 @@ https://www.flaticon.com/svg/vstatic/svg/4207/4207345.svg?token=exp=1616131819~h
 </div>
   
 ## 👨🏾‍💼 Status and progress
-<img src="https://raw.githubusercontent.com/IsaacAlves7/portfolio/main/images/icon/emoji/729cf176-d828-45dd-a98a-fbd659186e6c.webp?token=AOWFAEEFCHZ42DHHJFNABL3A7I7EO" align="left" height="277">
+<img src="" align="left" height="277">
 
 <div align="justify">
 
