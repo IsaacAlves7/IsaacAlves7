@@ -3,7 +3,7 @@
 <!--<div align="center"><a href="https://github.com/IsaacAlves7"><img src="https://i.pinimg.com/originals/9f/c2/12/9fc2126eec2c0a3876e3f2097af9b983.gif" /></a></div>-->
 <div align="center"><a href="https://github.com/IsaacAlves7"><img src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" height="357" title="Home"/></a></div>
 
-### 🔭 My profiles
+## 🔭 My profiles
 <!-- - 
 -->
 <div align="left">
@@ -16,7 +16,7 @@
 
  </div>
  
- ### 🔬 Check other projects
+ ## 🔬 Check other projects
  [![CodePen](https://img.shields.io/badge/-CodePen-f9f6f6?style=for-the-badge&logo=CodePen&logoColor=000)](https://codepen.io/isaacalves7/)
  [![CodeSandBox](https://img.shields.io/badge/-CodeSandBox-f9f6f6?style=for-the-badge&logo=CodeSandBox&logoColor=000)](https://codesandbox.io/u/IsaacAlves7)
  [![Vercel](https://img.shields.io/badge/-Vercel-f9f9f9?style=for-the-badge&logo=Vercel&logoColor=000000)](https://vercel.com/isaacalves7)
@@ -25,7 +25,7 @@
 [![Codeberg](https://img.shields.io/badge/-Codeberg-f9f6f6?style=for-the-badge&logo=Codeberg&logoColor=2185D0)](https://codeberg.org/IsaacAlves7)
 [![Codecov](https://img.shields.io/badge/-Codecov-f9f9f9?style=for-the-badge&logo=Codecov&logoColor=F01F7A)](https://codecov.io/gh/IsaacAlves7)
 
-### 👨🏾‍🔬 About me
+## 👨🏾‍🔬 About me
 
  - ⚛️ I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science.
  - 😄 I really like to learn more and more!
