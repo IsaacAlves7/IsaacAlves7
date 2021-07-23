@@ -3,7 +3,7 @@
 <!--<div align="center"><a href="https://github.com/IsaacAlves7"><img src="https://i.pinimg.com/originals/9f/c2/12/9fc2126eec2c0a3876e3f2097af9b983.gif" /></a></div>-->
 <div align="center"><a href="https://github.com/IsaacAlves7"><img src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" height="357" title="Home"/></a></div>
 
-## 🔭 My profiles
+## 🔭 My Profiles
 <!-- - 
 -->
 <div align="left">
@@ -83,7 +83,7 @@ https://www.flaticon.com/svg/vstatic/svg/4207/4207345.svg?token=exp=1616131819~h
  
 </div>
   
-## 👨🏾‍💼 Status and progress
+## 👨🏾‍💼 Status and Progress
 <img src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png" align="left" height="277">
 
 <div align="justify">
