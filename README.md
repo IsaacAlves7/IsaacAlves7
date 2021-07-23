@@ -1,7 +1,7 @@
 <h1 align="center">🥽 Welcome to my Lab 🥼</h1>
 
 <!--<div align="center"><a href="https://github.com/IsaacAlves7"><img src="https://i.pinimg.com/originals/9f/c2/12/9fc2126eec2c0a3876e3f2097af9b983.gif" /></a></div>-->
-<div align="center"><a href="https://github.com/IsaacAlves7"><img src="https://github.com/IsaacAlves7/portfolio/blob/main/images/icon/favicon.svg" height="170" title="Home"/></a></div>
+<div align="center"><a href="https://github.com/IsaacAlves7"><img src="" height="170" title="Home"/></a></div>
 
 ### 🔭 My profiles
 <!-- - 
