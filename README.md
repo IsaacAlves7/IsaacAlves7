@@ -68,7 +68,7 @@ https://www.flaticon.com/svg/vstatic/svg/4207/4207345.svg?token=exp=1616131819~h
  [![PHP](https://img.shields.io/badge/-PHP-f9f6f6?style=for-the-badge&logo=PHP&logoColor=777BB4)](https://www.php.net/)
  [![Java](https://img.shields.io/badge/-Java-f9f6f6?style=for-the-badge&logo=Java&logoColor=985e15)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![TS](https://img.shields.io/badge/-TypeScript-f9f6f6?style=for-the-badge&logo=TypeScript&logoColor=3178C6)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
- [![Vue](https://img.shields.io/badge/-Vue.js-f9f6f6?style=for-the-badge&logo=Vue&logoColor=4FC08D)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+ [![Vue](https://img.shields.io/badge/-Vue.js-f9f6f6?style=for-the-badge&logo=Vue.js&logoColor=4FC08D)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![C](https://img.shields.io/badge/-C-f9f6f6?style=for-the-badge&logo=C&logoColor=A8B9CC)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![C++](https://img.shields.io/badge/-C++-f9f6f6?style=for-the-badge&logo=CPlusPlus&logoColor=F01F7A)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![C#](https://img.shields.io/badge/-CSharp-f9f6f6?style=for-the-badge&logo=C-Sharp&logoColor=239120)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
