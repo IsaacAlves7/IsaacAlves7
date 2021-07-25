@@ -41,7 +41,7 @@
 [![Heroku](https://img.shields.io/badge/-Heroku-f9f9f9?style=for-the-badge&logo=Heroku&logoColor=430098)](https://heroku.com/)
 [![Firebase](https://img.shields.io/badge/-Firebase-f9f9f9?style=for-the-badge&logo=Firebase&logoColor=FFCA28)](https://firebase.google.com/?hl=pt-br)
 [![AWS](https://img.shields.io/badge/-AWS-f9f9f9?style=for-the-badge&logo=Amazon-AWS&logoColor=FF9900)]()
-[![DevOps](https://img.shields.io/badge/-DevOps-f9f9f9?style=for-the-badge&logo=CloudBees&logoColor=#0078D7)]()
+[![DevOps](https://img.shields.io/badge/-DevOps-f9f9f9?style=for-the-badge&logo=CloudBees&logoColor=7B00FF)(https://github.com/IsaacAlves7/devops-engineer)
 
  </div>
  
