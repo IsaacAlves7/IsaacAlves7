@@ -10,7 +10,7 @@
 [![Rocketseat](https://img.shields.io/badge/-Rocketseat-f9f9f9?style=for-the-badge&logo=American-Airlines&logoColor=9266CC)](https://app.rocketseat.com.br/me/isaac-alves-pinheiro-1589164166)
 [![DIO](https://img.shields.io/badge/-Digital_Innovation_One-f9f9f9?style=for-the-badge&logo=asciinema&logoColor=FA6709)](https://web.digitalinnovation.one/users/isaac_alves0720?tab=achievements)
 [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-f9f9f9?style=for-the-badge&logo=FreeCodeCamp&logoColor=000)](https://www.freecodecamp.org/isaac7)
- [![ArtStation](https://img.shields.io/badge/-ArtStation-f9f9f9?style=for-the-badge&logo=ArtStation&logoColor=13AFF0)](https://www.artstation.com/isaacalves7)]
+ [![ArtStation](https://img.shields.io/badge/-ArtStation-f9f9f9?style=for-the-badge&logo=ArtStation&logoColor=13AFF0)](https://www.artstation.com/isaacalves7)
 
  </div>
  
@@ -41,7 +41,7 @@
 [![Heroku](https://img.shields.io/badge/-Heroku-f9f9f9?style=for-the-badge&logo=Heroku&logoColor=430098)](https://heroku.com/)
 [![Firebase](https://img.shields.io/badge/-Firebase-f9f9f9?style=for-the-badge&logo=Firebase&logoColor=FFCA28)](https://firebase.google.com/?hl=pt-br)
 [![AWS](https://img.shields.io/badge/-AWS-f9f9f9?style=for-the-badge&logo=Amazon-AWS&logoColor=FF9900)]()
-[![DevOps](https://img.shields.io/badge/-DevOps-f9f9f9?style=for-the-badge&logo=CloudBees&logoColor=7B00FF)(https://github.com/IsaacAlves7/devops-engineer)
+[![DevOps](https://img.shields.io/badge/-DevOps-f9f9f9?style=for-the-badge&logo=CloudBees&logoColor=7B00FF)](https://github.com/IsaacAlves7/devops-engineer)
 
  </div>
  
