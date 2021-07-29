@@ -60,7 +60,7 @@
  [![Java](https://img.shields.io/badge/-Java-f9f6f6?style=for-the-badge&logo=Java&logoColor=985e15)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![TS](https://img.shields.io/badge/-TypeScript-f9f6f6?style=for-the-badge&logo=TypeScript&logoColor=3178C6)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Vue](https://img.shields.io/badge/-Vue.js-f9f6f6?style=for-the-badge&logo=Vue.js&logoColor=4FC08D)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
- [![C](https://img.shields.io/badge/-C-f9f6f6?style=social&logo=C&logoColor=202020)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+ [![C](https://img.shields.io/badge/-C-f9f6f6?style=social&logo=C&logoColor=212121)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![C++](https://img.shields.io/badge/-C++-f9f6f6?style=for-the-badge&logo=CPlusPlus&logoColor=F01F7A)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![C#](https://img.shields.io/badge/-CSharp-f9f6f6?style=for-the-badge&logo=C-Sharp&logoColor=239120)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![GOLANG](https://img.shields.io/badge/-GO-f9f6f6?style=for-the-badge&logo=GO&logoColor=00ADD8)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
