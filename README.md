@@ -25,7 +25,7 @@
 
 ## 👨🏾‍🔬 About me
 
- - ⚛️ I'm 20 years old and in the 3rd period of the bachelor's degree of Computer Science.
+ - ⚛️ I'm 21 years old and in the 4th period of the bachelor's degree of Computer Science.
  - 😄 I really like to learn more and more!
  - 🌱 I’m learning about Reactive programming, PDO, Design Patterns, DDD, MVC, MVP, MVVM, Systems Architecture, API's, UI/UX Design, Microcontrollers, IoT, Cloud Computing, DevOps, Cybersecurity, AI, AR, VR and Quantum Computing.
  
