@@ -56,7 +56,7 @@
  [![JSON](https://img.shields.io/badge/-JSON_&_XML-f9f6f6?style=social&logo=JSON&logoColor=ccc)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Sass](https://img.shields.io/badge/-Sass-f9f6f6?style=for-the-badge&logo=Sass&logoColor=CC6699)](https://sass-lang.com/)
  [![Python](https://img.shields.io/badge/-Python-f9f6f6?style=for-the-badge&logo=Python&logoColor=3776AB)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
- [![PHP](https://img.shields.io/badge/-PHP-f9f6f6?style=for-the-badge&logo=PHP&logoColor=777BB4)](https://www.php.net/)
+ [![PHP](https://img.shields.io/badge/-PHP-f9f6f6?style=social&logo=PHP&logoColor=777BB4)](https://www.php.net/)
  [![Java](https://img.shields.io/badge/-Java-f9f6f6?style=for-the-badge&logo=Java&logoColor=985e15)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![TS](https://img.shields.io/badge/-TypeScript-f9f6f6?style=for-the-badge&logo=TypeScript&logoColor=3178C6)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Vue](https://img.shields.io/badge/-Vue.js-f9f6f6?style=for-the-badge&logo=Vue.js&logoColor=4FC08D)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
