@@ -41,7 +41,7 @@
 [![Vercel](https://img.shields.io/badge/-Vercel-ffffff?style=flat&logo=Vercel&logoColor=000000)](https://vercel.com/isaacalves7)
 [![Heroku](https://img.shields.io/badge/-Heroku-f9f9f9?style=flat&logo=Heroku&logoColor=430098)](https://heroku.com/)
 [![Firebase](https://img.shields.io/badge/-Firebase-f9f9f9?style=flat&logo=Firebase&logoColor=FFCA28)](https://firebase.google.com/?hl=pt-br)
-[![AWS](https://img.shields.io/badge/-(AWS)_Amazon_Web_Services-f9f9f9?style=flat&logo=Amazon-AWS&logoColor=FF9900)]()
+[![AWS](https://img.shields.io/badge/-Amazon_Web_Services-f9f9f9?style=flat&logo=Amazon-AWS&logoColor=FF9900)]()
 [![DevOps](https://img.shields.io/badge/-DevOps-f9f9f9?style=flat&logo=CloudBees&logoColor=7B00FF)](https://github.com/IsaacAlves7/devops-engineer)
 
  </div>
