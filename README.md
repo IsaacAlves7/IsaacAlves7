@@ -1,7 +1,7 @@
-<h1 align="center">🥽 Welcome 🥼</h1>
+<h1 align="center">Welcome</h1>
 <div align="center"><a href="https://github.com/IsaacAlves7"><img src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" height="357" title="Home"/></a></div>
 
-## 🔭 My Profiles
+## 🥽 My Profiles
 <!-- - 
 -->
 <div align="left">
@@ -14,7 +14,7 @@
 
  </div>
  
- ## 🔬 Check other projects
+ ## 🥼 Check other projects
  [![CodePen](https://img.shields.io/badge/-CodePen-f9f6f6?style=for-the-badge&logo=CodePen&logoColor=000)](https://codepen.io/isaacalves7/)
  [![CodeSandBox](https://img.shields.io/badge/-CodeSandBox-f9f6f6?style=for-the-badge&logo=CodeSandBox&logoColor=000)](https://codesandbox.io/u/IsaacAlves7)
  [![Bitbucket](https://img.shields.io/badge/-Bitbucket-f9f9f9?style=for-the-badge&logo=Bitbucket&logoColor=0052CC)](https://vercel.com/isaacalves7)
