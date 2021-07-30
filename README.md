@@ -16,6 +16,19 @@ Challenges bring personal growth and that's as Isaac Newton said:
 <br \>
 - <i>Sir Isaac Newton</i></blockquote>
 
+```javascript
+let IsaacAlves7 = {
+    speak: function (line) {
+        console.log(this.tipe + line);
+    },
+};
+let isaacStudent = Object.create(IsaacAlves7);
+isaacStudent.tipe = "Isaac ";
+isaacStudent.speak("in love with DevOps!");
+
+// → "Isaac in love with web development!"
+```
+
 ## 👨🏾‍🔬 About me
 
  - ⚛️ I'm 21 years old and in the 4th period of the bachelor's degree of Computer Science.
