@@ -93,7 +93,7 @@ Challenges bring personal growth and that's as Isaac Newton said:
   
 ![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=IsaacAlves7&show_icons=true&hide_border=true)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAlves7&layout=compact)(https://github.com/IsaacAlves7/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAlves7&layout=compact)[(https://github.com/IsaacAlves7/github-readme-stats)]
   
 </div>
 
