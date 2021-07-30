@@ -1,5 +1,4 @@
-<img src= "https://readme-typing-svg.herokuapp.com?color=202020&lines=Hello+Devs!++Welcome+to+my+Lab!;My+name+is+Isaac+Alves+Pinheiro...;But+you+can+call+me+Isaac!;Always+creating+something+new;Think+different;%7C"/>
-<hr>
+<img src= "https://readme-typing-svg.herokuapp.com?color=202020&lines=Hello+Devs!++Welcome+to+my+Lab!;My+name+is+Isaac+Alves+Pinheiro...;But+you+can+call+me+Isaac!;Always+creating+something+new;Think+different;%7C"/><hr>
 
 <div align="center"><a href="https://github.com/IsaacAlves7"><img src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" height="357" title="Home"/></a></div>
 
@@ -68,7 +67,7 @@ Challenges bring personal growth and that's as Isaac Newton said:
  [![Java](https://img.shields.io/badge/-Java-985e15?style=for-the-badge&logo=Java&logoColor=ffffff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=ffffff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=ffffff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
- [![C](https://img.shields.io/badge/-C-f9f6f6?style=social&logo=C&logoColor=212121)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+ [![C](https://img.shields.io/badge/-C-212121?style=for-the-badge&logo=C&logoColor=fff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![C++](https://img.shields.io/badge/-C++-F01F7A?style=for-the-badge&logo=CPlusPlus&logoColor=ffffff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![C#](https://img.shields.io/badge/-CSharp-f9f6f6?style=social&logo=C-Sharp&logoColor=239120)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![GOLANG](https://img.shields.io/badge/-GO-f9f6f6?style=social&logo=GO&logoColor=00ADD8)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
