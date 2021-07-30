@@ -26,7 +26,7 @@ let isaacStudent = Object.create(IsaacAlves7);
 isaacStudent.tipe = "Isaac ";
 isaacStudent.speak("in love with DevOps!");
 
-// → "Isaac in love with web development!"
+// → "Isaac in love with DevOps!"
 ```
 
 ## 👨🏾‍🔬 About me
