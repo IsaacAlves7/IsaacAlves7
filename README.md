@@ -1,4 +1,5 @@
-<h1 align="center">Welcome</h1>
+<img src= "https://readme-typing-svg.herokuapp.com?color=7F4B9B&lines=Hello+Devs!++Welcome+aboard.;My+name+is+Joseane...;but+you+can+call+me+Josie;Always+learning+new+things%7C"/>
+
 <div align="center"><a href="https://github.com/IsaacAlves7"><img src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" height="357" title="Home"/></a></div>
 
 ## 🥽 My Profiles
