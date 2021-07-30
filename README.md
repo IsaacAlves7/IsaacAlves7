@@ -69,7 +69,7 @@ Challenges bring personal growth and that's as Isaac Newton said:
  [![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=ffffff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=ffffff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![C](https://img.shields.io/badge/-C-f9f6f6?style=social&logo=C&logoColor=212121)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
- [![C++](https://img.shields.io/badge/-C++-F01F7A?style=social&logo=CPlusPlus&logoColor=ffffff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+ [![C++](https://img.shields.io/badge/-C++-F01F7A?style=for-the-badge&logo=CPlusPlus&logoColor=ffffff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![C#](https://img.shields.io/badge/-CSharp-f9f6f6?style=social&logo=C-Sharp&logoColor=239120)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![GOLANG](https://img.shields.io/badge/-GO-f9f6f6?style=social&logo=GO&logoColor=00ADD8)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Ruby](https://img.shields.io/badge/-Ruby-941711?style=for-the-badge&logo=Ruby&logoColor=ffffff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
