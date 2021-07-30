@@ -34,6 +34,7 @@
 
 <div align="center">
  
+[![GitLab](https://img.shields.io/badge/-GitLab-f9f9f9?style=flat&logo=GitLab&logoColor=FCA121)](https://github.com/IsaacAlves7/devops-engineer)
 [![Vercel](https://img.shields.io/badge/-Vercel-ffffff?style=flat&logo=Vercel&logoColor=000000)](https://vercel.com/isaacalves7)
 [![Heroku](https://img.shields.io/badge/-Heroku-f9f9f9?style=flat&logo=Heroku&logoColor=430098)](https://heroku.com/)
 [![Firebase](https://img.shields.io/badge/-Firebase-f9f9f9?style=flat&logo=Firebase&logoColor=FFCA28)](https://firebase.google.com/?hl=pt-br)
