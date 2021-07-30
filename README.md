@@ -1,19 +1,19 @@
-<img src= "https://readme-typing-svg.herokuapp.com?color=202020&lines=Hello+Devs!++Welcome+to+my+Lab!;My+name+is+Isaac+Alves+Pinheiro...;but+you+can+call+me+Isaac!;Always+learning+new+things%7C"/>
+<img src= "https://readme-typing-svg.herokuapp.com?color=202020&lines=Hello+Devs!++Welcome+to+my+Lab!;My+name+is+Isaac+Alves+Pinheiro...;But+you+can+call+me+Isaac!;Always+learning+and+creating+something+new;Think+different;%7C"/>
 <hr>
 
 <div align="center"><a href="https://github.com/IsaacAlves7"><img src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" height="357" title="Home"/></a></div>
 
 # 🤵🏾‍ Bio
 
-Hello 🌎! I made a career change into devops development in 2021. I’m currently working on my skills at EZOps.cloud. My first formal contact with programming was at <a href="">Digital Innovation One</a> and <a href="">freeCodeCamp</a>. They're both intensive courses made to everybody that have not had the opportunity to study technology before.
+Hello 🌎! I’m currently a DevOps intern and working on my skills at EZOps.cloud. My first formal contact with programming was at <a href="">Digital Innovation One</a>, <a href="">freeCodeCamp</a> and <a href="">Datacamp</a>. They're both intensive courses made to everybody that have not had the opportunity to study technology before.
 
 Challenges bring personal growth and that's as Isaac Newton said:
 
 <blockquote>If i have seen further than others, it is by standing upon the shoulders of giants.
+<br \>
+- <i>Sir Isaac Newton</i></blockquote>
 
- - <i>Sir Isaac Newton</i></blockquote>
-
-👧 🤝 💻
+👦🏾 🤝🏾 💻
 
 ## 👨🏾‍🔬 About me
 
