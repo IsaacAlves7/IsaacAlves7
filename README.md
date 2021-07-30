@@ -21,7 +21,7 @@ Challenges bring personal growth and that's as Isaac Newton said:
 
  - ⚛️ I'm 21 years old and in the 4th period of the bachelor's degree of Computer Science.
  - 🌱 I’m learning about DevOps development.
- - 👯 I’m looking to collaborate on EZOps.cloud!
+ - 👯 I’m looking to collaborate for the EZOps.cloud!
  - 🎯 Focused in DevOps Engineer!
  - 😄 I really like to learn more and more!
  - 💜 I'm very passionate about new technologies!
