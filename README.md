@@ -16,6 +16,16 @@ Challenges bring personal growth and that's as Isaac Newton said:
 <br \>
 - <i>Sir Isaac Newton</i></blockquote>
 
+## 👨🏾‍🔬 About me
+
+ - ⚛️ I'm 21 years old and in the 4th period of the bachelor's degree of Computer Science.
+ - 🌱 I’m learning about DevOps development.
+ - 👯 I’m looking to collaborate on EZOps.cloud!
+ - 🎯 Focused in DevOps Engineer!
+ - 😄 I really like to learn more and more!
+ - 💜 I'm very passionate about new technologies!
+
+
 ## 🥽 My experiment
 ```javascript
 let IsaacAlves7 = {
@@ -47,15 +57,6 @@ isaacStudent.speak("in love with DevOps!");
 [![DevOps](https://img.shields.io/badge/-DevOps-f9f9f9?style=flat&logo=CloudBees&logoColor=7B00FF)](https://github.com/IsaacAlves7/devops-engineer)
 
  </div>
-
-## 👨🏾‍🔬 About me
-
- - ⚛️ I'm 21 years old and in the 4th period of the bachelor's degree of Computer Science.
- - 🌱 I’m learning about DevOps development.
- - 👯 I’m looking to collaborate on EZOps.cloud!
- - 🎯 Focused in DevOps Engineer!
- - 😄 I really like to learn more and more!
- - 💜 I'm very passionate about new technologies!
  
 <div align="center">
  
