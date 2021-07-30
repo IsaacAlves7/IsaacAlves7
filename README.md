@@ -3,7 +3,6 @@
   <a href="#"><img src="https://badges.pufler.dev/years/IsaacAlves7"></a>
 </p>
 <img src= "https://readme-typing-svg.herokuapp.com?color=202020&lines=Hello+Devs!++Welcome+to+my+Lab!;My+name+is+Isaac+Alves+Pinheiro...;But+you+can+call+me+Isaac!;Always+creating+something+new;Think+different;%7C"/>
-<hr>
     
 <div align="center"><a href="https://github.com/IsaacAlves7"><img src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" height="347" title="Home"/></a></div>
 
@@ -79,9 +78,9 @@ Challenges bring personal growth and that's as Isaac Newton said:
  [![Ruby](https://img.shields.io/badge/-Ruby-941711?style=for-the-badge&logo=Ruby&logoColor=ffffff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![.NET](https://img.shields.io/badge/-.NET-f9f6f6?style=social&logo=.NET&logoColor=512BD4)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Elixir](https://img.shields.io/badge/-Elixir-f9f6f6?style=social&logo=Elixir&logoColor=4B275F)](https://elixir-lang.org/)
- [![R](https://img.shields.io/badge/-R-f9f6f6?style=social&logo=R&logoColor=276DC3)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
- [![Kotlin](https://img.shields.io/badge/-Kotlin-f9f6f6?style=social&logo=Kotlin&logoColor=9999FF)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
- [![Swift](https://img.shields.io/badge/-Swift-f9f6f6?style=social&logo=Swift&logoColor=FA7343)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+ [![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=fff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+ [![Kotlin](https://img.shields.io/badge/-Kotlin-9999FF?style=for-the-badge&logo=Kotlin&logoColor=fff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+ [![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=fff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  
 </div>
   
