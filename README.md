@@ -71,11 +71,12 @@ isaacStudent.speak("in love with DevOps!");
 [![Codecov](https://img.shields.io/badge/-Codecov-f9f9f9?style=for-the-badge&logo=Codecov&logoColor=F01F7A)](https://codecov.io/gh/IsaacAlves7)
  
 ## 👨🏾‍💻 Knowledge and skills
-
   ![My Programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IsaacAlves7&layout=compact&langs_count=8&theme=#000)
 
- <div align="justify">
- 
+ <div align="center">
+   
+  ![My Programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IsaacAlves7&layout=compact&langs_count=8&theme=#000)
+   
  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![CSS3](https://img.shields.io/badge/-CSS3-1877F2?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![JS](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
@@ -97,7 +98,8 @@ isaacStudent.speak("in love with DevOps!");
  [![Kotlin](https://img.shields.io/badge/-Kotlin-9999FF?style=for-the-badge&logo=Kotlin&logoColor=fff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=fff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  
-</div>
+  </div>
+   
   
 ## 👨🏾‍💼 Status and Progress
 <a href="https://www.personsbook.com/"><img src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png" align="left" height="277"></a>
