@@ -42,12 +42,11 @@ Challenges bring personal growth and that's as Isaac Newton said:
 
 ## 🥽 My Profiles
 
-<div align="left">
+<div align="center">
  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
 [![Rocketseat](https://img.shields.io/badge/-Rocketseat-ffffff?style=for-the-badge&logo=American-Airlines&logoColor=9266CC)](https://app.rocketseat.com.br/me/isaac-alves-pinheiro-1589164166)
-[![DIO](https://img.shields.io/badge/-Digital_Innovation_One-ffffff?style=for-the-badge&logo=asciinema&logoColor=FA6709)](https://web.digitalinnovation.one/users/isaac_alves0720?tab=achievements)
- [![ArtStation](https://img.shields.io/badge/-ArtStation-ffffff?style=for-the-badge&logo=ArtStation&logoColor=13AFF0)](https://www.artstation.com/isaacalves7)
+[![ArtStation](https://img.shields.io/badge/-ArtStation-ffffff?style=for-the-badge&logo=ArtStation&logoColor=13AFF0)](https://www.artstation.com/isaacalves7)
 
  </div>
  
