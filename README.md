@@ -5,7 +5,7 @@
 
 # 🤵🏾‍ Bio
 
-Hello 🌎! I’m currently a DevOps intern and working on my skills at EZOps.cloud. My first formal contact with programming was at <a href="">Digital Innovation One</a>, <a href="">freeCodeCamp</a> and <a href="">Datacamp</a>. They're both intensive courses made to everybody that have not had the opportunity to study technology before.
+Hello 🌎! I’m currently a DevOps intern and working on my skills at EZOps.cloud. My first formal contact with programming was at <a href="https://web.digitalinnovation.one/users/isaac_alves0720?tab=achievements">Digital Innovation One</a>, <a href="https://www.freecodecamp.org/isaac7">freeCodeCamp</a> and <a href="">Datacamp</a>. They're both intensive courses made to everybody that have not had the opportunity to study technology before.
 
 Challenges bring personal growth and that's as Isaac Newton said:
 
@@ -24,24 +24,7 @@ Challenges bring personal growth and that's as Isaac Newton said:
  - 💜 I'm very passionate about new technologies!
  - 🌱 I’m learning about DevOps development.
  
-## 🥽 My Profiles
-
-<div align="left">
  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
-[![Rocketseat](https://img.shields.io/badge/-Rocketseat-ffffff?style=for-the-badge&logo=American-Airlines&logoColor=9266CC)](https://app.rocketseat.com.br/me/isaac-alves-pinheiro-1589164166)
-[![DIO](https://img.shields.io/badge/-Digital_Innovation_One-ffffff?style=for-the-badge&logo=asciinema&logoColor=FA6709)](https://web.digitalinnovation.one/users/isaac_alves0720?tab=achievements)
-<!-- [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-ffffff?style=for-the-badge&logo=FreeCodeCamp&logoColor=000)](https://www.freecodecamp.org/isaac7) -->
- [![ArtStation](https://img.shields.io/badge/-ArtStation-ffffff?style=for-the-badge&logo=ArtStation&logoColor=13AFF0)](https://www.artstation.com/isaacalves7)
-
- </div>
- 
- ## 🥼 Other projects
- [![CodePen](https://img.shields.io/badge/-CodePen-f9f6f6?style=for-the-badge&logo=CodePen&logoColor=000)](https://codepen.io/isaacalves7/)
- [![CodeSandBox](https://img.shields.io/badge/-CodeSandBox-f9f6f6?style=for-the-badge&logo=CodeSandBox&logoColor=000)](https://codesandbox.io/u/IsaacAlves7)
-[![Codeberg](https://img.shields.io/badge/-Codeberg-f9f6f6?style=for-the-badge&logo=Codeberg&logoColor=2185D0)](https://codeberg.org/IsaacAlves7)
-[![Codecov](https://img.shields.io/badge/-Codecov-f9f9f9?style=for-the-badge&logo=Codecov&logoColor=F01F7A)](https://codecov.io/gh/IsaacAlves7)
-
 <div align="center">
  
  
@@ -55,6 +38,24 @@ Challenges bring personal growth and that's as Isaac Newton said:
 [![DevOps](https://img.shields.io/badge/-DevOps-f9f9f9?style=flat&logo=CloudBees&logoColor=7B00FF)](https://github.com/IsaacAlves7/devops-engineer)
 
  </div>
+ 
+
+## 🥽 My Profiles
+
+<div align="left">
+ 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+[![Rocketseat](https://img.shields.io/badge/-Rocketseat-ffffff?style=for-the-badge&logo=American-Airlines&logoColor=9266CC)](https://app.rocketseat.com.br/me/isaac-alves-pinheiro-1589164166)
+[![DIO](https://img.shields.io/badge/-Digital_Innovation_One-ffffff?style=for-the-badge&logo=asciinema&logoColor=FA6709)](https://web.digitalinnovation.one/users/isaac_alves0720?tab=achievements)
+ [![ArtStation](https://img.shields.io/badge/-ArtStation-ffffff?style=for-the-badge&logo=ArtStation&logoColor=13AFF0)](https://www.artstation.com/isaacalves7)
+
+ </div>
+ 
+ ## 🥼 Other projects
+ [![CodePen](https://img.shields.io/badge/-CodePen-f9f6f6?style=for-the-badge&logo=CodePen&logoColor=000)](https://codepen.io/isaacalves7/)
+ [![CodeSandBox](https://img.shields.io/badge/-CodeSandBox-f9f6f6?style=for-the-badge&logo=CodeSandBox&logoColor=000)](https://codesandbox.io/u/IsaacAlves7)
+[![Codeberg](https://img.shields.io/badge/-Codeberg-f9f6f6?style=for-the-badge&logo=Codeberg&logoColor=2185D0)](https://codeberg.org/IsaacAlves7)
+[![Codecov](https://img.shields.io/badge/-Codecov-f9f9f9?style=for-the-badge&logo=Codecov&logoColor=F01F7A)](https://codecov.io/gh/IsaacAlves7)
  
 ## 👨🏾‍💻 Knowledge and skills
   
