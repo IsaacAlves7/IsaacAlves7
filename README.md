@@ -74,7 +74,7 @@ Challenges bring personal growth and that's as Isaac Newton said:
  [![C](https://img.shields.io/badge/-C-212121?style=for-the-badge&logo=C&logoColor=fff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![C++](https://img.shields.io/badge/-C++-F01F7A?style=for-the-badge&logo=CPlusPlus&logoColor=ffffff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=C-Sharp&logoColor=fff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
- [![GOLANG](https://img.shields.io/badge/-GO-00ADD8?style=social&logo=GO&logoColor=fff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+ [![GOLANG](https://img.shields.io/badge/-GO-00ADD8?style=for-the-badge&logo=GO&logoColor=fff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Ruby](https://img.shields.io/badge/-Ruby-941711?style=for-the-badge&logo=Ruby&logoColor=ffffff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=fff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=for-the-badge&logo=Elixir&logoColor=fff)](https://elixir-lang.org/)
