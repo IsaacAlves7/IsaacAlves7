@@ -74,10 +74,10 @@ Challenges bring personal growth and that's as Isaac Newton said:
  [![C](https://img.shields.io/badge/-C-212121?style=for-the-badge&logo=C&logoColor=fff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![C++](https://img.shields.io/badge/-C++-F01F7A?style=for-the-badge&logo=CPlusPlus&logoColor=ffffff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=C-Sharp&logoColor=fff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
- [![GOLANG](https://img.shields.io/badge/-GO-f9f6f6?style=social&logo=GO&logoColor=00ADD8)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+ [![GOLANG](https://img.shields.io/badge/-GO-00ADD8?style=social&logo=GO&logoColor=fff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Ruby](https://img.shields.io/badge/-Ruby-941711?style=for-the-badge&logo=Ruby&logoColor=ffffff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
- [![.NET](https://img.shields.io/badge/-.NET-f9f6f6?style=social&logo=.NET&logoColor=512BD4)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
- [![Elixir](https://img.shields.io/badge/-Elixir-f9f6f6?style=social&logo=Elixir&logoColor=4B275F)](https://elixir-lang.org/)
+ [![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=fff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+ [![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=for-the-badge&logo=Elixir&logoColor=fff)](https://elixir-lang.org/)
  [![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=fff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Kotlin](https://img.shields.io/badge/-Kotlin-9999FF?style=for-the-badge&logo=Kotlin&logoColor=fff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=fff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
@@ -91,7 +91,8 @@ Challenges bring personal growth and that's as Isaac Newton said:
 
 ![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=IsaacAlves7&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAlves7&layout=compact)](https://github.com/IsaacAlves7/github-readme-stats)
-  <a href="#"> <img height="164.7em"  src = "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IsaacAlves7&layout=compact&langs_count=8&theme=#000"></a>
+<a href="#"> <img height="164.7em"  src = "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IsaacAlves7&layout=compact&langs_count=8&theme=#000"></a>
+  
 </div>
 
 <h3 align="center">Thank you for visiting! 🎉</h3>
