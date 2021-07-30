@@ -1,4 +1,4 @@
-<img src= "https://readme-typing-svg.herokuapp.com?color=7F4B9B&lines=Hello+Devs!++Welcome+aboard.;My+name+is+Joseane...;but+you+can+call+me+Josie;Always+learning+new+things%7C"/>
+<img src= "https://readme-typing-svg.herokuapp.com?color=202020&lines=Hello+Devs!++Welcome+aboard.;My+name+is+Isaac+Alves+Pinheiro...;but+you+can+call+me+Isaac!;Always+learning+new+things%7C"/>
 
 <div align="center"><a href="https://github.com/IsaacAlves7"><img src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" height="357" title="Home"/></a></div>
 
@@ -9,9 +9,9 @@
  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
 [![Rocketseat](https://img.shields.io/badge/-Rocketseat-f9f9f9?style=for-the-badge&logo=American-Airlines&logoColor=9266CC)](https://app.rocketseat.com.br/me/isaac-alves-pinheiro-1589164166)
-[![DIO](https://img.shields.io/badge/-Digital_Innovation_One-f9f9f9?style=for-the-badge&logo=asciinema&logoColor=FA6709)](https://web.digitalinnovation.one/users/isaac_alves0720?tab=achievements)
-[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-f9f9f9?style=for-the-badge&logo=FreeCodeCamp&logoColor=000)](https://www.freecodecamp.org/isaac7)
- [![ArtStation](https://img.shields.io/badge/-ArtStation-f9f9f9?style=for-the-badge&logo=ArtStation&logoColor=13AFF0)](https://www.artstation.com/isaacalves7)
+[![DIO](https://img.shields.io/badge/-Digital_Innovation_One-ffffff?style=for-the-badge&logo=asciinema&logoColor=FA6709)](https://web.digitalinnovation.one/users/isaac_alves0720?tab=achievements)
+[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-ffffff?style=for-the-badge&logo=FreeCodeCamp&logoColor=000)](https://www.freecodecamp.org/isaac7)
+ [![ArtStation](https://img.shields.io/badge/-ArtStation-ffffff?style=for-the-badge&logo=ArtStation&logoColor=13AFF0)](https://www.artstation.com/isaacalves7)
 
  </div>
  
