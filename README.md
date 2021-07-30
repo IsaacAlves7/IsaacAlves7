@@ -1,5 +1,11 @@
-<img src= "https://readme-typing-svg.herokuapp.com?color=202020&lines=Hello+Devs!++Welcome+to+my+Lab!;My+name+is+Isaac+Alves+Pinheiro...;But+you+can+call+me+Isaac!;Always+creating+something+new;Think+different;%7C"/><hr>
-
+<p align='right'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/IsaacAlves7/IsaacAlves7"></a>
+  <a href="#"><img src="https://badges.pufler.dev/years/IsaacAlves7"></a>
+</p>
+ <hr>
+<img src= "https://readme-typing-svg.herokuapp.com?color=202020&lines=Hello+Devs!++Welcome+to+my+Lab!;My+name+is+Isaac+Alves+Pinheiro...;But+you+can+call+me+Isaac!;Always+creating+something+new;Think+different;%7C"/>
+<hr
+    
 <div align="center"><a href="https://github.com/IsaacAlves7"><img src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" height="357" title="Home"/></a></div>
 
 # 🤵🏾‍ Bio
@@ -88,8 +94,5 @@ Challenges bring personal growth and that's as Isaac Newton said:
 ![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=IsaacAlves7&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAlves7&layout=compact)](https://github.com/IsaacAlves7/github-readme-stats)
 </div>
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/IsaacAlves7/IsaacAlves7"></a>
-  <a href="#"><img src="https://badges.pufler.dev/years/IsaacAlves7"></a>
-  <h3 align="center">Thank you for visiting! 🎉</h3>
-</p>
+
+<h3 align="center">Thank you for visiting! 🎉</h3>
