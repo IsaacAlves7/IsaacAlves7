@@ -2,7 +2,7 @@
   <a href="#"><img src="https://badges.pufler.dev/visits/IsaacAlves7/IsaacAlves7"></a>
   <a href="#"><img src="https://badges.pufler.dev/years/IsaacAlves7"></a>
 </p>
-<h1> <img src= "https://readme-typing-svg.herokuapp.com?color=0094F5&lines=Hello+Devs!++Welcome+to+my+Lab!;My+name+is+Isaac+Alves+Pinheiro...;But+you+can+call+me+Isaac!;Always+creating+something+new;Think+different;%7C"/> </h1>
+<h1> <img src= "https://readme-typing-svg.herokuapp.com?color=0094F5&lines=Hello+Devs!++Welcome+to+my+Lab!;My+name+is+Isaac+Alves+Pinheiro...;But+you+can+call+me+Isaac!;Always+creating+something+new+...;Think+different;%7C"/> </h1>
     
 <div align="center"><a href="https://github.com/IsaacAlves7"><img src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" height="347" title="Home"/></a></div>
 
