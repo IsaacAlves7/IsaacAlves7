@@ -17,7 +17,6 @@
  ## 🥼 Other projects
  [![CodePen](https://img.shields.io/badge/-CodePen-f9f6f6?style=for-the-badge&logo=CodePen&logoColor=000)](https://codepen.io/isaacalves7/)
  [![CodeSandBox](https://img.shields.io/badge/-CodeSandBox-f9f6f6?style=for-the-badge&logo=CodeSandBox&logoColor=000)](https://codesandbox.io/u/IsaacAlves7)
- [![Bitbucket](https://img.shields.io/badge/-Bitbucket-f9f9f9?style=for-the-badge&logo=Bitbucket&logoColor=0052CC)](https://vercel.com/isaacalves7)
 [![Codeberg](https://img.shields.io/badge/-Codeberg-f9f6f6?style=for-the-badge&logo=Codeberg&logoColor=2185D0)](https://codeberg.org/IsaacAlves7)
 [![Codecov](https://img.shields.io/badge/-Codecov-f9f9f9?style=for-the-badge&logo=Codecov&logoColor=F01F7A)](https://codecov.io/gh/IsaacAlves7)
 
@@ -33,7 +32,7 @@
 <div align="center">
  
  
- 
+  [![Bitbucket](https://img.shields.io/badge/-Bitbucket-f9f9f9?style=flat&logo=Bitbucket&logoColor=0052CC)](https://vercel.com/isaacalves7)
 [![GitLab](https://img.shields.io/badge/-GitLab-f9f9f9?style=flat&logo=GitLab&logoColor=FCA121)](https://gitlab.com/IsaacAlves7)
 [![Docker HUB](https://img.shields.io/badge/-Docker_Hub-ffffff?style=flat&logo=Docker&logoColor=2496ED)](https://hub.docker.com/u/isaacalves7)
  [![Heroku](https://img.shields.io/badge/-Heroku-f9f9f9?style=flat&logo=Heroku&logoColor=430098)](https://heroku.com/)
