@@ -27,7 +27,7 @@
  - 🎯 Focused in DevOps Engineer!
  - 😄 I really like to learn more and more!
  - 💜 I'm very passionate about new technologies!
- - 🌱 I’m learning about Reactive programming, PDO, Design Patterns, DDD, MVC, MVP, MVVM, Systems Architecture, API's, UI/UX Design, Microcontrollers, IoT, Cloud Computing, DevOps, Cybersecurity, AI, AR, VR and Quantum Computing.
+ - 🌱 I’m learning about DevOps development.
 
 <div align="center">
  
