@@ -32,11 +32,11 @@ isaacStudent.speak("in love with DevOps!");
 ## 👨🏾‍🔬 About me
 
  - ⚛️ I'm 21 years old and in the 4th period of the bachelor's degree of Computer Science.
+ - 🌱 I’m learning about DevOps development.
  - 👯 I’m looking to collaborate on EZOps.cloud!
  - 🎯 Focused in DevOps Engineer!
  - 😄 I really like to learn more and more!
  - 💜 I'm very passionate about new technologies!
- - 🌱 I’m learning about DevOps development.
  
  
 <div align="center">
