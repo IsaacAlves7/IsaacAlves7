@@ -24,7 +24,14 @@ Challenges bring personal growth and that's as Isaac Newton said:
  - 🎯 Focused in DevOps Engineer!
  - 😄 I really like to learn more and more!
  - 💜 I'm very passionate about new technologies!
+ 
+<div align="center">
+ 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+[![Rocketseat](https://img.shields.io/badge/-Rocketseat-ffffff?style=for-the-badge&logo=American-Airlines&logoColor=9266CC)](https://app.rocketseat.com.br/me/isaac-alves-pinheiro-1589164166)
+[![ArtStation](https://img.shields.io/badge/-ArtStation-ffffff?style=for-the-badge&logo=ArtStation&logoColor=13AFF0)](https://www.artstation.com/isaacalves7)
 
+ </div>
 
 ## 🥽 My experiment
 ```javascript
@@ -55,14 +62,6 @@ isaacStudent.speak("in love with DevOps!");
 [![Firebase](https://img.shields.io/badge/-Firebase-f9f9f9?style=flat&logo=Firebase&logoColor=FFCA28)](https://firebase.google.com/?hl=pt-br)
 [![AWS](https://img.shields.io/badge/-Amazon_Web_Services-f9f9f9?style=flat&logo=Amazon-AWS&logoColor=FF9900)]()
 [![DevOps](https://img.shields.io/badge/-DevOps-f9f9f9?style=flat&logo=CloudBees&logoColor=7B00FF)](https://github.com/IsaacAlves7/devops-engineer)
-
- </div>
- 
-<div align="center">
- 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
-[![Rocketseat](https://img.shields.io/badge/-Rocketseat-ffffff?style=for-the-badge&logo=American-Airlines&logoColor=9266CC)](https://app.rocketseat.com.br/me/isaac-alves-pinheiro-1589164166)
-[![ArtStation](https://img.shields.io/badge/-ArtStation-ffffff?style=for-the-badge&logo=ArtStation&logoColor=13AFF0)](https://www.artstation.com/isaacalves7)
 
  </div>
  
