@@ -79,5 +79,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAlves7&layout=compact)](https://github.com/IsaacAlves7/github-readme-stats)
 </div>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/IsaacAlves7/IsaacAlves7"></a><h3 align="center">Thank you for visiting! 🎉</h3>
+  <a href="#"><img src="https://badges.pufler.dev/visits/IsaacAlves7/IsaacAlves7"></a>
+  <a href="#"><img src="https://badges.pufler.dev/years/IsaacAlves7"></a>
+  <h3 align="center">Thank you for visiting! 🎉</h3>
 </p>
