@@ -2,7 +2,6 @@
   <a href="#"><img src="https://badges.pufler.dev/visits/IsaacAlves7/IsaacAlves7"></a>
   <a href="#"><img src="https://badges.pufler.dev/years/IsaacAlves7"></a>
 </p>
- <hr>
 <img src= "https://readme-typing-svg.herokuapp.com?color=202020&lines=Hello+Devs!++Welcome+to+my+Lab!;My+name+is+Isaac+Alves+Pinheiro...;But+you+can+call+me+Isaac!;Always+creating+something+new;Think+different;%7C"/>
 <hr>
     
