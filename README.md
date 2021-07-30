@@ -13,8 +13,6 @@ Challenges bring personal growth and that's as Isaac Newton said:
 <br \>
 - <i>Sir Isaac Newton</i></blockquote>
 
-👦🏾 🤝🏾 💻
-
 ## 👨🏾‍🔬 About me
 
  - ⚛️ I'm 21 years old and in the 4th period of the bachelor's degree of Computer Science.
