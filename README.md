@@ -71,7 +71,6 @@ isaacStudent.speak("in love with DevOps!");
 [![Codecov](https://img.shields.io/badge/-Codecov-f9f9f9?style=for-the-badge&logo=Codecov&logoColor=F01F7A)](https://codecov.io/gh/IsaacAlves7)
  
 ## 👨🏾‍💻 Knowledge and skills
-  ![My Programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IsaacAlves7&layout=compact&langs_count=8&theme=#000)
 
  <div align="center">
    
