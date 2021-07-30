@@ -3,8 +3,7 @@
 <div align="center"><a href="https://github.com/IsaacAlves7"><img src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" height="357" title="Home"/></a></div>
 
 ## 🥽 My Profiles
-<!-- - 
--->
+
 <div align="left">
  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
@@ -15,7 +14,7 @@
 
  </div>
  
- ## 🥼 Check other projects
+ ## 🥼 Other projects
  [![CodePen](https://img.shields.io/badge/-CodePen-f9f6f6?style=for-the-badge&logo=CodePen&logoColor=000)](https://codepen.io/isaacalves7/)
  [![CodeSandBox](https://img.shields.io/badge/-CodeSandBox-f9f6f6?style=for-the-badge&logo=CodeSandBox&logoColor=000)](https://codesandbox.io/u/IsaacAlves7)
  [![Bitbucket](https://img.shields.io/badge/-Bitbucket-f9f9f9?style=for-the-badge&logo=Bitbucket&logoColor=0052CC)](https://vercel.com/isaacalves7)
@@ -27,15 +26,11 @@
 ## 👨🏾‍🔬 About me
 
  - ⚛️ I'm 21 years old and in the 4th period of the bachelor's degree of Computer Science.
+ - 👯 I’m looking to collaborate on EZOps.cloud!
+ - 🎯 Focused in DevOps Engineer!
  - 😄 I really like to learn more and more!
+ - 💜 I'm very passionate about new technologies!
  - 🌱 I’m learning about Reactive programming, PDO, Design Patterns, DDD, MVC, MVP, MVVM, Systems Architecture, API's, UI/UX Design, Microcontrollers, IoT, Cloud Computing, DevOps, Cybersecurity, AI, AR, VR and Quantum Computing.
- 
- 
- <!--
- - 👯 I’m looking to collaborate on new web applications, hybrid apps and multiplataform desktop applications.
- - 💜 I'm very passionate about technologies and i'm always learning and creating new applications, projects and implementing them.
- - 🎯 Focused in Full-Stack development with the languages: JavaScript, Python, PHP, .NET Framework, Java and C++.
--->
 
 <div align="center">
  
@@ -82,3 +77,6 @@
 ![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=IsaacAlves7&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAlves7&layout=compact)](https://github.com/IsaacAlves7/github-readme-stats)
 </div>
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/IsaacAlves7/IsaacAlves7"></a> Thank you for visiting! 🎉
+</p>
