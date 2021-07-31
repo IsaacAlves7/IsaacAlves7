@@ -7,7 +7,7 @@
 
 # 👦🏾 Bio
 
-Hello 🌎! I’m currently a DevOps intern and working on my skills at EZOps.cloud. My first formal contact with programming was at <a href="https://web.digitalinnovation.one/users/isaac_alves0720?tab=achievements">Digital Innovation One</a>, <a href="https://www.freecodecamp.org/isaac7">freeCodeCamp</a> and <a href="">Datacamp</a>. They're both intensive courses made to everybody that have not had the opportunity to study technology before.
+Hello 🌎! I’m currently a DevOps intern and working on my skills at EZOps.cloud. My first formal contact with programming was at <a href="https://web.digitalinnovation.one/users/isaac_alves0720?tab=achievements">Digital Innovation One</a>, <a href="https://www.freecodecamp.org/isaac7">freeCodeCamp</a> and <a href="https://www.datacamp.com/">Datacamp</a>. They're both intensive courses made to everybody that have not had the opportunity to study technology before.
 
 Challenges bring personal growth and that's as Isaac Newton said:
 
