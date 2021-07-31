@@ -75,7 +75,7 @@ isaacStudent.speak("in love with DevOps!");
   ![My Programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IsaacAlves7&layout=compact&langs_count=8&theme=#000)
    
  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
- [![CSS3](https://img.shields.io/badge/-CSS3-66459B?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+ [![CSS3](https://img.shields.io/badge/-CSS3-6441A4?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![JS](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![JSON](https://img.shields.io/badge/-JSON_&_XML-cccccc?style=for-the-badge&logo=JSON&logoColor=fff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=ffffff)](https://sass-lang.com/)
