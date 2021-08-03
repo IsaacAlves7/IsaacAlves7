@@ -11,9 +11,10 @@ Hello 🌎! I’m currently a DevOps intern and working on my skills at EZOps.cl
 
 Challenges bring personal growth and that's as Isaac Newton said:
 
-<blockquote>If i have seen further than others, it is by standing upon the shoulders of giants.
-<br \>
-- <i>Sir Isaac Newton</i></blockquote>
+<blockquote>
+  If i have seen further than others, it is by standing upon the shoulders of giants.<br \><br \>
+  - <i>Sir Isaac Newton</i>
+</blockquote>
 
 ## 👨🏾‍🔬 About me
 
