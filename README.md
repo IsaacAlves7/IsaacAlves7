@@ -3,7 +3,7 @@
 </p>
 <h1> &nbsp;<img src= "https://readme-typing-svg.herokuapp.com?color=0094F5&lines=Hello+Devs!++Welcome+to+my+Lab!;My+name+is+Isaac+Alves+Pinheiro...;But+you+can+call+me+IsaacAlves7;Always+creating+something+new+...;Think+different!;Write+once,+run+anywhere!;Drink+coffee+☕;Use+mask+😷;%7C"/> </h1>
     
-<div align="center"><a href="https://github.com/IsaacAlves7"><img src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" height="7%" title="Home"/></a></div>
+<div align="center"><a href="https://github.com/IsaacAlves7"><img src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" height="377" title="Home"/></a></div>
 
 # 👦🏾 Bio
 
