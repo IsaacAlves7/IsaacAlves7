@@ -77,7 +77,7 @@ isaacStudent.speak("in love with DevOps!");
    
  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![CSS3](https://img.shields.io/badge/-CSS3-6441A4?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
- [![JS](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
+ [![JS](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)](https://github.com/IsaacAlves7?tab=repositories&q=javascript&type=&language=&sort=)
  [![JSON](https://img.shields.io/badge/-JSON_&_XML_&_YAML-cccccc?style=for-the-badge&logo=JSON&logoColor=fff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=ffffff)](https://sass-lang.com/)
  [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
