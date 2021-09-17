@@ -110,7 +110,6 @@ isaacStudent.speak("in love with DevOps!");
 
 <div align="center">
   
-  <a href="#"><img src="https://badges.pufler.dev/visits/IsaacAlves7/IsaacAlves7"></a>
   <a href="#"><img src="https://badges.pufler.dev/years/IsaacAlves7"></a>
   
 </div>
