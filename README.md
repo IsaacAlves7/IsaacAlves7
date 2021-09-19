@@ -114,4 +114,4 @@ isaacStudent.speak("in love with DevOps!");
   
 </div>
 
-<h3 align="center"> Thank you for visiting! 🎉</h3>
+<h3 align="center">🥳 Thank you for visiting! 🎉</h3>
