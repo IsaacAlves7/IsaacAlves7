@@ -104,11 +104,11 @@ isaacStudent.speak("in love with DevOps!");
   
 ![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=IsaacAlves7&show_icons=true&hide_border=true)
   
+<a href="#"><img src="https://badges.pufler.dev/years/IsaacAlves7"></a>
+
 <div align="center">
   
   ![Isaac's github snake](https://raw.githubusercontent.com/paulovitornovaes/paulovitornovaes/output/github-contribution-grid-snake.svg)
-
-  <a href="#"><img src="https://badges.pufler.dev/years/IsaacAlves7"></a>
   
 </div>
 
