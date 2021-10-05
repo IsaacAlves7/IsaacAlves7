@@ -6,7 +6,7 @@
     
 <div align="center"><a href="https://github.com/IsaacAlves7"><img src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" height="377" title="Home"/></a></div>
 
-# 👦🏾 Bio
+## 👦🏾 Bio
 
 Hello 🌎! I’m currently a DevOps intern and working on my skills at EZOps.cloud. My first formal contact with programming was at <a href="https://web.digitalinnovation.one/users/isaac_alves0720?tab=achievements">Digital Innovation One</a>, <a href="https://www.freecodecamp.org/isaac7">freeCodeCamp</a> and <a href="https://www.datacamp.com/">Datacamp</a>. They're both intensive courses made to everybody that have not had the opportunity to study technology before.
 
@@ -17,7 +17,7 @@ Challenges bring personal growth and that's as Isaac Newton said:
   - <i>Sir Isaac Newton</i>
 </blockquote>
 
-# 👨🏾‍🔬 About me
+## 👨🏾‍🔬 About me
 
  - ⚛️ I'm 21 years old and in the 4th period of the bachelor's degree of Computer Science.
  - 🌱 I’m learning about DevOps development.
@@ -38,7 +38,7 @@ Challenges bring personal growth and that's as Isaac Newton said:
 
  </div>
 
-# 🥽 My experiment
+## 🥽 My experiment
 ```javascript
 let IsaacAlves7 = {
     speak: function (line) {
@@ -51,7 +51,7 @@ isaacStudent.speak("in love with DevOps!");
 
 // → "Isaac in love with DevOps!"
 ```
- # 🥼 Other projects
+ ## 🥼 Other projects
  
 <div align="center">
  
@@ -69,7 +69,7 @@ isaacStudent.speak("in love with DevOps!");
  </div>
  
  
-# 👨🏾‍💻 Knowledge and skills
+## 👨🏾‍💻 Knowledge and skills
 
  <div align="center">
    
@@ -99,7 +99,7 @@ isaacStudent.speak("in love with DevOps!");
   </div>
    
   
-# 👨🏾‍💼 Status and Progress
+## 👨🏾‍💼 Status and Progress
 <a href="https://www.personsbook.com/"><img src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png" align="left" height="277"></a>
   
 ![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=IsaacAlves7&show_icons=true&hide_border=true)
