@@ -100,7 +100,7 @@ isaacStudent.speak("in love with DevOps!");
    
   
 ## 👨🏾‍💼 Status and Progress
-<a href="https://www.personsbook.com/"><img src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png" align="left" height="277"></a>
+<a href="https://www.personsbook.com/"><div align="center"><img src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png" align="left" height="277"></div></a>
   
 ![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=IsaacAlves7&show_icons=true&hide_border=true)
   
