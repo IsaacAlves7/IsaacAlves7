@@ -33,8 +33,6 @@ Challenges bring personal growth and that's as Isaac Newton said:
  [![Gitpod](https://img.shields.io/badge/-Gitpod-fff?style=for-the-badge&logo=Gitpod&logoColor=FFAE33)](https://codesandbox.io/u/IsaacAlves7)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
 [![Rocketseat](https://img.shields.io/badge/-Rocketseat-ffffff?style=for-the-badge&logo=American-Airlines&logoColor=9266CC)](https://app.rocketseat.com.br/me/isaac-alves-pinheiro-1589164166)
-[![ArtStation](https://img.shields.io/badge/-ArtStation-ffffff?style=for-the-badge&logo=ArtStation&logoColor=13AFF0)](https://www.artstation.com/isaacalves7)
-[![Dribbble](https://img.shields.io/badge/-Dribbble-ffffff?style=for-the-badge&logo=Dribbble&logoColor=EA4C89)](https://www.artstation.com/isaacalves7)
 
  </div>
 
