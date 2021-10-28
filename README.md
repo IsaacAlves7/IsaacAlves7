@@ -61,7 +61,7 @@ isaacStudent.speak("in love with DevOps!");
 [![Heroku](https://img.shields.io/badge/-NPM-f9f9f9?style=flat&logo=NPM&logoColor=red)](https://npmjs.com/)
 [![Vercel](https://img.shields.io/badge/-Vercel-ffffff?style=flat&logo=Vercel&logoColor=000000)](https://vercel.com/isaacalves7)
 [![Firebase](https://img.shields.io/badge/-Firebase-f9f9f9?style=flat&logo=Firebase&logoColor=FFCA28)](https://firebase.google.com/?hl=pt-br)
-[![AWS](https://img.shields.io/badge/-Amazon_Web_Services-f9f9f9?style=flat&logo=Amazon-AWS&logoColor=FF9900)]()
+[![AWS](https://img.shields.io/badge/-Amazon_Web_Services-f9f9f9?style=flat&logo=Amazon-AWS&logoColor=FF9900)](https://github.com/IsaacAlves7/devops-engineer/tree/aws)
 
  </div>
  
