@@ -88,7 +88,7 @@ isaacStudent.speak("in love with DevOps!");
  [![GOLANG](https://img.shields.io/badge/-GO-00ADD8?style=for-the-badge&logo=GO&logoColor=fff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Ruby](https://img.shields.io/badge/-Ruby-941711?style=for-the-badge&logo=Ruby&logoColor=ffffff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=for-the-badge&logo=Elixir&logoColor=fff)](https://elixir-lang.org/)
- [![Shell](https://img.shields.io/badge/-Shell-00FF00?style=for-the-badge&logo=GNU-Bash&logoColor=fff)](https://elixir-lang.org/)
+ [![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=for-the-badge&logo=GNU-Bash&logoColor=fff)](https://elixir-lang.org/)
  [![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=fff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Kotlin](https://img.shields.io/badge/-Kotlin-9999FF?style=for-the-badge&logo=Kotlin&logoColor=fff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=fff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
