@@ -87,7 +87,6 @@ isaacStudent.speak("in love with DevOps!");
  [![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=C-Sharp&logoColor=fff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![GOLANG](https://img.shields.io/badge/-GO-00ADD8?style=for-the-badge&logo=GO&logoColor=fff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Ruby](https://img.shields.io/badge/-Ruby-941711?style=for-the-badge&logo=Ruby&logoColor=ffffff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
- [![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=fff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=for-the-badge&logo=Elixir&logoColor=fff)](https://elixir-lang.org/)
  [![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=fff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
  [![Kotlin](https://img.shields.io/badge/-Kotlin-9999FF?style=for-the-badge&logo=Kotlin&logoColor=fff)](https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/)
