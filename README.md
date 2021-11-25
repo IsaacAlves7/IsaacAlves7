@@ -51,7 +51,7 @@ isaacStudent.speak("in love with DevOps!");
 ```
  ## 🥼 Other projects
  
-<div align="center">
+<div align="justify">
  
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-f9f9f9?style=flat&logo=Bitbucket&logoColor=0052CC)](https://bitbucket.org/isaacalves7/)
 [![GitLab](https://img.shields.io/badge/-GitLab-f9f9f9?style=flat&logo=GitLab&logoColor=FCA121)](https://gitlab.com/IsaacAlves7)
