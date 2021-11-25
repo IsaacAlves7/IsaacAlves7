@@ -61,6 +61,7 @@ isaacStudent.speak("in love with DevOps!");
 [![Firebase](https://img.shields.io/badge/-Firebase-f9f9f9?style=flat&logo=Firebase&logoColor=FFCA28)](https://firebase.google.com/?hl=pt-br)
 [![CircleCI](https://img.shields.io/badge/-CircleCI-f9f9f9?style=flat&logo=CircleCI&logoColor=343434)]()  
 [![CodeChef](https://img.shields.io/badge/-CodeChef-f9f9f9?style=flat&logo=CodeChef&logoColor=5B4638)]()  
+[![Codecov](https://img.shields.io/badge/-Codecov-f9f9f9?style=flat&logo=Codecov&logoColor=F01F7A)]()  
 [![Heroku](https://img.shields.io/badge/-NPM-f9f9f9?style=flat&logo=NPM&logoColor=red)]()  
 [![Digital Ocean](https://img.shields.io/badge/-Digital_Ocean-f9f9f9?style=flat&logo=DigitalOcean&logoColor=0080FF)](https://firebase.google.com/?hl=pt-br)
 [![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-f9f6f6?style=flat&logo=Microsoft-Azure&logoColor=0078D4)](https://codeberg.org/IsaacAlves7)
