@@ -59,6 +59,7 @@ isaacStudent.speak("in love with DevOps!");
 [![Vercel](https://img.shields.io/badge/-Vercel-ffffff?style=flat&logo=Vercel&logoColor=000000)](https://vercel.com/isaacalves7)
 [![Codeberg](https://img.shields.io/badge/-Codeberg-f9f6f6?style=flat&logo=Codeberg&logoColor=0078D4)](https://codeberg.org/IsaacAlves7)
 [![Firebase](https://img.shields.io/badge/-Firebase-f9f9f9?style=flat&logo=Firebase&logoColor=FFCA28)](https://firebase.google.com/?hl=pt-br)
+[![TravisCI](https://img.shields.io/badge/-TravisCI-f9f9f9?style=flat&logo=Travis-CI&logoColor=3EAAAF)]()  
 [![CircleCI](https://img.shields.io/badge/-CircleCI-f9f9f9?style=flat&logo=CircleCI&logoColor=343434)]()  
 [![Codeship](https://img.shields.io/badge/-Codeship-f9f9f9?style=flat&logo=Codeship&logoColor=004466)]()  
 [![CodeChef](https://img.shields.io/badge/-CodeChef-f9f9f9?style=flat&logo=CodeChef&logoColor=5B4638)]()  
