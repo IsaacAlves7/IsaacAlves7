@@ -114,7 +114,7 @@ isaacStudent.speak("in love with DevOps!");
 
 <div align="center">
   
-  ![Isaac's github snake](https://raw.githubusercontent.com/paulovitornovaes/paulovitornovaes/output/github-contribution-grid-snake.svg)
+  
   
 </div>
 
