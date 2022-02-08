@@ -34,9 +34,7 @@ Challenges bring personal growth and that's as the brillant scientist Isaac Newt
       src="https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=gmail&logoColor=red"
     />
   </a>
-  
-  &nbsp;
-    
+      
   <div align="center">
   <a href="https://github.com/IsaacAlves7">
   <img height="170em" src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png"/>
