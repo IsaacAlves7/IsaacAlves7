@@ -14,7 +14,7 @@
 - **Currently Studying:** Digital Systems, Microcontrollers Programming, Cloud Computing, CyberSecurity and Mounting Language.   
 - **Working with:** AWS, Node.js, PHP, Python, Docker, Kubernetes, Git and GitHub, Nginx.
 
-Hello 🌎! I’m currently searching an opportunity of DevOps vacancy on labour market. Also, i want practice and share my studies over here. Feel free to let any doubt, tip or feedback call me on linkedin or gmail.
+Hello 🌎! I’m currently searching an opportunity of DevOps vacancy on labour market. Also, i want practice and share my studies around here. Feel free to let any doubt, tip or feedback call me on linkedin or gmail.
 
 Challenges bring personal growth and that's as the brillant scientist Isaac Newton said:
 
