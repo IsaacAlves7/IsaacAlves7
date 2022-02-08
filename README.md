@@ -44,4 +44,4 @@ Challenges bring personal growth and that's as the brillant scientist Isaac Newt
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IsaacAlves7&show_icons=true&hide_border=true"/>
 </div>
 
-<!-- ![Snake animation](https://github.com/larissadalimar/larissadalimar/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://raw.githubusercontent.com/IsaacAlves7/IsaacAlves7/27423a6116585256c6fb97ab8b4c401de3c5fdfc/github-contribution-grid-snake.svg)
