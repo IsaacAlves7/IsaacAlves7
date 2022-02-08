@@ -36,7 +36,6 @@ Challenges bring personal growth and that's as the brillant scientist Isaac Newt
   </a>
   
   &nbsp;
-  &nbsp;
     
   <div align="center">
   <a href="https://github.com/IsaacAlves7">
