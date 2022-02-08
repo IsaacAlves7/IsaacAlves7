@@ -35,8 +35,7 @@ Challenges bring personal growth and that's as the brillant scientist Isaac Newt
     />
   </a>
       
-  <div align="center">
-  <a href="https://github.com/IsaacAlves7">
+<div align="center">
   <img height="170em" src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IsaacAlves7&layout=compact&langs_count=8&theme=#000"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IsaacAlves7&show_icons=true&hide_border=true"/>
