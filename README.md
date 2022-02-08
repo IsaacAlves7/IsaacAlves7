@@ -10,7 +10,7 @@
 
 👨🏾‍💻 *DevOps and Full-Stack Developer* 💜
 
-- **Interest Areas:** DevOps and Full-Stack Developer.  
+- **Interest Areas:** DevOps and Full-Stack Development.  
 - **Currently Studying:** Digital Systems, Microcontrollers Programming, Cloud Computing, CyberSecurity and Mounting Language.   
 - **Working with:** AWS, Node.js, PHP, Python, Docker, Kubernetes, Git and GitHub, Nginx.
 
