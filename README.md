@@ -8,9 +8,9 @@
 
 ## 👦🏾 Bio
 
-Hello 🌎! I’m currently a DevOps intern and working on my skills at EZOps.cloud. My first formal contact with programming was at <a href="https://web.digitalinnovation.one/users/isaac_alves0720?tab=achievements">Digital Innovation One</a>, <a href="https://www.freecodecamp.org/isaac7">freeCodeCamp</a> and <a href="https://www.datacamp.com/">Datacamp</a>. They're both intensive courses made to everybody that have not had the opportunity to study technology before.
+Hello 🌎! I’m currently searching a opportunity of DevOps vacancy on labour market.
 
-Challenges bring personal growth and that's as Isaac Newton said:
+Challenges bring personal growth and that's as the brillant scientist Isaac Newton said:
 
 <blockquote>
   If i have seen further than others, it is by standing upon the shoulders of giants.<br \>
@@ -20,8 +20,8 @@ Challenges bring personal growth and that's as Isaac Newton said:
 ## 👨🏾‍🔬 About me
 
  - ⚛️ I'm 21 years old and in the 5th period of the bachelor's degree of Computer Science.
- - 🌱 I’m learning about DevOps development.
- - 👯 I’m looking to collaborate for the <a href="https://www.ezops.cloud/"><b>EZOps.cloud</b></a>!
+ - 🌱 I’m learning about DevOps.
+<!--  - 👯 I’m looking to collaborate for the <a href="https://www.ezops.cloud/"><b>EZOps.cloud</b></a>! -->
  - 🎯 Focused in DevOps Engineer!
  - 😄 I really like to learn more and more!
  - 💜 I'm very passionate about new technologies!
