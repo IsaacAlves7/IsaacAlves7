@@ -8,7 +8,7 @@
 
 💻 *Computer Science student at UNESA* 👨🏾‍🔬 
 
-👨🏾‍💻 *DevOps and Full-Stack Developer* 💜
+👨🏾‍💻 *DevOps and Full-Stack Developer* ⚛️
 
 - **Interest Areas:** DevOps and Full-Stack Development.  
 - **Currently Studying:** Digital Systems, Microcontrollers Programming, Cloud Computing, CyberSecurity and Mounting Language.   
