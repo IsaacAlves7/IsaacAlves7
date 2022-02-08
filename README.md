@@ -21,7 +21,7 @@ Challenges bring personal growth and that's as the brillant scientist Isaac Newt
 
  - ⚛️ I'm 21 years old and in the 5th period of the bachelor's degree of Computer Science.
  - 🌱 I’m learning about DevOps.
-<!--  - 👯 I’m looking to collaborate for the <a href="https://www.ezops.cloud/"><b>EZOps.cloud</b></a>! -->
+<!-- 👯 I’m looking to collaborate for the <a href="https://www.ezops.cloud/"><b>EZOps.cloud</b></a>! -->
  - 🎯 Focused in DevOps Engineer!
  - 😄 I really like to learn more and more!
  - 💜 I'm very passionate about new technologies!
