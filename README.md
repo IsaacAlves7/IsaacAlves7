@@ -6,9 +6,9 @@
 
 <img align='right' src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" width="230">
 
-💻 *Computer Science student at UNESA* 👨🏾‍🔬 
+💻 *Computer Science student at UNESA* ⚛️ 
 
-👨🏾‍💻 *DevOps and Full-Stack Developer* ⚛️
+👨🏾‍💻 *DevOps and Full-Stack Developer* 👨🏾‍🔬
 
 - **Interest Areas:** DevOps and Full-Stack Development.  
 - **Currently Studying:** Digital Systems, Microcontrollers Programming, Cloud Computing, CyberSecurity and Mounting Language.   
