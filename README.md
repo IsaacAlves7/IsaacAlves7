@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/"><img align="center" src="https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=blue"/></a>
 <a href="mailto:isaacalves0720@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=gmail&logoColor=red"/></a>
 
-- **Currently Studying:** Digital Systems, Microcontrollers Programming, Cloud Computing, CyberSecurity, Mounting Language, RubyOnRails, React.js and Java.   
+- ♾️ **Currently Studying:** Digital Systems, Microcontrollers Programming, Cloud Computing, CyberSecurity, Mounting Language, RubyOnRails, React.js and Java.   
 
 I want practice and share my studies around here. Feel free to let any doubt, tip or feedback call me on linkedin or gmail.
 
