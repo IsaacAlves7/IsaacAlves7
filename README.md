@@ -15,7 +15,7 @@
 
 - **Currently Studying:** Digital Systems, Microcontrollers Programming, Cloud Computing, CyberSecurity, Mounting Language, RubyOnRails, React.js and Java.   
 
-Hello 🌎! I want practice and share my studies around here. Feel free to let any doubt, tip or feedback call me on linkedin or gmail.
+I want practice and share my studies around here. Feel free to let any doubt, tip or feedback call me on linkedin or gmail.
 
 <!-- I’m currently searching an opportunity of DevOps vacancy on labour market. Also, -->
 
