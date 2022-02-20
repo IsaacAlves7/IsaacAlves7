@@ -26,7 +26,7 @@ Challenges bring personal growth and that's as the brillant scientist Isaac Newt
 <a href="https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/"><img align="center" src="https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=blue"/></a>
 <a href="mailto:isaacalves0720@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=gmail&logoColor=red"/></a>
 
-<details><summary><h2 title="(click to open)">Status</h2></summary>
+<details><summary><b title="(click to open)">Status</b></summary>
 <div align="center">
   <img height="170em" src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IsaacAlves7&layout=compact&langs_count=8&theme=#000"/>
