@@ -22,8 +22,8 @@ I want practice and share my studies around here. Feel free to let any doubt, ti
 Challenges bring personal growth and that's as the brillant scientist Isaac Newton said:
 
 <blockquote>
-  If i have seen further than others, it is by standing upon the shoulders of giants.<br \>
-  - <i>Sir Isaac Newton</i>
+  "If i have seen further than others, it is by standing upon the shoulders of giants."<br \>
+  <i>Sir Isaac Newton</i>
 </blockquote>
 
 <details><summary><b title="(click to open)">🌲 Work Status</b></summary>
