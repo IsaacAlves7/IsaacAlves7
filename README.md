@@ -6,7 +6,7 @@
 
 <img align='right' src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" width="230">
 
-💻 *Computer Science student at UNESA* ⚛️ 👨🏾‍💻 *DevOps and Full-Stack Developer* 👨🏾‍🔬 
+💻 **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA) student at UNESA ⚛️ 👨🏾‍💻 [`DevOps`](https://roadmap.sh/roadmaps/devops.png) and [`Full-Stack Developer`](https://pbs.twimg.com/media/E9c8-2EUcAQRBF1?format=jpg&name=large)** 👨🏾‍🔬
 
 <a href="https://www.linkedin.com/in/isaac-alves-pinheiro-012324198/"><img align="center" src="https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=blue"/></a> <a href="mailto:isaacalves0720@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=gmail&logoColor=red"/></a>
 
