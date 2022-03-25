@@ -4,10 +4,7 @@
 
 <h1>&nbsp;<img src= "https://readme-typing-svg.herokuapp.com?color=0094F5&lines=👋🏾+Hello,+World!;I'm+Isaac+Alves+Pinheiro;But+you+can+call+me+IsaacAlves7;%7C"/></h1>
 
-<div align='right'>
-  <img src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" width="230">
-  
-</div>
+<img align='right' src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" width="230">
 
 👨🏾‍💻 I'm **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA) student at UNESA, [`DevOps`](https://roadmap.sh/roadmaps/devops.png) and [`Full-Stack Developer`](https://pbs.twimg.com/media/E9c8-2EUcAQRBF1?format=jpg&name=large)** 👨🏾‍🔬
 
