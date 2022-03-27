@@ -2,7 +2,7 @@
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=isaacalves7.visitor-badge"/></a>
 </div>
 
-<h1><img src="https://readme-typing-svg.herokuapp.com?color=0094F5&lines=👋🏾+Hello,+World!;👨🏾‍🔬+Welcome+to+my+lab!;%7C"/></h1>
+<img src="https://readme-typing-svg.herokuapp.com?color=0094F5&lines=👋🏾+Hello,+World!;👨🏾‍🔬+Welcome+to+my+lab!;%7C"/>
 
 <img align='right' src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" width="230">
 
