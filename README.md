@@ -8,7 +8,7 @@
 
 👨🏾‍💻 I'm **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** student at **UNESA**, **[`DevOps`](https://roadmap.sh/roadmaps/devops.png)** and **[`Full-Stack Developer`](https://pbs.twimg.com/media/E9c8-2EUcAQRBF1?format=jpg&name=large)** 👨🏾‍🔬
 
-- ♾️ **Currently Studying:** Digital Systems, Microcontrollers Programming, Cloud Computing, CyberSecurity, Mounting Language, Node.js, RubyOnRails, React.js and Java;   
+- ♾️ **Currently Studying:** DevOps, Digital Systems, Microcontrollers Programming, Cloud Computing, CyberSecurity, Mounting Language, Node.js, RubyOnRails, React.js and Java;   
 - ⚛️ I want practice and share my studies around here. Feel free to let any doubt, tip or feedback call me on linkedin or gmail.
 
 <!-- I’m currently searching an opportunity of DevOps vacancy on labour market. Also, -->
