@@ -2,7 +2,7 @@
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=isaacalves7.visitor-badge"/></a>
 </div>
 
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=0094F5&lines=👋🏾+Hello,+World!;👨🏾‍🔬+Welcome+to+my+lab!;👨🏾‍💻+I+want+practice+and+share+my+studies;💾+Feel+free+to+let+any+doubt;%7C"/></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=0094F5&lines=👋🏾+Hello,+World!;👨🏾‍🔬+Welcome+to+my+lab!;👨🏾‍💻+I+want+share+my+studies;💾+Feel+free+to+let+any+doubt;%7C"/></a>
 
 <a href="https://github.com/IsaacAlves7"><img align='right' src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" width="227"></a>
 
