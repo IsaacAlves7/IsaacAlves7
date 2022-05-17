@@ -27,7 +27,7 @@ Challenges bring personal growth and that's as the brillant scientist Isaac Newt
     
 <img src="https://stars.medv.io/IsaacAlves7/badges.svg">
     
-<img src="https://github-readme-stats.vercel.app/api?username=IsaacAlves7&theme=default">
+<img src="https://github-readme-stats.vercel.app/api?username=IsaacAlves7&theme=default" height="170em">
         
   </div>
   
