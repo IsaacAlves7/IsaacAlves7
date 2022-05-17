@@ -1,5 +1,5 @@
 <div align='right'>
-  <a href="#"><img height="27" src="https://github.com/IsaacAlves7/portfolio/blob/favicon/favicon.svg" align="right" title="NEW: Visit my portfolio website!"></a>
+<!--   <a href="#"><img height="27" src="https://github.com/IsaacAlves7/portfolio/blob/favicon/favicon.svg" align="right" title="NEW: Visit my portfolio website!"></a> -->
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=isaacalves7.visitor-badge"/></a>
 </div>
 
