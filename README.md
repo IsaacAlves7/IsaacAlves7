@@ -1,9 +1,4 @@
-<div align='right'>
-<!--   <a href="#"><img height="27" src="https://github.com/IsaacAlves7/portfolio/blob/favicon/favicon.svg" align="right" title="🎉 NEW: Visit my portfolio website!"></a> -->
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=isaacalves7.visitor-badge"/></a>
-</div>
-
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=0094F5&lines=👋🏾+Hello,+World!;👨🏾‍🔬+Welcome+to+my+lab!;👨🏾‍💻+I+want+share+my+studies;💾+Feel+free+to+let+any+doubt;%7C"/></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=0094F5&lines=👋🏾+Hello,+World!;👨🏾‍🔬+Welcome+to+my+lab!;👨🏾‍💻+I+want+share+my+studies;💾+Feel+free+to+let+any+doubt;%7C"/></a> <a href="#"><img height="27" src="https://github.com/IsaacAlves7/portfolio/blob/favicon/favicon.svg" align="right" title="🎉 NEW: Visit my portfolio website!"></a> <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=isaacalves7.visitor-badge" align="right"/></a>
 
 I'm **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** student at **UNESA**, **[`DevOps`](https://roadmap.sh/roadmaps/devops.png)** and **[`Full-Stack Developer`](https://pbs.twimg.com/media/E9c8-2EUcAQRBF1?format=jpg&name=large)**.
 
