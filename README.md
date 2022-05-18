@@ -7,12 +7,12 @@
 
 I'm **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** student at **UNESA**, **[`DevOps`](https://roadmap.sh/roadmaps/devops.png)** and **[`Full-Stack Developer`](https://pbs.twimg.com/media/E9c8-2EUcAQRBF1?format=jpg&name=large)**.
 
-<details><summary><b title="(click to open)">🍎 Studies Status</b></summary><br />
+<details><summary><b title="(click to open)">♾️ Studies Status</b></summary><br />
+<a href="https://github.com/IsaacAlves7"><img align="right" src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" width="97"></a>
   
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) <a href="https://github.com/IsaacAlves7"><img align="right" src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" width="97"></a>
-  
-- ♾️ **Currently Studying:** DevOps, Digital Systems, Microcontrollers Programming, Cloud Computing, CyberSecurity, Mounting Language, Node.js, RubyOnRails, React.js and Java;   
-- ⚛️ Tip or feedback call me on linkedin or gmail.
+- 🍎 **Currently Studying:** DevOps, Digital Systems, Microcontrollers Programming, Cloud Computing, CyberSecurity, Mounting Language, Node.js, RubyOnRails, React.js and Java;   
+- 🌈⃤  &nbsp;**Focusing**: Full-Stack development;
+- 🔭 **Colaborating**: HeadMind Partners Brasil.
  
 Challenges bring personal growth and that's as the brillant scientist Isaac Newton said:
 
@@ -23,7 +23,7 @@ Challenges bring personal growth and that's as the brillant scientist Isaac Newt
   
 </details>
 
-<details><summary><b title="(click to open)">🌲 Work Status</b></summary>     
+<details><summary><b title="(click to open)">⚛️ Work Status</b></summary>     
   <div align="center">
 <a href="https://github.com/IsaacAlves7"><img height="97" src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png"></a>
     
