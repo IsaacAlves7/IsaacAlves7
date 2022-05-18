@@ -1,9 +1,10 @@
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=0094F5&lines=👋🏾+Hello,+World!;👨🏾‍🔬+Welcome+to+my+lab!;👨🏾‍💻+I+want+share+my+studies;💾+Feel+free+to+let+any+doubt;%7C"/></a> <a href="#"><img height="27" src="https://github.com/IsaacAlves7/portfolio/blob/favicon/favicon.svg" align="right" title="🎉 NEW: Visit my portfolio website!"></a> <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=isaacalves7.visitor-badge" align="right"/></a>
-
-I'm **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** student at **UNESA**, **[`DevOps`](https://roadmap.sh/roadmaps/devops.png)** and **[`Full-Stack Developer`](https://pbs.twimg.com/media/E9c8-2EUcAQRBF1?format=jpg&name=large)**.
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=0094F5&lines=👋🏾+Hello,+World!;👨🏾‍🔬+Welcome+to+my+lab!;👨🏾‍💻+I+want+share+my+studies;💾+Feel+free+to+let+any+doubt;%7C"/></a> <!--<a href="#"><img height="27" src="https://github.com/IsaacAlves7/portfolio/blob/favicon/favicon.svg" align="right" title="🎉 NEW: Visit my portfolio website!"></a>--> <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=isaacalves7.visitor-badge" align="right"/></a>
 
 <details><summary><b title="(click to open)">♾️ Studies Status</b></summary><br />
-<a href="https://github.com/IsaacAlves7"><img align="right" src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" width="97"></a>
+
+<a href="https://github.com/IsaacAlves7"><img align="right" src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" width="177"></a>
+  
+I'm **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** student at **UNESA**, **[`DevOps`](https://roadmap.sh/roadmaps/devops.png)** and **[`Full-Stack Developer`](https://pbs.twimg.com/media/E9c8-2EUcAQRBF1?format=jpg&name=large)**.
   
 - 🍎 **Currently Studying:** DevOps, Digital Systems, Microcontrollers Programming, Cloud Computing, CyberSecurity, Mounting Language, Node.js, RubyOnRails, React.js and Java;   
 - 🌈⃤  &nbsp;**Focusing**: Full-Stack development;
