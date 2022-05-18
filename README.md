@@ -17,9 +17,7 @@ Challenges bring personal growth and that's as the brillant scientist Isaac Newt
   <i>Sir Isaac Newton</i>
 </blockquote>
   
-</details>
-
-<details><summary><b title="(click to open)">⚛️ Work Status</b></summary>     
+  <details><summary><b title="(click to open)">⚛️ Work Status</b></summary>     
   <div align="center">
 <a href="https://github.com/IsaacAlves7"><img height="177" src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png"></a>
         
@@ -30,4 +28,8 @@ Challenges bring personal growth and that's as the brillant scientist Isaac Newt
 ![Snake animation](https://raw.githubusercontent.com/IsaacAlves7/IsaacAlves7/27423a6116585256c6fb97ab8b4c401de3c5fdfc/github-contribution-grid-snake.svg)
 
   </a></div>
+    
+</details>
+  
+  
 </details>
