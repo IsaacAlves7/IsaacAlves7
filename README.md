@@ -8,7 +8,7 @@ I'm **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** studen
   
 - 🍎 **Studying:** DevOps, Digital Systems, Microcontrollers Programming, Cloud Computing, CyberSecurity, Mounting Language, Node.js, RubyOnRails, React.js and Java;
 - 🌈⃤  &nbsp;**Focusing**: Full-Stack development;
-- 🔭 **Colaborating**: HeadMind Partners Brasil.
+- 🔭 **Colaborating**: <a href="https://www.headmind.com/pt/">HeadMind Partners Brasil</a>.
  
 Challenges bring personal growth and that's as the brillant scientist Isaac Newton said:
 
