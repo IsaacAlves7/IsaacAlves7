@@ -30,7 +30,7 @@ Challenges bring personal growth and that's as the brillant scientist Isaac Newt
 ![Snake animation](https://raw.githubusercontent.com/IsaacAlves7/IsaacAlves7/27423a6116585256c6fb97ab8b4c401de3c5fdfc/github-contribution-grid-snake.svg)
 
   </a></div>
-    
+        
 </details>
   
   
