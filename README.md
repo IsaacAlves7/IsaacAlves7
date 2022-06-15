@@ -29,7 +29,7 @@ Challenges bring personal growth and that's as the brillant scientist Isaac Newt
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&username=IsaacAlves7" height="150" alt="languages graph"  />
 </div>
 
-<img href="https://github.com/IsaacAlves7/IsaacAlves7/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/IsaacAlves7/IsaacAlves7/blob/output/snake.svg" alt="Snake animation" />
 
   </a></div>
         
