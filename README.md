@@ -2,7 +2,7 @@
 
 <!------------------------------------------------------------------------------ Dropdown ---------------------------------------------------------------------------->
 
-<details><summary><b title="(click to open)">♾️ Studies Status</b></summary><br />
+<details><summary><b title="(click to open)">♾️ About me</b></summary><br />
   
 I'm **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** student at **UNESA**, **[`DevOps`](https://roadmap.sh/roadmaps/devops.png)** and **[`Full-Stack Developer`](https://pbs.twimg.com/media/E9c8-2EUcAQRBF1?format=jpg&name=large)**.
 
