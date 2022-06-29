@@ -21,6 +21,8 @@ Challenges bring personal growth and that's as the brillant scientist Isaac Newt
 </blockquote>
   
 <details><summary><b title="(click to open)">⚛️ Work Status</b></summary>     
+
+<img src="github-metrics.svg">
   
 <a href="https://github.com/IsaacAlves7"><div align="center">
   
