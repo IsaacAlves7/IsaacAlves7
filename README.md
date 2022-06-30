@@ -20,7 +20,7 @@ Challenges bring personal growth and that's as the brillant scientist Isaac Newt
   <i>Sir Isaac Newton</i>
 </blockquote>
   
-<details><summary><b title="(click to open)">⚛️ Work Status</b></summary>     
+<details><summary><b title="(click to open)">⚛️ Work status</b></summary>     
 
 <a href="https://github.com/IsaacAlves7"><div align="center">
   
