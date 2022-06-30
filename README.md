@@ -22,13 +22,15 @@ Challenges bring personal growth and that's as the brillant scientist Isaac Newt
   
 <details><summary><b title="(click to open)">⚛️ Work Status</b></summary>     
 
-<img src="github-metrics.svg">
-  
 <a href="https://github.com/IsaacAlves7"><div align="center">
   
   <img height="117em" src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&username=IsaacAlves7" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&username=IsaacAlves7" height="150" alt="languages graph"  />
+
+<details><summary><b title="(click to open)">💼 Resume</b></summary>   
+  <img src="github-metrics.svg">
+</details>
 
 <img src="https://github.com/IsaacAlves7/IsaacAlves7/blob/output/snake.svg" alt="Snake animation" />
 
