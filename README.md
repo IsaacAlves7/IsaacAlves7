@@ -10,7 +10,7 @@ I'm **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** studen
 <a href="https://github.com/IsaacAlves7"><img align="right" src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" height="117em"></a> 
   
 - 🍎 **Studying:** DevOps, Digital Systems, Microcontrollers Programming, Cloud Computing, CyberSecurity, Mounting Language, Node.js, RubyOnRails, React.js and Java;
-- 🌈⃤  &nbsp;**Focusing**: Full-Stack development;
+- △ **Focusing**: Full-Stack development;
 - 🔭 **Colaborating**: <a href="https://www.headmind.com/pt/">HeadMind Partners Brasil</a>.
  
 Challenges bring personal growth and that's as the brillant scientist Isaac Newton said:
