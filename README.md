@@ -31,11 +31,9 @@ Challenges bring personal growth and that's as the brillant scientist Isaac Newt
 <img src="https://github.com/IsaacAlves7/IsaacAlves7/blob/output/snake.svg" alt="Snake animation" />
 
  </div> </a>
- 
+        
+</details>
 <details><summary><b title="(click to open)">💼 Job brief</b></summary>   
   <img src="github-metrics.svg">
 </details>
-        
-</details>
-  
 </details>
