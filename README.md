@@ -22,7 +22,7 @@ Challenges bring personal growth and that's as the brillant scientist Isaac Newt
   
 <a href="https://github.com/IsaacAlves7"><details><summary><b title="(click to open)">⚛️ Work status</b></summary>     
 
-<a href="https://github.com/IsaacAlves7"><div align="center">
+<div align="center">
   <details><summary><b title="(click to open)">💼 Job brief</b></summary>   
   <img src="github-metrics.svg">
 </details>
