@@ -1,5 +1,4 @@
 <!-- 🆕+Visit+my+portfolio+website!; --> <a href="https://github.com/IsaacAlves7"><!-- <img height="24" src="https://github.com/IsaacAlves7/portfolio/blob/favicon/favicon.svg" align="right" title="NEW! Visit my portfolio website! 🎉"> --><img src="https://visitor-badge.glitch.me/badge?page_id=isaacalves7.visitor-badge" align="right"/></a>
-
 <!------------------------------------------------------------------------------ Dropdown ---------------------------------------------------------------------------->
 
 <details><summary><b title="(click to open)">♾️ About me</b></summary><br />
@@ -7,11 +6,15 @@
   
 I'm **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** student at **UNESA**, **[`DevOps`](https://roadmap.sh/roadmaps/devops.png)** and **[`Full-Stack Developer`](https://pbs.twimg.com/media/E9c8-2EUcAQRBF1?format=jpg&name=large)**.
 
-<a href="https://github.com/IsaacAlves7"><img align="right" src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" height="117em"></a> 
+<a href="https://github.com/IsaacAlves7"><img align="right" src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" height="117em"></a>
   
 - 🍎 **Studying:** DevOps, Digital Systems, Microcontrollers Programming, Cloud Computing, CyberSecurity, Mounting Language, Node.js, RubyOnRails, React.js and Java;
 - &nbsp;△&nbsp; **Focusing**: Full-Stack development;
 - 🔭 **Colaborating**: <a href="https://www.headmind.com/pt/">HeadMind Partners Brasil</a>.
+
+- ![Github-sponsors](https://img.shields.io/badge/sponsor-f9f7f7?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA) <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="29"  width="121" alt="IsaacAlves7" />
+
+
  
 Challenges bring personal growth and that's as the brillant scientist Isaac Newton said:
 
