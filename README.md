@@ -13,7 +13,7 @@ I'm **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** studen
 - 🔭 **Colaborating**: <a href="https://www.headmind.com/pt/">HeadMind Partners Brasil</a>. <br />
 
 - ☕ **Support**: 
-<code> ![Github-sponsors](https://img.shields.io/badge/sponsor-f9f7f7?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA) <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="29"  width="121" alt="IsaacAlves7" /> </code>
+<code> ![Github-sponsors](https://img.shields.io/badge/sponsor-f9f7f7?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA) <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="29"  width="121" alt="IsaacAlves7" /> ![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white) </code>
 
 
  
