@@ -8,7 +8,7 @@ I'm **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** studen
 
 <a href="https://github.com/IsaacAlves7"><img align="right" src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" height="117em"></a>
   
-- 🍎 **Studying:** DevOps, Microcontrollers Programming, Cloud Computing, CyberSecurity, Node.js, RubyOnRails, React.js and Java;
+- 🍎 **Studying:** DevOps, Microcontrollers Programming, CyberSecurity, Node.js, RubyOnRails, React.js and Java;
 - &nbsp;△&nbsp; **Focusing**: Full-Stack development;
 - 🔭 **Colaborating**: <a href="https://www.headmind.com/pt/">HeadMind Partners Brasil</a>. <br />
 
