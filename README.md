@@ -15,11 +15,9 @@ I'm **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** studen
 <!-- ☕ **Support**: 
 <code> ![Github-sponsors](https://img.shields.io/badge/sponsor-f9f7f7?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA) <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="29"  width="121" alt="IsaacAlves7" /> ![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white) </code> -->
  
-Challenges bring personal growth and that's as the brillant scientist Isaac Newton said:
-
 <blockquote>
-  "If i have seen further than others, it is by standing upon the shoulders of giants." <br \>
-  <i>Sir Isaac Newton</i>
+  <sup>Challenges bring personal growth and that's as the brillant scientist Isaac Newton said:</sup><br />
+  "If i have seen further than others, it is by standing upon the shoulders of giants." - <i>Sir Isaac Newton</i>
 </blockquote>
   
 <details><summary><b title="(click to open)">⚛️ Work status</b></summary>     
