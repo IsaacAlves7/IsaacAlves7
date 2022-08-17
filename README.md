@@ -8,9 +8,9 @@ I'm **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** studen
 
 <a href="https://github.com/IsaacAlves7"><img align="right" src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" height="117em"></a>
   
-  <details><summary><b title="(click to open)">🍎  **Studying:** DevSecOps, Data Science, Embedded Systems, Node.js, RubyOnRails and Java;</summary></details>
-&nbsp;△&nbsp;  **Focusing**: Full-Stack development;<br />
-🔭  **Colaborating**: <a href="https://www.headmind.com/pt/">HeadMind Partners Brasil</a>. <br />
+- 🍎 **Studying:** DevSecOps, Data Science, Embedded Systems, Node.js, RubyOnRails and Java;
+- &nbsp;△&nbsp;  **Focusing**: Full-Stack development;
+- 🔭 **Colaborating**: <a href="https://www.headmind.com/pt/">HeadMind Partners Brasil</a>.
 
 <!-- ☕ **Support**: 
 <code> ![Github-sponsors](https://img.shields.io/badge/sponsor-f9f7f7?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA) <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="29"  width="121" alt="IsaacAlves7" /> ![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white) </code> -->
