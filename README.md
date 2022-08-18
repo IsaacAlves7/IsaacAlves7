@@ -22,11 +22,6 @@ I'm **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** studen
   
 <details><summary><b title="(click to open)">⚛️ Work status</b></summary>     
 
-<div align="center">
-  <details><summary><b title="(click to open)">💼 Job brief</b></summary>   
-  <img src="github-metrics.svg">
-</details>
-
 <a href="https://github.com/IsaacAlves7">
 
   <img height="117em" src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png">
