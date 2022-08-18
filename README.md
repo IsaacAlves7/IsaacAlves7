@@ -6,7 +6,7 @@
   
 I'm **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** student at **UNESA**, **[`DevOps Engineer`](https://roadmap.sh/roadmaps/devops.png)**, **[`Full-Stack Developer`](https://pbs.twimg.com/media/E9c8-2EUcAQRBF1?format=jpg&name=large)** and **[`Data Engineer`](https://i.pinimg.com/736x/ad/2d/4e/ad2d4e16d7b9be46b2a3024c12c0ee80.jpg)**.
 
-<a href="https://github.com/IsaacAlves7"><img align="right" src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" height="117em"></a>
+<a href="https://raw.githubusercontent.com/IsaacAlves7/IsaacAlves7/584a6953d60e797bd1988c7dc3a8aa6b9842512a/github-metrics.svg"><img align="right" src="https://user-images.githubusercontent.com/61624336/116183082-a7f44780-a6f3-11eb-9365-2118e0f5b29b.png" height="117em"></a>
   
 - 🍎 **Studying:** DevSecOps, Data Science, Embedded Systems, Node.js, RubyOnRails and Java;
 - &nbsp;△&nbsp;  **Focusing**: Full-Stack development;
