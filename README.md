@@ -1,7 +1,7 @@
 <!-- 🆕+Visit+my+portfolio+website!; --> <a href="https://github.com/IsaacAlves7"><!-- <img height="24" src="https://github.com/IsaacAlves7/portfolio/blob/favicon/favicon.svg" align="right" title="NEW! Visit my portfolio website! 🎉"> --><img src="https://visitor-badge.glitch.me/badge?page_id=isaacalves7.visitor-badge" align="right"/></a>
 <!------------------------------------------------------------------------------ Dropdown ---------------------------------------------------------------------------->
 
-<details><summary><b title="(click to open)">♾️ About me</b></summary><br />
+<details><summary><b title="(click to open)">:octocat: About me</b></summary><br />
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=326CE5&lines=👋🏾+Hello,+World!;👨🏾‍🔬+Welcome+to+my+lab!;👨🏾‍💻+I+want+share+my+studies+here!;💾+Feel+free+to+let+any+doubt!;🐑+Going+beyond+expectations!;💪🏾+I'm+trying+to+do+better!;%7C"/></a>
   
 I'm **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** student at **UNESA**, and very interested in **[`DevOps`](https://roadmap.sh/roadmaps/devops.png)**, **[`Software Development`](https://pbs.twimg.com/media/E9c8-2EUcAQRBF1?format=jpg&name=large)** and **[`Data Science`](https://i.pinimg.com/736x/ad/2d/4e/ad2d4e16d7b9be46b2a3024c12c0ee80.jpg)**.
