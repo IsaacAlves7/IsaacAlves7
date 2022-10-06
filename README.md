@@ -2,7 +2,7 @@
 <!------------------------------------------------------------------------------ Dropdown ---------------------------------------------------------------------------->
 
 <details><summary><b title="(click to open)">:octocat: About me</b></summary><br />
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=326CE5&lines=👋🏾+Hello,+World!;👨🏾‍🔬+Welcome+to+my+lab!;👨🏾‍💻+I+want+share+my+studies+here!;💾+Feel+free+to+let+any+doubt!;🐑+Going+beyond+expectations!;💪🏾+I'm+trying+to+do+better!;%7C"/></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=326CE5&lines=👋🏾+Hello,+World!;👨🏾‍🔬+Welcome+to+my+lab!;👨🏾‍💻+I+want+share+my+studies+here!;💾+Feel+free+to+let+any+doubt!;🐑+Going+beyond+expectations!;💪🏾+I'm+trying+to+do+better!;⚛️+I'm+a+Data+Scientist+at+Globoplay!;%7C"/></a>
   
 I'm **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** student at **UNESA**, and very interested in **[`DevOps`](https://roadmap.sh/roadmaps/devops.png)**, **[`Software Development`](https://pbs.twimg.com/media/E9c8-2EUcAQRBF1?format=jpg&name=large)** and **[`Data Science`](https://i.pinimg.com/736x/ad/2d/4e/ad2d4e16d7b9be46b2a3024c12c0ee80.jpg)**.
 
@@ -10,7 +10,7 @@ I'm **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** studen
   
 - 🍎 **Studying:** DevSecOps, Data Science, Embedded Systems and Full-Stack Development;
 - &nbsp;△&nbsp;  **Focusing**: Computer Science studies;
-- 🔭 **Colaborating**: <a href="https://www.globo.com">Rede Globo - Globoplay</a>.
+- 🔭 **Colaborating**: <a href="https://www.globo.com">Globo</a>.
 
 <!-- ☕ **Support**: 
 <code> ![Github-sponsors](https://img.shields.io/badge/sponsor-f9f7f7?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA) <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="29"  width="121" alt="IsaacAlves7" /> ![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white) </code> -->
