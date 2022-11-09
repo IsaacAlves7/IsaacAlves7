@@ -24,7 +24,8 @@ I'm **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** studen
 
 <a href="https://github.com/IsaacAlves7">
 
-  <img height="117em" src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png">
+  <img height="117em" src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png"> ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![C++](https://img.shields.io/badge/C/C%2B%2B-F5455C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 
 <img src="https://github.com/IsaacAlves7/IsaacAlves7/blob/output/snake.svg" alt="Snake animation" />
 
