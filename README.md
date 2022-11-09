@@ -22,7 +22,7 @@ I'm **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** studen
   
 <details><summary><b title="(click to open)">⚛️ Work status</b></summary><br />
 
-  <div align="center">
+  <div align="justify">
 
 <a href="https://github.com/IsaacAlves7">
 
