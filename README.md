@@ -20,7 +20,7 @@ I'm **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** studen
   "If i have seen further than others, it is by standing upon the shoulders of giants." - <i>Sir Isaac Newton</i>
 </blockquote>
   
-<details><summary><b title="(click to open)">⚛️ Work status</b></summary><br />
+<details><summary><b title="(click to open)">Work status</b></summary><br />
 
   <div align="justify">
 
