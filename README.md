@@ -1,6 +1,5 @@
 <!-- 🆕+Visit+my+portfolio+website!; --> <a href="https://github.com/IsaacAlves7"><!-- <img height="24" src="https://github.com/IsaacAlves7/portfolio/blob/favicon/favicon.svg" align="right" title="NEW! Visit my portfolio website! 🎉"> --><img src="https://visitor-badge.glitch.me/badge?page_id=isaacalves7.visitor-badge" align="right"/></a>
 <!------------------------------------------------------------------------------ Dropdown ---------------------------------------------------------------------------->
-
 <details><summary><b title="(click to open)">:octocat: About me</b></summary><br />
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=326CE5&lines=👋🏾+Hello,+World!;👨🏾‍🔬+Welcome+to+my+lab!;👨🏾‍💻+I+want+share+my+studies+here!;💾+Feel+free+to+let+any+doubt!;🐑+Going+beyond+expectations!;💪🏾+I'm+trying+to+do+better!;⚛️+Data+Science+at+Globoplay!;%7C"/></a>
   
@@ -22,13 +21,15 @@ I'm **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** studen
   
 <details><summary><b title="(click to open)">Work status</b></summary><br />
 
-  <div align="justify">
+<div align="justify">
 
 ![Ruby](https://img.shields.io/badge/Ruby-7A1814?style=for-the-badge&logo=ruby&logoColor=white) ![C++](https://img.shields.io/badge/C/C%2B%2B-F5455C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffd60a) ![Java](https://img.shields.io/badge/Java-bb6528?style=for-the-badge&logo=Oracle&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Objective-C](https://img.shields.io/badge/Objective-C-0095D5?&style=for-the-badge&logo=Apple&logoColor=white) ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white) ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-F29D0C?style=for-the-badge&logo=Amazon-RDS&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-9013FE?style=for-the-badge&logo=Kotlin&logoColor=white)
 
 <a href="https://github.com/IsaacAlves7">
     
 <img src="https://github.com/IsaacAlves7/IsaacAlves7/blob/output/snake.svg" alt="Snake animation" />
+
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"><img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="enter image description here" style="width: 70%;"></a></p>
 
 </a>   
     
