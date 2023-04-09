@@ -33,7 +33,7 @@ I'm **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** studen
 ![Objective-C](https://img.shields.io/badge/Objective-C-0095D5?&style=for-the-badge&logo=Apple&logoColor=white)
 <a href="https://elixir-lang.org/learning.html">![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)</a>
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<a href="https://www.python.org/doc/">![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</a>
 <a href="https://cloud.google.com/bigquery/docs/creating-partitioned-tables?hl=pt-br#sql_2">![SQL](https://img.shields.io/badge/SQL-F29D0C?style=for-the-badge&logo=Amazon-RDS&logoColor=white)</a>
 <a href="https://kotlinlang.org/docs/home.html">![Kotlin](https://img.shields.io/badge/Kotlin-9013FE?style=for-the-badge&logo=Kotlin&logoColor=white)</a>
 
