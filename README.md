@@ -29,7 +29,7 @@ I'm **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** studen
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">![JS](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffd60a)</a>
 ![Java](https://img.shields.io/badge/Java-bb6528?style=for-the-badge&logo=Oracle&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<a href="https://www.php.net/manual/en/">![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)</a>
 ![Objective-C](https://img.shields.io/badge/Objective-C-0095D5?&style=for-the-badge&logo=Apple&logoColor=white)
 <a href="https://elixir-lang.org/learning.html">![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)</a>
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
