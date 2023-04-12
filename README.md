@@ -5,7 +5,7 @@
   
 I'm **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** student and very interested in **[`DevOps`](https://roadmap.sh/roadmaps/devops.png)**, **[`Software Development`](https://pbs.twimg.com/media/E9c8-2EUcAQRBF1?format=jpg&name=large)** and **[`Data Science`](https://i.pinimg.com/736x/ad/2d/4e/ad2d4e16d7b9be46b2a3024c12c0ee80.jpg)**.
 
-<a href="#"><img align="right" height="107em" src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png"></a>
+<a href="https://dev.to/isaacalves7"><img align="right" height="107em" src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png"></a>
   
 - 🍎 **Studying:** DevSecOps, Data Science and Full-Stack Development;
 - &nbsp;△&nbsp;  **Focusing**: Computer Science studies;
