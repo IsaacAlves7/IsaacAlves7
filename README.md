@@ -1,5 +1,5 @@
-<!-- 🆕+Visit+my+portfolio+website!; --> <a href="https://github.com/IsaacAlves7"><!-- <img height="24" src="https://github.com/IsaacAlves7/portfolio/blob/favicon/favicon.svg" align="right" title="NEW! Visit my portfolio website! 🎉"> -->
-<!------------------------------------------------------------------------------ Dropdown ---------------------------------------------------------------------------->
+<!-- <a href="https://github.com/IsaacAlves7"><img height="24" src="https://github.com/IsaacAlves7/portfolio/blob/favicon/favicon.svg" align="right" title="NEW! Visit my portfolio website! 🎉"></a> -->
+
 <details><summary><b title="(click to open)">:octocat: About me</b></summary><br />
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=326CE5&lines=👋🏾+Hello,+World!;👨🏾‍🔬+Welcome+to+my+lab!;👨🏾‍💻+I+want+share+my+studies+here!;💾+Feel+free+to+let+any+doubt!;🐑+Going+beyond+expectations!;💪🏾+I'm+trying+to+do+better!;⚛️+Data+Science+at+Globoplay!;%7C"/></a>
   
