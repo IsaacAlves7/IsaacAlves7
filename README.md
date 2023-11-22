@@ -36,6 +36,10 @@ I'm **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** studen
 <a href="https://www.python.org/doc/">![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</a>
 <a href="https://cloud.google.com/bigquery/docs/creating-partitioned-tables?hl=pt-br#sql_2">![SQL](https://img.shields.io/badge/SQL-F29D0C?style=for-the-badge&logo=Amazon-RDS&logoColor=white)</a>
 <a href="https://kotlinlang.org/docs/home.html">![Kotlin](https://img.shields.io/badge/Kotlin-9013FE?style=for-the-badge&logo=Kotlin&logoColor=white)</a>
+<a href="https://kotlinlang.org/docs/home.html">![Rust](https://img.shields.io/badge/Rust-brown?style=for-the-badge&logo=Rust&logoColor=white)</a>
+<a href="https://kotlinlang.org/docs/home.html">![Erlang](https://img.shields.io/badge/Erlang-722F37?style=for-the-badge&logo=Erlang&logoColor=white)</a>
+<a href="https://kotlinlang.org/docs/home.html">![Scala](https://img.shields.io/badge/Scala-ff0000?style=for-the-badge&logo=Scala&logoColor=white)</a>
+<a href="https://kotlinlang.org/docs/home.html">![Clojure](https://img.shields.io/badge/Clojure-limegreen?style=for-the-badge&logo=Clojure&logoColor=white)</a>
 
 <a href="https://github.com/IsaacAlves7">
     
