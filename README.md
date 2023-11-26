@@ -39,7 +39,7 @@ I'm **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** studen
 <a href="https://kotlinlang.org/docs/home.html">![Rust](https://img.shields.io/badge/Rust-brown?style=for-the-badge&logo=Rust&logoColor=white)</a>
 <a href="https://kotlinlang.org/docs/home.html">![Erlang](https://img.shields.io/badge/Erlang-722F37?style=for-the-badge&logo=Erlang&logoColor=white)</a>
 <a href="https://kotlinlang.org/docs/home.html">![Scala](https://img.shields.io/badge/Scala-ff0000?style=for-the-badge&logo=Scala&logoColor=white)</a>
-<a href="https://kotlinlang.org/docs/home.html">![Clojure](https://img.shields.io/badge/Clojure-limegreen?style=for-the-badge&logo=Clojure&logoColor=white)</a>
+<a href="https://kotlinlang.org/docs/home.html">![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=Clojure&logoColor=white)</a>
 
 <a href="https://github.com/IsaacAlves7">
     
