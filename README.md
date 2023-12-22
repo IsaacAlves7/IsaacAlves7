@@ -5,7 +5,7 @@ I'm **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** studen
 
 <img src="https://github.com/IsaacAlves7/IsaacAlves7/assets/61624336/87708cc8-8958-4bdc-a77a-faa74e7dd977" align="right" height="77">
   
-- 🍎   &nbsp;&nbsp; **Studying:** DevSecOps, Data Science and Full-Stack Development;
+- 🍎   &nbsp;&nbsp; **Studying:** DevSecOps;
 - 🔭   &nbsp;&nbsp; **Colaborating**: <a href="https://www.globo.com">Globo</a>;
 - 🌈⃤   &nbsp;&nbsp; **Focusing**: Computer Science studies.
 
