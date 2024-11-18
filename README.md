@@ -1,13 +1,13 @@
 <details><summary><b title="(click to open)">:octocat: About me <!-- <a href="https://isaacalves7.com"><img height="27" src="https://raw.githubusercontent.com/IsaacAlves7/portfolio/c7b613d7c2df373946810ea765923efd6414ca4a/public/icons/IsaacAlves7.svg?token=AOWFAED66TKMK3FCSRZXQ4TEJQNHS" align="right" title="NEW! Visit my portfolio website! 🎉"></a> --> </b></summary><br />
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=326CE5&lines=👋🏾+Hello,+World!;👨🏾‍🔬+Welcome+to+my+lab!;👨🏾‍💻+I+want+share+my+studies+here!;💾+Feel+free+to+let+any+doubt!;🐑+Going+beyond+expectations!;💪🏾+I'm+trying+to+do+better!;⚛️+Data+Science+at+Globoplay!;%7C"/></a>
   
-I'm graduate in **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** and very interested in **[`DevOps`](https://roadmap.sh/roadmaps/devops.png)**, **[`Software Development`](https://pbs.twimg.com/media/E9c8-2EUcAQRBF1?format=jpg&name=large)** and **[`Data Science`](https://i.pinimg.com/736x/ad/2d/4e/ad2d4e16d7b9be46b2a3024c12c0ee80.jpg)**.
+I'm graduate in **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** and focused in **[`Software Development`](https://pbs.twimg.com/media/E9c8-2EUcAQRBF1?format=jpg&name=large)**.
 
 <img src="https://github.com/IsaacAlves7/IsaacAlves7/assets/61624336/87708cc8-8958-4bdc-a77a-faa74e7dd977" align="right" height="77">
   
 - 🍎   &nbsp;&nbsp; **Studying:** DevSecOps;
 
-<!-- 🔭   &nbsp;&nbsp; **Colaborating**: <a href="https://www.globo.com">Globo</a>; -->
+- 🔭   &nbsp;&nbsp; **Colaborating**: <a href=""></a>;
 
 - 🌈⃤   &nbsp;&nbsp; **Focusing**: Computer Science studies.
 
