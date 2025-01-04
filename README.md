@@ -1,6 +1,6 @@
 <img height="27" src="https://raw.githubusercontent.com/IsaacAlves7/portfolio/c7b613d7c2df373946810ea765923efd6414ca4a/public/icons/IsaacAlves7.svg?token=AOWFAED66TKMK3FCSRZXQ4TEJQNHS" align="right" title="NEW! Visit my portfolio website! 🎉"></a>
 
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=326CE5&lines=👋🏾+Hello,+World!;👨🏾‍🔬+Welcome+to+my+lab!;👨🏾‍💻+I+want+share+my+studies+here!;💾+Feel+free+to+let+any+doubt!;🐑+Going+beyond+expectations!;💪🏾+I'm+trying+to+do+better!;⚛️+Data+Science+at+Globoplay!;%7C"/></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=326CE5&lines=👋🏾+Hello,+World!;👨🏾‍🔬+Welcome+to+my+lab!;👨🏾‍💻+I+want+share+my+studies+here!;💾+Feel+free+to+let+any+doubt!;🐑+Going+beyond+expectations!;⚛️+Data+Science;%7C"/></a>
   
 I'm graduate in **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** and focused in **[`Software Development`](https://pbs.twimg.com/media/E9c8-2EUcAQRBF1?format=jpg&name=large)**.
 
