@@ -6,11 +6,11 @@ I'm graduate in **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_R
 
 <img src="https://github.com/IsaacAlves7/IsaacAlves7/assets/61624336/87708cc8-8958-4bdc-a77a-faa74e7dd977" align="right" height="77">
   
-- 🍎   &nbsp;&nbsp; **Studying:** DevSecOps;
+- 🍎   &nbsp;&nbsp; **Studying:** FullStack Development, DevSecOps, Data Science, Data Engeneering and Data Analysis;
 
 - 🔭   &nbsp;&nbsp; **Colaborating**: <a href=""></a>;
 
-- 🌈⃤   &nbsp;&nbsp; **Focusing**: Computer Science studies.
+- 🌈⃤   &nbsp;&nbsp; **Focusing**: Computer Science.
 
 <!-- ☕ **Support**: 
 <code> ![Github-sponsors](https://img.shields.io/badge/sponsor-f9f7f7?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA) <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="29"  width="121" alt="IsaacAlves7" /> ![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white) </code> -->
