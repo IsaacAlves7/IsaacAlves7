@@ -8,7 +8,7 @@ I'm graduate in **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_R
   
 - 🍎   &nbsp;&nbsp; **Studying:** FullStack Development, DevSecOps, Data Science, Data Engeneering and Data Analysis;
 
-- 🔭   &nbsp;&nbsp; **Colaborating**: <a href=""></a>;
+- 🔭   &nbsp;&nbsp; **Colaborating**: To open-source;
 
 - 🌈⃤   &nbsp;&nbsp; **Focusing**: Computer Science.
 
