@@ -1,5 +1,3 @@
-<a href=""><img height="27" src="" align="right" title="NEW! Visit my portfolio website! 🎉"></a>
-
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=326CE5&lines=👋🏾+Hello,+World!;👨🏾‍🔬+Welcome+to+my+lab!;👨🏾‍💻+I+want+share+my+studies+here!;💾+Feel+free+to+let+any+doubt!;🐑+Going+beyond+expectations!;⚛️+Data+Science;%7C"/></a>
   
 I'm graduate in **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** and focused in **[`Software Development`](https://pbs.twimg.com/media/E9c8-2EUcAQRBF1?format=jpg&name=large)**.
