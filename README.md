@@ -4,8 +4,8 @@ I'm graduate in **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_R
 
 <img src="https://github.com/IsaacAlves7/IsaacAlves7/assets/61624336/87708cc8-8958-4bdc-a77a-faa74e7dd977" align="right" height="77">
   
-- 🍎 **Studying:** FullStack Development, DevSecOps, Data Science, Data Engeneering and Data Analysis;
-
+- 🍎 **Studying:** FullStack Development, DevSecOps, Data Science;
+  
 - 🔭 **Colaborating**: To open-source;
 
 - 🌈 **Focusing**: Computer Science.
