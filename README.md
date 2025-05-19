@@ -1,8 +1,8 @@
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=326CE5&lines=👋🏾+Hello,+World!;👨🏾‍🔬+Welcome+to+my+lab!;👨🏾‍💻+I+want+share+my+studies+here!;💾+Feel+free+to+let+any+doubt!;🐑+Going+beyond+expectations!;⚛️+Data+Science;%7C"/></a>
-  
-I'm graduate in **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** and focused in **[`Software Development`](https://pbs.twimg.com/media/E9c8-2EUcAQRBF1?format=jpg&name=large)**.
 
-<img src="https://github.com/IsaacAlves7/IsaacAlves7/assets/61624336/87708cc8-8958-4bdc-a77a-faa74e7dd977" align="right" height="77">
+<img src="https://github.com/IsaacAlves7/IsaacAlves7/assets/61624336/87708cc8-8958-4bdc-a77a-faa74e7dd977" align="right" height="177">
+
+I'm graduate in **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** and focused in **[`Software Development`](https://pbs.twimg.com/media/E9c8-2EUcAQRBF1?format=jpg&name=large)**.
   
 - 🍎 **Continuous learning:** FullStack Development, DevSecOps, Data Science;
   
