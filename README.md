@@ -4,7 +4,7 @@
 
 I'm a graduate in **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** and focused in **[`Software Development`](https://pbs.twimg.com/media/E9c8-2EUcAQRBF1?format=jpg&name=large)**.
   
-- 🍎 **Continuous learning:** FullStack Development, DevSecOps, Data Science;
+- 🍎 **Continuous learning:** Software Development, DevSecOps, Data Science;
   
 - 🔭 **Colaborating**: To open-source;
 
