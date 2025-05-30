@@ -27,8 +27,8 @@ I'm a graduate in **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA
 <a href="https://www.ruby-lang.org/pt/">![Ruby](https://img.shields.io/badge/Ruby-7A1814?style=for-the-badge&logo=ruby&logoColor=white)</a>
 <a href="https://cplusplus.com/">![C++](https://img.shields.io/badge/C/C%2B%2B-F5455C?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
 <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/">![C#](https://img.shields.io/badge/C--Sharp-239120?style=for-the-badge&logo=sharp&logoColor=white)</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">![JS](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffd60a)</a>
-<a href="">![Java](https://img.shields.io/badge/Java-bb6528?style=for-the-badge&logo=openjdk&logoColor=white)</a>
+<a href="https://github.com/IsaacAlves7?tab=repositories&q=&type=&language=javascript&sort=">![JS](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffd60a)</a>
+<a href="https://github.com/IsaacAlves7?tab=repositories&q=&type=&language=java&sort=">![Java](https://img.shields.io/badge/Java-bb6528?style=for-the-badge&logo=openjdk&logoColor=white)</a>
 <a href="https://www.php.net/manual/en/">![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)</a>
 <a href="https://www.python.org/doc/">![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</a>
 <a href="https://cloud.google.com/bigquery/docs/creating-partitioned-tables?hl=pt-br#sql_2">![SQL](https://img.shields.io/badge/SQL-F29D0C?style=for-the-badge&logo=Amazon-RDS&logoColor=white)</a>
