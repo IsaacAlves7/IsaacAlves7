@@ -2,7 +2,7 @@
 
 <img src="https://github.com/IsaacAlves7/IsaacAlves7/assets/61624336/87708cc8-8958-4bdc-a77a-faa74e7dd977" align="right" height="177">
 
-I'm graduate in **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** and focused in **[`Software Development`](https://pbs.twimg.com/media/E9c8-2EUcAQRBF1?format=jpg&name=large)**.
+I'm a graduate in **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA_RaA)** and focused in **[`Software Development`](https://pbs.twimg.com/media/E9c8-2EUcAQRBF1?format=jpg&name=large)**.
   
 - 🍎 **Continuous learning:** FullStack Development, DevSecOps, Data Science;
   
