@@ -18,7 +18,7 @@ I'm a graduate in **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA
   "If i have seen further than others, it is by standing upon the shoulders of giants." - <i>Sir Isaac Newton</i>
 </blockquote>
   
-<details><summary><b title="(click to open)">Work status</b></summary><br />
+<details><summary><b title="(click to open)">⚛️ Work status</b></summary><br />
 
 <a href="https://dev.to/isaacalves7"><img align="right" height="77" src="https://user-images.githubusercontent.com/61624336/115090011-0fd3b280-9eea-11eb-85ed-cd4ff8874740.png"></a>
 
