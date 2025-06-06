@@ -31,7 +31,7 @@ I'm a graduate in **[`Computer Science`](https://www.youtube.com/watch?v=SzJ46YA
 <a href="https://github.com/IsaacAlves7?tab=repositories&q=&type=&language=java&sort=">![Java](https://img.shields.io/badge/Java-bb6528?style=for-the-badge&logo=openjdk&logoColor=white)</a>
 <a href="https://github.com/IsaacAlves7?tab=repositories&q=&type=&language=php&sort=">![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)</a>
 <a href="https://github.com/IsaacAlves7?tab=repositories&q=&type=&language=python&sort=">![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</a>
-<a href="https://github.com/IsaacAlves7?tab=repositories&q=&type=&language=tsql&sort=">![SQL](https://img.shields.io/badge/SQL-F29D0C?style=for-the-badge&logo=Amazon-RDS&logoColor=white)</a>
+<a href="https://github.com/IsaacAlves7?tab=repositories&q=&type=&language=go&sort=">![SQL](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)</a>
 <!--
 <a href="">![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)</a>
 ![Objective-C](https://img.shields.io/badge/Objective-C-0095D5?&style=for-the-badge&logo=Apple&logoColor=white)
