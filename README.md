@@ -1,3 +1,5 @@
+<img align="right" src="https://github.com/user-attachments/assets/a1574bde-8f83-4526-8ba7-83815a6a3724"  width="400">
+
 [![Chat](https://github.com/IsaacAlves7/IsaacAlves7/blob/main/chat.svg)]()
 
 ---
