@@ -1,4 +1,4 @@
-[![Chat](https://github.com/IsaacAlves7/IsaacAlves7/blob/master/chat.svg)]()
+[![Chat](https://github.com/IsaacAlves7/IsaacAlves7/blob/main/chat.svg)]()
 
 ---
 
