@@ -30,9 +30,7 @@
   
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="IsaacAlves7's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=IsaacAlves7&bg_color=1F222E&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true" /></a>
 
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/IsaacAlves7/custom-icon-badges -->
-<!-- View counter - https://github.com/IsaacAlves7/Simple-View-Counter -->
+![trophy](https://github.com/IsaacAlves7/IsaacAlves7/blob/main/profile-night-rainbow.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=IsaacAlves7)](https://github.com/ryo-ma/github-profile-trophy)
 
