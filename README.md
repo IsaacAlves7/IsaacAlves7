@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/user-attachments/assets/a1574bde-8f83-4526-8ba7-83815a6a3724"  height="277">
+<img align="right" src="https://github.com/user-attachments/assets/a1574bde-8f83-4526-8ba7-83815a6a3724"  height="177">
 
 [![Chat](https://github.com/IsaacAlves7/IsaacAlves7/blob/main/chat.svg)]()
 
