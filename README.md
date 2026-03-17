@@ -18,7 +18,6 @@
 
 <div align="center">
 <a href="https://commitworth.fun/dashboard/IsaacAlves7"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAlves7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="577"></a>
-<a href="https://github.com/IsaacAlves7?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2" height="377" alt="@IsaacAlves7's trophy stats"/></a>
 </div>
 
 <div align="center">
@@ -30,9 +29,7 @@
   
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="IsaacAlves7's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=IsaacAlves7&bg_color=1F222E&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true" /></a>
 
-![trophy](https://github.com/IsaacAlves7/IsaacAlves7/blob/main/profile-night-rainbow.svg)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=IsaacAlves7)](https://github.com/ryo-ma/github-profile-trophy)
+![Commits charts](https://github.com/IsaacAlves7/IsaacAlves7/blob/main/profile-night-rainbow.svg)
 
 </details>
 </div>
