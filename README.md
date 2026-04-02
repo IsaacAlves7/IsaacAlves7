@@ -4,11 +4,6 @@
 <div align="center">
 <details> 
   <summary><b>📊 (Click here to view) Github Dashboard: Stats and Activities</b></summary><br />
-
-<div align="center">
-<a href="https://commitworth.fun/dashboard/IsaacAlves7"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAlves7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="577"></a>
-<img src="https://github-readme-stats.vercel.app/api?username=IsaacAlves7&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="172">
-</div>
   
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IsaacAlves7&theme=dark&hide_border=false&card_width=795&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
