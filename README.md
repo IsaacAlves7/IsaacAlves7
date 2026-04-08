@@ -1,4 +1,4 @@
-[![Chat](https://github.com/IsaacAlves7/IsaacAlves7/blob/main/chat.svg)](mailto:isaac.alves0720@gmail.com)
+<!-- [![Chat](https://github.com/IsaacAlves7/IsaacAlves7/blob/main/chat.svg)](mailto:isaac.alves0720@gmail.com)  -->
 
 <!-- ![Isaac's GitHub stats](https://beautiful-github-homepage.vercel.app/api?username=IsaacAlves7&theme=dark&show_icons=true) -->
 <div align="center">
