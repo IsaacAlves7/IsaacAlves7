@@ -5,7 +5,7 @@
 <details> 
   <summary><b>📊 (Click here to view) IsaacAlves7's Github Dashboard: Stats and Activities</b></summary><br />
 
-<a href="https://commitworth.fun/dashboard/IsaacAlves7"><img src="https://github.com/IsaacAlves7/IsaacAlves7/blob/main/profile-night-rainbow.svg"></a>
+<a href="#"><img src="https://github.com/IsaacAlves7/IsaacAlves7/blob/main/profile-night-rainbow.svg"></a>
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IsaacAlves7&theme=dark&hide_border=false&card_width=795&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
